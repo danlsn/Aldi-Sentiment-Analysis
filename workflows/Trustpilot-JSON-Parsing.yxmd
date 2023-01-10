@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="54">C:\Users\DanielLawson\IdeaProjects\Aldi-Sentiment-Analysis\data\aldi-trustpilot-reviews.json</File>
+          <FormatSpecificOptions>
+            <SingleField>True</SingleField>
+            <CodePage>65001</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>aldi-trustpilot-reviews.json</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Input: " type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Input: " type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="162" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>JSON_Name</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>
+          </RootName>
+          <Delimeters value="." />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="270" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+          </GroupFields>
+          <HeaderField field="2" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="_id" size="2048" source="CrossTab:Header:2:@id:Concat:" type="V_WString" />
+            <Field name="_type" size="2048" source="CrossTab:Header:2:@type:Concat:" type="V_WString" />
+            <Field name="author__type" size="2048" source="CrossTab:Header:2:author.@type:Concat:" type="V_WString" />
+            <Field name="author_name" size="2048" source="CrossTab:Header:2:author.name:Concat:" type="V_WString" />
+            <Field name="author_url" size="2048" source="CrossTab:Header:2:author.url:Concat:" type="V_WString" />
+            <Field name="datePublished" size="2048" source="CrossTab:Header:2:datePublished:Concat:" type="V_WString" />
+            <Field name="headline" size="2048" source="CrossTab:Header:2:headline:Concat:" type="V_WString" />
+            <Field name="inLanguage" size="2048" source="CrossTab:Header:2:inLanguage:Concat:" type="V_WString" />
+            <Field name="itemReviewed__id" size="2048" source="CrossTab:Header:2:itemReviewed.@id:Concat:" type="V_WString" />
+            <Field name="publisher__id" size="2048" source="CrossTab:Header:2:publisher.@id:Concat:" type="V_WString" />
+            <Field name="reviewBody" size="2048" source="CrossTab:Header:2:reviewBody:Concat:" type="V_WString" />
+            <Field name="reviewRating__type" size="2048" source="CrossTab:Header:2:reviewRating.@type:Concat:" type="V_WString" />
+            <Field name="reviewRating_bestRating" size="2048" source="CrossTab:Header:2:reviewRating.bestRating:Concat:" type="V_WString" />
+            <Field name="reviewRating_ratingValue" size="2048" source="CrossTab:Header:2:reviewRating.ratingValue:Concat:" type="V_WString" />
+            <Field name="reviewRating_worstRating" size="2048" source="CrossTab:Header:2:reviewRating.worstRating:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Trustpilot-JSON-Parsing</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="b610172e-644d-41d9-81fb-207229646994" />
+      <Telemetry>
+        <PreviousWorkflowId value="e8a768b3-1864-4233-81f3-e9e0ac98e35a" />
+        <OriginWorkflowId value="e8a768b3-1864-4233-81f3-e9e0ac98e35a" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

@@ -1,0 +1,2395 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxConnectorGui.Download.Download">
+        <Position x="330" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <URLField>request_url</URLField>
+          <OutputMode>String</OutputMode>
+          <CodePage>65001</CodePage>
+          <EncodeURLs value="True" />
+          <Headers>
+            <NameValues />
+            <Fields orderChanged="False">
+              <Field name="Authorization" />
+              <Field name="company" selected="False" />
+              <Field name="type" selected="False" />
+              <Field name="request_url" selected="False" />
+              <Field name="pagination_token" selected="False" />
+              <Field name="expansions" selected="False" />
+              <Field name="tweet.fields" selected="False" />
+              <Field name="user.fields" selected="False" />
+              <Field name="media.fields" selected="False" />
+              <Field name="place.fields" selected="False" />
+              <Field name="start_time" selected="False" />
+              <Field name="end_time" selected="False" />
+              <Field name="max_results" selected="False" />
+              <Field name="*Unknown" selected="False" />
+            </Fields>
+          </Headers>
+          <Payload>
+            <HTTPAction>GET</HTTPAction>
+            <QueryStringBodyMode>Compose</QueryStringBodyMode>
+            <ComposeNameValues />
+            <ComposeFields orderChanged="False">
+              <Field name="pagination_token" />
+              <Field name="expansions" />
+              <Field name="tweet.fields" />
+              <Field name="user.fields" />
+              <Field name="media.fields" />
+              <Field name="place.fields" />
+              <Field name="max_results" />
+              <Field name="company" selected="False" />
+              <Field name="type" selected="False" />
+              <Field name="request_url" selected="False" />
+              <Field name="start_time" selected="False" />
+              <Field name="end_time" selected="False" />
+              <Field name="Authorization" selected="False" />
+              <Field name="*Unknown" selected="False" />
+            </ComposeFields>
+          </Payload>
+          <numConnections>2</numConnections>
+          <Timeout>600</Timeout>
+          <EnableRPM value="False" />
+          <DcmAdvancedAuth value="False" />
+          <Password />
+          <UserName />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="company" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="type" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="request_url" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="pagination_token" source="TextInput:" type="Bool" />
+            <Field name="expansions" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="tweet.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="user.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="media.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="place.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="start_time" source="TextInput:" type="Bool" />
+            <Field name="end_time" source="TextInput:" type="Bool" />
+            <Field name="max_results" source="TextInput:" type="Int32" />
+            <Field name="Authorization" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="DownloadData" size="1073741823" source="Download" type="V_WString" />
+            <Field name="DownloadHeaders" size="2147483647" source="Download" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxConnectorEngine.dll" EngineDllEntryPoint="AlteryxDownload" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="426" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="DownloadData" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="DownloadData" size="1073741823" source="Download" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.JSONParse.JSONParse">
+        <Position x="522" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <JSON_Field>DownloadData</JSON_Field>
+          <IncludeInOutput value="False" />
+          <SingleField value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJSONParse" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="714" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>REGEX_Match([JSON_Name], "^data\.\d+.*$")</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>REGEX_Match([JSON_Name], "^data\.\d+.*$")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="618" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>JSON_Name</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>
+          </RootName>
+          <Delimeters value="." />
+          <NumFields value="8" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="810" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNull</Operator>
+            <Field>4</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-01-10 11:26:28</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2023-01-10 11:26:28</StartDate>
+              <EndDate>2023-01-10 11:26:28</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IsNull([4])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="978" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+            <Field field="resource_type" />
+          </GroupFields>
+          <HeaderField field="3" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="author_id" size="2048" source="CrossTab:Header:3:author_id:Concat:" type="V_WString" />
+            <Field name="conversation_id" size="2048" source="CrossTab:Header:3:conversation_id:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:3:created_at:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:3:id:Concat:" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="2048" source="CrossTab:Header:3:in_reply_to_user_id:Concat:" type="V_WString" />
+            <Field name="lang" size="2048" source="CrossTab:Header:3:lang:Concat:" type="V_WString" />
+            <Field name="possibly_sensitive" size="2048" source="CrossTab:Header:3:possibly_sensitive:Concat:" type="V_WString" />
+            <Field name="reply_settings" size="2048" source="CrossTab:Header:3:reply_settings:Concat:" type="V_WString" />
+            <Field name="text" size="2048" source="CrossTab:Header:3:text:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="810" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>2</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-01-10 11:27:57</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>tweets</Operand>
+              <StartDate>2023-01-10 11:27:57</StartDate>
+              <EndDate>2023-01-10 11:27:57</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[2] = "tweets"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="978" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNull</Operator>
+            <Field>5</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-01-10 11:28:23</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2023-01-10 11:28:23</StartDate>
+              <EndDate>2023-01-10 11:28:23</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IsNull([5])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="Formula: ToString(ToNumber([3]) + 100)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="Formula: ToString(ToNumber([3]) + 100)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1086" y="570" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+            <Field field="3" />
+          </GroupFields>
+          <HeaderField field="4" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="First" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field name="author_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="conversation_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="created_at" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="lang" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="possibly_sensitive" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="reply_settings" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="text" size="1073741823" source="JSON_Parse" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="978" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression><![CDATA[[3] IN ("public_metrics", "edit_controls") ]]></Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[[3] IN ("public_metrics", "edit_controls") ]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1086" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+          </GroupFields>
+          <HeaderField field="4" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:4:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:4:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:4:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:4:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:4:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:4:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:4:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:4:retweet_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1086" y="666" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression><![CDATA[[4] IN ("public_metrics", "edit_controls") ]]></Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[[4] IN ("public_metrics", "edit_controls") ]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="Formula: ToString(ToNumber([3]) + 100)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="Formula: ToString(ToNumber([3]) + 100)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1194" y="654" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+            <Field field="3" />
+          </GroupFields>
+          <HeaderField field="5" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:5:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:5:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:5:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:5:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:5:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:5:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:5:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:5:retweet_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1194" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="1" />
+            <Field field="2" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="1" />
+            <Field field="2" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_1" selected="True" rename="section" input="Left_" />
+                <SelectField field="Left_2" selected="True" rename="Row_ID" input="Left_" />
+                <SelectField field="Right_1" selected="False" rename="Right_1" input="Right_" />
+                <SelectField field="Right_2" selected="False" rename="Right_2" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="author_id" size="2048" source="CrossTab:Header:3:author_id:Concat:" type="V_WString" />
+            <Field name="conversation_id" size="2048" source="CrossTab:Header:3:conversation_id:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:3:created_at:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:3:id:Concat:" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="2048" source="CrossTab:Header:3:in_reply_to_user_id:Concat:" type="V_WString" />
+            <Field name="lang" size="2048" source="CrossTab:Header:3:lang:Concat:" type="V_WString" />
+            <Field name="possibly_sensitive" size="2048" source="CrossTab:Header:3:possibly_sensitive:Concat:" type="V_WString" />
+            <Field name="reply_settings" size="2048" source="CrossTab:Header:3:reply_settings:Concat:" type="V_WString" />
+            <Field name="text" size="2048" source="CrossTab:Header:3:text:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="author_id" size="2048" source="CrossTab:Header:3:author_id:Concat:" type="V_WString" />
+            <Field name="conversation_id" size="2048" source="CrossTab:Header:3:conversation_id:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:3:created_at:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:3:id:Concat:" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="2048" source="CrossTab:Header:3:in_reply_to_user_id:Concat:" type="V_WString" />
+            <Field name="lang" size="2048" source="CrossTab:Header:3:lang:Concat:" type="V_WString" />
+            <Field name="possibly_sensitive" size="2048" source="CrossTab:Header:3:possibly_sensitive:Concat:" type="V_WString" />
+            <Field name="reply_settings" size="2048" source="CrossTab:Header:3:reply_settings:Concat:" type="V_WString" />
+            <Field name="text" size="2048" source="CrossTab:Header:3:text:Concat:" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:4:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:4:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:4:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:4:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:4:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:4:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:4:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:4:retweet_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:4:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:4:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:4:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:4:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:4:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:4:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:4:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:4:retweet_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1302" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="2" />
+            <Field field="3" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="2" />
+            <Field field="3" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_1" selected="True" rename="section" input="Left_" />
+                <SelectField field="Left_2" selected="True" rename="resource_type" input="Left_" />
+                <SelectField field="Left_3" selected="True" rename="Row_ID" input="Left_" />
+                <SelectField field="Right_1" selected="False" rename="Right_1" input="Right_" />
+                <SelectField field="Right_2" selected="False" rename="Right_2" input="Right_" />
+                <SelectField field="Right_3" selected="False" rename="Right_3" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field name="author_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="conversation_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="created_at" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="lang" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="possibly_sensitive" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="reply_settings" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="text" size="1073741823" source="JSON_Parse" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="resource_type" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab:Group:First:" type="V_WString" />
+            <Field name="author_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="conversation_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="created_at" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="lang" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="possibly_sensitive" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="reply_settings" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="text" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:5:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:5:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:5:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:5:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:5:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:5:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:5:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:5:retweet_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:5:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:5:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:5:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:5:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:5:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:5:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:5:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:5:retweet_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1554" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="author_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="conversation_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="created_at" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="lang" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="possibly_sensitive" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="reply_settings" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="text" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="mentions_0_end" size="2048" source="CrossTab:Header:pivot_col:mentions_0_end:Concat:" type="V_WString" />
+            <Field name="mentions_0_id" size="2048" source="CrossTab:Header:pivot_col:mentions_0_id:Concat:" type="V_WString" />
+            <Field name="mentions_0_start" size="2048" source="CrossTab:Header:pivot_col:mentions_0_start:Concat:" type="V_WString" />
+            <Field name="mentions_0_username" size="2048" source="CrossTab:Header:pivot_col:mentions_0_username:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_id" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_id:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_type" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_type:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1662" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Row_ID" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Row_ID - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="author_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="conversation_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="created_at" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="lang" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="possibly_sensitive" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="reply_settings" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="text" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="mentions_0_end" size="2048" source="CrossTab:Header:pivot_col:mentions_0_end:Concat:" type="V_WString" />
+            <Field name="mentions_0_id" size="2048" source="CrossTab:Header:pivot_col:mentions_0_id:Concat:" type="V_WString" />
+            <Field name="mentions_0_start" size="2048" source="CrossTab:Header:pivot_col:mentions_0_start:Concat:" type="V_WString" />
+            <Field name="mentions_0_username" size="2048" source="CrossTab:Header:pivot_col:mentions_0_username:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_id" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_id:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_type" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_type:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="978" y="810" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>1</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-01-10 11:38:36</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>includes</Operand>
+              <StartDate>2023-01-10 11:38:36</StartDate>
+              <EndDate>2023-01-10 11:38:36</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[1] = "includes"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1086" y="966" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>1</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-01-10 11:39:25</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>errors</Operand>
+              <StartDate>2023-01-10 11:39:25</StartDate>
+              <EndDate>2023-01-10 11:39:25</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[1] = "errors"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1194" y="1050" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields />
+          <HeaderField field="JSON_Name" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="meta_newest_id" size="2048" source="CrossTab:Header:JSON_Name:meta.newest_id:Concat:" type="V_WString" />
+            <Field name="meta_next_token" size="2048" source="CrossTab:Header:JSON_Name:meta.next_token:Concat:" type="V_WString" />
+            <Field name="meta_oldest_id" size="2048" source="CrossTab:Header:JSON_Name:meta.oldest_id:Concat:" type="V_WString" />
+            <Field name="meta_result_count" size="2048" source="CrossTab:Header:JSON_Name:meta.result_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1194" y="954" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+          </GroupFields>
+          <HeaderField field="3" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="detail" size="2048" source="CrossTab:Header:3:detail:Concat:" type="V_WString" />
+            <Field name="parameter" size="2048" source="CrossTab:Header:3:parameter:Concat:" type="V_WString" />
+            <Field name="resource_id" size="2048" source="CrossTab:Header:3:resource_id:Concat:" type="V_WString" />
+            <Field name="resource_type" size="2048" source="CrossTab:Header:3:resource_type:Concat:" type="V_WString" />
+            <Field name="section" size="2048" source="CrossTab:Header:3:section:Concat:" type="V_WString" />
+            <Field name="title" size="2048" source="CrossTab:Header:3:title:Concat:" type="V_WString" />
+            <Field name="type" size="2048" source="CrossTab:Header:3:type:Concat:" type="V_WString" />
+            <Field name="value" size="2048" source="CrossTab:Header:3:value:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1086" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IIF([4] IN (&quot;public_metrics&quot;), [5], [4])" field="4" size="1073741823" type="V_WString" />
+            <FormulaField expression="IIF([4] = [5], Null(), [5])" field="5" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[4 = IIF([4] IN ("public_metrics"), [5], [4])
+5 = IIF([4] = [5], Null(), [5])
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="Formula: IIF([4] IN (&quot;public_metrics&quot;), [5], [4])" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="Formula: IIF([4] = [5], Null(), [5])" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1194" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNull</Operator>
+            <Field>5</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-01-10 11:44:32</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2023-01-10 11:44:32</StartDate>
+              <EndDate>2023-01-10 11:44:32</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IsNull([5])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="Formula: IIF([4] IN (&quot;public_metrics&quot;), [5], [4])" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="Formula: IIF([4] = [5], Null(), [5])" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="Formula: IIF([4] IN (&quot;public_metrics&quot;), [5], [4])" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="Formula: IIF([4] = [5], Null(), [5])" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1302" y="786" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+            <Field field="3" />
+          </GroupFields>
+          <HeaderField field="4" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:4:created_at:Concat:" type="V_WString" />
+            <Field name="description" size="2048" source="CrossTab:Header:4:description:Concat:" type="V_WString" />
+            <Field name="followers_count" size="2048" source="CrossTab:Header:4:followers_count:Concat:" type="V_WString" />
+            <Field name="following_count" size="2048" source="CrossTab:Header:4:following_count:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:4:id:Concat:" type="V_WString" />
+            <Field name="listed_count" size="2048" source="CrossTab:Header:4:listed_count:Concat:" type="V_WString" />
+            <Field name="location" size="2048" source="CrossTab:Header:4:location:Concat:" type="V_WString" />
+            <Field name="name" size="2048" source="CrossTab:Header:4:name:Concat:" type="V_WString" />
+            <Field name="pinned_tweet_id" size="2048" source="CrossTab:Header:4:pinned_tweet_id:Concat:" type="V_WString" />
+            <Field name="profile_image_url" size="2048" source="CrossTab:Header:4:profile_image_url:Concat:" type="V_WString" />
+            <Field name="protected" size="2048" source="CrossTab:Header:4:protected:Concat:" type="V_WString" />
+            <Field name="tweet_count" size="2048" source="CrossTab:Header:4:tweet_count:Concat:" type="V_WString" />
+            <Field name="url" size="2048" source="CrossTab:Header:4:url:Concat:" type="V_WString" />
+            <Field name="username" size="2048" source="CrossTab:Header:4:username:Concat:" type="V_WString" />
+            <Field name="verified" size="2048" source="CrossTab:Header:4:verified:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1554" y="786" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="1" selected="True" rename="section" />
+            <SelectField field="2" selected="True" rename="resource_type" />
+            <SelectField field="3" selected="True" rename="Row_ID" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:4:created_at:Concat:" type="V_WString" />
+            <Field name="description" size="2048" source="CrossTab:Header:4:description:Concat:" type="V_WString" />
+            <Field name="followers_count" size="2048" source="CrossTab:Header:4:followers_count:Concat:" type="V_WString" />
+            <Field name="following_count" size="2048" source="CrossTab:Header:4:following_count:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:4:id:Concat:" type="V_WString" />
+            <Field name="listed_count" size="2048" source="CrossTab:Header:4:listed_count:Concat:" type="V_WString" />
+            <Field name="location" size="2048" source="CrossTab:Header:4:location:Concat:" type="V_WString" />
+            <Field name="name" size="2048" source="CrossTab:Header:4:name:Concat:" type="V_WString" />
+            <Field name="pinned_tweet_id" size="2048" source="CrossTab:Header:4:pinned_tweet_id:Concat:" type="V_WString" />
+            <Field name="profile_image_url" size="2048" source="CrossTab:Header:4:profile_image_url:Concat:" type="V_WString" />
+            <Field name="protected" size="2048" source="CrossTab:Header:4:protected:Concat:" type="V_WString" />
+            <Field name="tweet_count" size="2048" source="CrossTab:Header:4:tweet_count:Concat:" type="V_WString" />
+            <Field name="url" size="2048" source="CrossTab:Header:4:url:Concat:" type="V_WString" />
+            <Field name="username" size="2048" source="CrossTab:Header:4:username:Concat:" type="V_WString" />
+            <Field name="verified" size="2048" source="CrossTab:Header:4:verified:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1302" y="858" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+            <Field field="3" />
+            <Field field="4" />
+            <Field field="5" />
+            <Field field="6" />
+            <Field field="7" />
+          </GroupFields>
+          <HeaderField field="8" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="display_url" size="2048" source="CrossTab:Header:8:display_url:Concat:" type="V_WString" />
+            <Field name="end" size="2048" source="CrossTab:Header:8:end:Concat:" type="V_WString" />
+            <Field name="expanded_url" size="2048" source="CrossTab:Header:8:expanded_url:Concat:" type="V_WString" />
+            <Field name="start" size="2048" source="CrossTab:Header:8:start:Concat:" type="V_WString" />
+            <Field name="tag" size="2048" source="CrossTab:Header:8:tag:Concat:" type="V_WString" />
+            <Field name="url" size="2048" source="CrossTab:Header:8:url:Concat:" type="V_WString" />
+            <Field name="username" size="2048" source="CrossTab:Header:8:username:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="906" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="ToString(ToNumber([3]) + 100)" field="3" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[3 = ToString(ToNumber([3]) + 100)
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="Formula: ToString(ToNumber([3]) + 100)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="906" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;tweets&quot;" field="resource_type" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[resource_type = "tweets"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="Formula: &quot;tweets&quot;" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1662" y="786" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Row_ID" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Row_ID - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:4:created_at:Concat:" type="V_WString" />
+            <Field name="description" size="2048" source="CrossTab:Header:4:description:Concat:" type="V_WString" />
+            <Field name="followers_count" size="2048" source="CrossTab:Header:4:followers_count:Concat:" type="V_WString" />
+            <Field name="following_count" size="2048" source="CrossTab:Header:4:following_count:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:4:id:Concat:" type="V_WString" />
+            <Field name="listed_count" size="2048" source="CrossTab:Header:4:listed_count:Concat:" type="V_WString" />
+            <Field name="location" size="2048" source="CrossTab:Header:4:location:Concat:" type="V_WString" />
+            <Field name="name" size="2048" source="CrossTab:Header:4:name:Concat:" type="V_WString" />
+            <Field name="pinned_tweet_id" size="2048" source="CrossTab:Header:4:pinned_tweet_id:Concat:" type="V_WString" />
+            <Field name="profile_image_url" size="2048" source="CrossTab:Header:4:profile_image_url:Concat:" type="V_WString" />
+            <Field name="protected" size="2048" source="CrossTab:Header:4:protected:Concat:" type="V_WString" />
+            <Field name="tweet_count" size="2048" source="CrossTab:Header:4:tweet_count:Concat:" type="V_WString" />
+            <Field name="url" size="2048" source="CrossTab:Header:4:url:Concat:" type="V_WString" />
+            <Field name="username" size="2048" source="CrossTab:Header:4:username:Concat:" type="V_WString" />
+            <Field name="verified" size="2048" source="CrossTab:Header:4:verified:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1086" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [3] = &quot;referenced_tweets&quot; THEN [3] + &quot;_&quot; + [4] + &quot;_&quot; + [5]&#xA;ELSEIF [4] = &quot;mentions&quot; THEN [4] + &quot;_&quot; + [5] + &quot;_&quot; + [6]&#xA;ELSE Null()&#xA;ENDIF" field="pivot_col" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>pivot_col = IF [3] = "referenced_tweets" THEN [3] + "_" + [4] + "_" + [5]
+ELSEIF...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field name="pivot_col" size="1073741823" source="Formula: IF [3] = &quot;referenced_tweets&quot; THEN [3] + &quot;_&quot; + [4] + &quot;_&quot; + [5]&#xA;ELSEIF [4] = &quot;mentions&quot; THEN [4] + &quot;_&quot; + [5] + &quot;_&quot; + [6]&#xA;ELSE Null()&#xA;ENDIF" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1194" y="354" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotNull</Operator>
+            <Field>pivot_col</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-01-10 12:03:42</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2023-01-10 12:03:42</StartDate>
+              <EndDate>2023-01-10 12:03:42</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([pivot_col])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field name="pivot_col" size="1073741823" source="Formula: IF [3] = &quot;referenced_tweets&quot; THEN [3] + &quot;_&quot; + [4] + &quot;_&quot; + [5]&#xA;ELSEIF [4] = &quot;mentions&quot; THEN [4] + &quot;_&quot; + [5] + &quot;_&quot; + [6]&#xA;ELSE Null()&#xA;ENDIF" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="JSON_Name" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field name="JSON_ValueString" size="1073741823" source="JSON_Parse" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="3" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="4" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="5" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="6" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="7" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="8" size="1073741823" source="TextToColumns: Parsed from JSON_Name" type="V_WString" />
+            <Field name="pivot_col" size="1073741823" source="Formula: IF [3] = &quot;referenced_tweets&quot; THEN [3] + &quot;_&quot; + [4] + &quot;_&quot; + [5]&#xA;ELSEIF [4] = &quot;mentions&quot; THEN [4] + &quot;_&quot; + [5] + &quot;_&quot; + [6]&#xA;ELSE Null()&#xA;ENDIF" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1302" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="1" />
+            <Field field="2" />
+          </GroupFields>
+          <HeaderField field="pivot_col" />
+          <DataField field="JSON_ValueString" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>;</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="mentions_0_end" size="2048" source="CrossTab:Header:pivot_col:mentions_0_end:Concat:" type="V_WString" />
+            <Field name="mentions_0_id" size="2048" source="CrossTab:Header:pivot_col:mentions_0_id:Concat:" type="V_WString" />
+            <Field name="mentions_0_start" size="2048" source="CrossTab:Header:pivot_col:mentions_0_start:Concat:" type="V_WString" />
+            <Field name="mentions_0_username" size="2048" source="CrossTab:Header:pivot_col:mentions_0_username:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_id" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_id:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_type" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_type:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1374" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="section" />
+            <Field field="Row_ID" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="1" />
+            <Field field="2" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_1" selected="False" input="Right_" />
+                <SelectField field="Right_2" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="author_id" size="2048" source="CrossTab:Header:3:author_id:Concat:" type="V_WString" />
+            <Field name="conversation_id" size="2048" source="CrossTab:Header:3:conversation_id:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:3:created_at:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:3:id:Concat:" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="2048" source="CrossTab:Header:3:in_reply_to_user_id:Concat:" type="V_WString" />
+            <Field name="lang" size="2048" source="CrossTab:Header:3:lang:Concat:" type="V_WString" />
+            <Field name="possibly_sensitive" size="2048" source="CrossTab:Header:3:possibly_sensitive:Concat:" type="V_WString" />
+            <Field name="reply_settings" size="2048" source="CrossTab:Header:3:reply_settings:Concat:" type="V_WString" />
+            <Field name="text" size="2048" source="CrossTab:Header:3:text:Concat:" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:4:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:4:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:4:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:4:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:4:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:4:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:4:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:4:retweet_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="author_id" size="2048" source="CrossTab:Header:3:author_id:Concat:" type="V_WString" />
+            <Field name="conversation_id" size="2048" source="CrossTab:Header:3:conversation_id:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:3:created_at:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:3:id:Concat:" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="2048" source="CrossTab:Header:3:in_reply_to_user_id:Concat:" type="V_WString" />
+            <Field name="lang" size="2048" source="CrossTab:Header:3:lang:Concat:" type="V_WString" />
+            <Field name="possibly_sensitive" size="2048" source="CrossTab:Header:3:possibly_sensitive:Concat:" type="V_WString" />
+            <Field name="reply_settings" size="2048" source="CrossTab:Header:3:reply_settings:Concat:" type="V_WString" />
+            <Field name="text" size="2048" source="CrossTab:Header:3:text:Concat:" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab:Header:4:editable_until:Concat:" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab:Header:4:edits_remaining:Concat:" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab:Header:4:impression_count:Concat:" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab:Header:4:is_edit_eligible:Concat:" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab:Header:4:like_count:Concat:" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab:Header:4:quote_count:Concat:" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab:Header:4:reply_count:Concat:" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab:Header:4:retweet_count:Concat:" type="V_WString" />
+            <Field name="mentions_0_end" size="2048" source="CrossTab:Header:pivot_col:mentions_0_end:Concat:" type="V_WString" />
+            <Field name="mentions_0_id" size="2048" source="CrossTab:Header:pivot_col:mentions_0_id:Concat:" type="V_WString" />
+            <Field name="mentions_0_start" size="2048" source="CrossTab:Header:pivot_col:mentions_0_start:Concat:" type="V_WString" />
+            <Field name="mentions_0_username" size="2048" source="CrossTab:Header:pivot_col:mentions_0_username:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_id" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_id:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_type" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_type:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="1" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="2" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="mentions_0_end" size="2048" source="CrossTab:Header:pivot_col:mentions_0_end:Concat:" type="V_WString" />
+            <Field name="mentions_0_id" size="2048" source="CrossTab:Header:pivot_col:mentions_0_id:Concat:" type="V_WString" />
+            <Field name="mentions_0_start" size="2048" source="CrossTab:Header:pivot_col:mentions_0_start:Concat:" type="V_WString" />
+            <Field name="mentions_0_username" size="2048" source="CrossTab:Header:pivot_col:mentions_0_username:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_id" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_id:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_type" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_type:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1794" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="author_id" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="id" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_section" selected="True" rename="Right_section" input="Right_" />
+                <SelectField field="Right_resource_type" selected="True" rename="Right_resource_type" input="Right_" />
+                <SelectField field="Right_Row_ID" selected="True" rename="Right_Row_ID" input="Right_" />
+                <SelectField field="Right_created_at" selected="True" rename="Right_created_at" input="Right_" />
+                <SelectField field="Right_id" selected="True" rename="Right_id" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="author_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="conversation_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="created_at" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="lang" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="possibly_sensitive" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="reply_settings" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="text" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="mentions_0_end" size="2048" source="CrossTab:Header:pivot_col:mentions_0_end:Concat:" type="V_WString" />
+            <Field name="mentions_0_id" size="2048" source="CrossTab:Header:pivot_col:mentions_0_id:Concat:" type="V_WString" />
+            <Field name="mentions_0_start" size="2048" source="CrossTab:Header:pivot_col:mentions_0_start:Concat:" type="V_WString" />
+            <Field name="mentions_0_username" size="2048" source="CrossTab:Header:pivot_col:mentions_0_username:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_id" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_id:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_type" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_type:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="resource_type" size="1073741823" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="author_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="conversation_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="created_at" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="in_reply_to_user_id" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="lang" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="possibly_sensitive" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="reply_settings" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="text" size="1073741823" source="(Multiple Sources)" type="V_WString" />
+            <Field name="editable_until" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="edits_remaining" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="impression_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="is_edit_eligible" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="like_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="quote_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="reply_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="retweet_count" size="2048" source="CrossTab: (Multiple Sources)" type="V_WString" />
+            <Field name="mentions_0_end" size="2048" source="CrossTab:Header:pivot_col:mentions_0_end:Concat:" type="V_WString" />
+            <Field name="mentions_0_id" size="2048" source="CrossTab:Header:pivot_col:mentions_0_id:Concat:" type="V_WString" />
+            <Field name="mentions_0_start" size="2048" source="CrossTab:Header:pivot_col:mentions_0_start:Concat:" type="V_WString" />
+            <Field name="mentions_0_username" size="2048" source="CrossTab:Header:pivot_col:mentions_0_username:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_id" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_id:Concat:" type="V_WString" />
+            <Field name="referenced_tweets_0_type" size="2048" source="CrossTab:Header:pivot_col:referenced_tweets_0_type:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Right_section" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Right_resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Right_Row_ID" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="Right_created_at" size="2048" source="CrossTab:Header:4:created_at:Concat:" type="V_WString" />
+            <Field name="description" size="2048" source="CrossTab:Header:4:description:Concat:" type="V_WString" />
+            <Field name="followers_count" size="2048" source="CrossTab:Header:4:followers_count:Concat:" type="V_WString" />
+            <Field name="following_count" size="2048" source="CrossTab:Header:4:following_count:Concat:" type="V_WString" />
+            <Field name="Right_id" size="2048" source="CrossTab:Header:4:id:Concat:" type="V_WString" />
+            <Field name="listed_count" size="2048" source="CrossTab:Header:4:listed_count:Concat:" type="V_WString" />
+            <Field name="location" size="2048" source="CrossTab:Header:4:location:Concat:" type="V_WString" />
+            <Field name="name" size="2048" source="CrossTab:Header:4:name:Concat:" type="V_WString" />
+            <Field name="pinned_tweet_id" size="2048" source="CrossTab:Header:4:pinned_tweet_id:Concat:" type="V_WString" />
+            <Field name="profile_image_url" size="2048" source="CrossTab:Header:4:profile_image_url:Concat:" type="V_WString" />
+            <Field name="protected" size="2048" source="CrossTab:Header:4:protected:Concat:" type="V_WString" />
+            <Field name="tweet_count" size="2048" source="CrossTab:Header:4:tweet_count:Concat:" type="V_WString" />
+            <Field name="url" size="2048" source="CrossTab:Header:4:url:Concat:" type="V_WString" />
+            <Field name="username" size="2048" source="CrossTab:Header:4:username:Concat:" type="V_WString" />
+            <Field name="verified" size="2048" source="CrossTab:Header:4:verified:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from JSON_Name" name="section" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="resource_type" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field description="TextToColumns: Parsed from JSON_Name" name="Row_ID" size="1073741823" source="CrossTab:Group:Concat:" type="V_WString" />
+            <Field name="created_at" size="2048" source="CrossTab:Header:4:created_at:Concat:" type="V_WString" />
+            <Field name="description" size="2048" source="CrossTab:Header:4:description:Concat:" type="V_WString" />
+            <Field name="followers_count" size="2048" source="CrossTab:Header:4:followers_count:Concat:" type="V_WString" />
+            <Field name="following_count" size="2048" source="CrossTab:Header:4:following_count:Concat:" type="V_WString" />
+            <Field name="id" size="2048" source="CrossTab:Header:4:id:Concat:" type="V_WString" />
+            <Field name="listed_count" size="2048" source="CrossTab:Header:4:listed_count:Concat:" type="V_WString" />
+            <Field name="location" size="2048" source="CrossTab:Header:4:location:Concat:" type="V_WString" />
+            <Field name="name" size="2048" source="CrossTab:Header:4:name:Concat:" type="V_WString" />
+            <Field name="pinned_tweet_id" size="2048" source="CrossTab:Header:4:pinned_tweet_id:Concat:" type="V_WString" />
+            <Field name="profile_image_url" size="2048" source="CrossTab:Header:4:profile_image_url:Concat:" type="V_WString" />
+            <Field name="protected" size="2048" source="CrossTab:Header:4:protected:Concat:" type="V_WString" />
+            <Field name="tweet_count" size="2048" source="CrossTab:Header:4:tweet_count:Concat:" type="V_WString" />
+            <Field name="url" size="2048" source="CrossTab:Header:4:url:Concat:" type="V_WString" />
+            <Field name="username" size="2048" source="CrossTab:Header:4:username:Concat:" type="V_WString" />
+            <Field name="verified" size="2048" source="CrossTab:Header:4:verified:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+        <Position x="210" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UseFileInput value="False" />
+          <Name>Input40</Name>
+          <Abbrev />
+          <ShowFieldMap value="True" />
+          <Optional value="False" />
+          <TextInput>
+            <Configuration>
+              <NumRows value="1" />
+              <Fields>
+                <Field name="company" />
+                <Field name="type" />
+                <Field name="request_url" />
+                <Field name="pagination_token" />
+                <Field name="expansions" />
+                <Field name="tweet.fields" />
+                <Field name="user.fields" />
+                <Field name="media.fields" />
+                <Field name="place.fields" />
+                <Field name="start_time" />
+                <Field name="end_time" />
+                <Field name="max_results" />
+                <Field name="Authorization" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>ALDI</c>
+                  <c>timeline</c>
+                  <c>https://api.twitter.com/2/users/23024272/tweets</c>
+                  <c />
+                  <c>attachments.poll_ids,attachments.media_keys,author_id,geo.place_id,in_reply_to_user_id,referenced_tweets.id,entities.mentions.username,referenced_tweets.id.author_id,edit_history_tweet_ids</c>
+                  <c>attachments,author_id,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld,edit_history_tweet_ids,edit_controls</c>
+                  <c>created_at,description,entities,id,location,name,pinned_tweet_id,profile_image_url,protected,public_metrics,url,username,verified,withheld</c>
+                  <c>duration_ms,height,media_key,preview_image_url,public_metrics,type,url,width</c>
+                  <c>contained_within,country,country_code,full_name,geo,id,name,place_type</c>
+                  <c />
+                  <c />
+                  <c>100</c>
+                  <c>Bearer AAAAAAAAAAAAAAAAAAAAAPt3UwEAAAAANLtSyDYqfNYoIQR6lS1dXLs43AA%3DChtNgsTSHWol2p5uGaiNV9i9aAlfYmhe2u6XjJBOyD94DYjuFk</c>
+                </r>
+              </Data>
+            </Configuration>
+          </TextInput>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Input</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="True" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="company" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="type" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="request_url" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="pagination_token" source="TextInput:" type="Bool" />
+            <Field name="expansions" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="tweet.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="user.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="media.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="place.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="start_time" source="TextInput:" type="Bool" />
+            <Field name="end_time" source="TextInput:" type="Bool" />
+            <Field name="max_results" source="TextInput:" type="Int32" />
+            <Field name="Authorization" size="2147483647" source="TextInput:" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1902" y="594" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Parsed Output</Name>
+          <Abbrev>O</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Output</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1902" y="1050" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Meta</Name>
+          <Abbrev>M</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Output</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1902" y="954" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Errors</Name>
+          <Abbrev>E</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Output</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1902" y="1182" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Next Page</Name>
+          <Abbrev>R</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Output</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1758" y="1182" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="True">
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_meta_newest_id" selected="False" input="Left_" />
+                <SelectField field="Left_meta_next_token" selected="True" rename="pagination_token" input="Left_" />
+                <SelectField field="Left_meta_oldest_id" selected="False" input="Left_" />
+                <SelectField field="Right_pagination_token" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="meta_newest_id" size="2048" source="CrossTab:Header:JSON_Name:meta.newest_id:Concat:" type="V_WString" />
+            <Field name="meta_next_token" size="2048" source="CrossTab:Header:JSON_Name:meta.next_token:Concat:" type="V_WString" />
+            <Field name="meta_oldest_id" size="2048" source="CrossTab:Header:JSON_Name:meta.oldest_id:Concat:" type="V_WString" />
+            <Field name="meta_result_count" size="2048" source="CrossTab:Header:JSON_Name:meta.result_count:Concat:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="pagination_token" size="2048" source="CrossTab:Header:JSON_Name:meta.next_token:Concat:" type="V_WString" />
+            <Field name="meta_result_count" size="2048" source="CrossTab:Header:JSON_Name:meta.result_count:Concat:" type="V_WString" />
+            <Field name="company" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="type" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="request_url" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="expansions" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="tweet.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="user.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="media.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="place.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="start_time" source="TextInput:" type="Bool" />
+            <Field name="end_time" source="TextInput:" type="Bool" />
+            <Field name="max_results" source="TextInput:" type="Int32" />
+            <Field name="Authorization" size="2147483647" source="TextInput:" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="company" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="type" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="request_url" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="pagination_token" source="TextInput:" type="Bool" />
+            <Field name="expansions" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="tweet.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="user.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="media.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="place.fields" size="2147483647" source="TextInput:" type="V_String" />
+            <Field name="start_time" source="TextInput:" type="Bool" />
+            <Field name="end_time" source="TextInput:" type="Bool" />
+            <Field name="max_results" source="TextInput:" type="Int32" />
+            <Field name="Authorization" size="2147483647" source="TextInput:" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="True" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="False" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="False" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="True" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="15" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="15" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="False" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="True" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="False" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="16" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="16" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="True" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="False" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="True" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Join" />
+      <Destination ToolID="34" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="34" Connection="Right" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="16" Connection="Join" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="34" Connection="Join" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="35" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="35" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="False" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="True" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="False" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="True" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="45" Connection="Left" />
+    </Connection>
+    <Connection Wireless="True">
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="45" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="True" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="False" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="True" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Join" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="1" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Join" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Input (40)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Output (41)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Output (42)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Output (43)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Output (44)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>ALDI-Get-Tweet-Standard-Macro</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="41955b4d-470e-4dc4-baa7-9bda47450842" />
+      <Telemetry>
+        <PreviousWorkflowId value="79aeaffd-9eeb-4701-8ff7-6fa22d24f5bb" />
+        <OriginWorkflowId value="79aeaffd-9eeb-4701-8ff7-6fa22d24f5bb" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (39)</Name>
+          <ToolId value="39" />
+          <Questions>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description>Macro Input (40)</Description>
+              <Name>Macro Input (40)</Name>
+              <ToolId value="40" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (41)</Description>
+              <Name>Macro Output (41)</Name>
+              <ToolId value="41" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (42)</Description>
+              <Name>Macro Output (42)</Name>
+              <ToolId value="42" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (43)</Description>
+              <Name>Macro Output (43)</Name>
+              <ToolId value="43" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (44)</Description>
+              <Name>Macro Output (44)</Name>
+              <ToolId value="44" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="43" Selected="True" />
+        <Tool ToolId="42" Selected="True" />
+        <Tool ToolId="41" Selected="True" />
+        <Tool ToolId="40" Selected="True" />
+        <Tool ToolId="44" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>

@@ -1,0 +1,1203 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "11h ago",
+      "location": "Southern Highlands & Tablelands",
+      "locationId": 5035,
+      "locationWhereValue": "Southern Highlands & Tablelands NSW",
+      "id": 59671984,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Yass, Southern Highlands & Tablelands NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Yass NSW 2582"
+          },
+          {
+            "contextualName": "Southern Highlands & Tablelands NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-10T16:12:30Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59671984",
+        "section": "MAIN",
+        "sectionRank": 401,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Yass",
+      "suburbId": 10769,
+      "suburbWhereValue": "Yass NSW 2582",
+      "teaser": "As a Retail Assistant at ALDI, you will have a lot of variety in every shift. Whether you\u2019re filling shelves or scanning items for customers, you\u2019l...",
+      "title": "JG - Retail Assistant - YASS - 10.5 hours p/w",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMSIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "2d ago",
+      "location": "Canberra",
+      "locationId": 1015,
+      "locationWhereValue": "All Canberra ACT",
+      "id": 59646838,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Macquarie, Canberra ACT",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Macquarie ACT 2614"
+          },
+          {
+            "contextualName": "All Canberra ACT"
+          }
+        ]
+      },
+      "listingDate": "2023-01-09T04:04:18Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59646838",
+        "section": "MAIN",
+        "sectionRank": 402,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Macquarie",
+      "suburbId": 14071,
+      "suburbWhereValue": "Macquarie ACT 2614",
+      "teaser": "As a Retail Assistant at ALDI, you will have a lot of variety in every shift. Whether you\u2019re filling shelves or scanning items for customers, you\u2019l...",
+      "title": "Retail Assistant - Macquarie 10.5 hours p/w",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMiIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "Northern Suburbs & Joondalup",
+      "areaId": 5051,
+      "areaWhereValue": "Northern Suburbs & Joondalup Perth WA",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "8d ago",
+      "location": "Perth",
+      "locationId": 1009,
+      "locationWhereValue": "All Perth WA",
+      "id": 59589887,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Butler, Perth WA",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Butler WA 6036"
+          },
+          {
+            "contextualName": "All Perth WA"
+          }
+        ]
+      },
+      "listingDate": "2023-01-03T01:20:15Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59589887",
+        "section": "MAIN",
+        "sectionRank": 403,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Butler",
+      "suburbId": 22317,
+      "suburbWhereValue": "Butler WA 6036",
+      "teaser": "As a Retail Assistant at ALDI, you will have a lot of variety in every shift. Whether you\u2019re filling shelves or scanning items for customers, you\u2019l...",
+      "title": "Retail Assistant - Butler- 15 hours pw",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMyIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "8d ago",
+      "location": "Adelaide Hills & Barossa",
+      "locationId": 5019,
+      "locationWhereValue": "Adelaide Hills & Barossa SA",
+      "id": 59597689,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Mount Barker, Adelaide Hills & Barossa SA",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Mount Barker SA 5251"
+          },
+          {
+            "contextualName": "Adelaide Hills & Barossa SA"
+          }
+        ]
+      },
+      "listingDate": "2023-01-03T13:20:02Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59597689",
+        "section": "MAIN",
+        "sectionRank": 404,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Mount Barker",
+      "suburbId": 19195,
+      "suburbWhereValue": "Mount Barker SA 5251",
+      "teaser": "As a Retail Assistant at ALDI, you will have a lot of variety in every shift. Whether you\u2019re filling shelves or scanning items for customers, you\u2019l...",
+      "title": "Retail Assistant - Mount Barker",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfNCIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "South West & M5 Corridor",
+      "areaId": 5033,
+      "areaWhereValue": "South West & M5 Corridor Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "6d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59620105,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Leppington, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Leppington NSW 2179"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-05T10:12:54Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "assistant-store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59620105",
+        "section": "MAIN",
+        "sectionRank": 405,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Leppington",
+      "suburbId": 13704,
+      "suburbWhereValue": "Leppington NSW 2179",
+      "teaser": "To be considered for the role, you'll need to have previous experience managing and leading a team, possess a strong work ethic and hands-on attitu...",
+      "title": "Assistant Store Manager - Emerald Hills",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfNSIKfQ==",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "areaId": 5027,
+      "areaWhereValue": "Sydney CBD, Inner West & Eastern Suburbs Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "5d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59627215,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "All Sydney NSW"
+          },
+          {
+            "contextualName": "New South Wales NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-06T04:19:01Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59627215",
+        "section": "MAIN",
+        "sectionRank": 406,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Sydney",
+      "suburbId": 16351,
+      "suburbWhereValue": "Sydney NSW 2000",
+      "teaser": "With proven capacity to coach and inspire a team, our ALDI Store Managers lead by example and enjoy the challenge and fast pace of retail. At ALDI ...",
+      "title": "Store Manager - Fairy Meadow",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfNiIKfQ==",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "14d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59572003,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Blacktown, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Blacktown NSW 2148"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2022-12-28T07:39:08Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "assistant-store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59572003",
+        "section": "MAIN",
+        "sectionRank": 407,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Blacktown",
+      "suburbId": 17632,
+      "suburbWhereValue": "Blacktown NSW 2148",
+      "teaser": "To be considered for the role, you'll need to have previous experience managing and leading a team, possess a strong work ethic and hands-on attitu...",
+      "title": "Assistant Store Manager - Blacktown",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfNyIKfQ==",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "14d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59572042,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Quakers Hill, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Quakers Hill NSW 2763"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2022-12-28T07:39:18Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "assistant-store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59572042",
+        "section": "MAIN",
+        "sectionRank": 408,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Quakers Hill",
+      "suburbId": 12084,
+      "suburbWhereValue": "Quakers Hill NSW 2763",
+      "teaser": "To be considered for the role, you'll need to have previous experience managing and leading a team, possess a strong work ethic and hands-on attitu...",
+      "title": "Assistant Store Manager - Quakers Hill",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfOCIKfQ==",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "14d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59572053,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Glenmore Park, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Glenmore Park NSW 2745"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2022-12-28T07:39:20Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "assistant-store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59572053",
+        "section": "MAIN",
+        "sectionRank": 409,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Glenmore Park",
+      "suburbId": 20861,
+      "suburbWhereValue": "Glenmore Park NSW 2745",
+      "teaser": "To be considered for the role, you'll need to have previous experience managing and leading a team, possess a strong work ethic and hands-on attitu...",
+      "title": "Assistant Store Manager Glenmore Park",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfOSIKfQ==",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "14d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59572021,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Erskine Park, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Erskine Park NSW 2759"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2022-12-28T07:39:13Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "assistant-store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59572021",
+        "section": "MAIN",
+        "sectionRank": 410,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Erskine Park",
+      "suburbId": 20118,
+      "suburbWhereValue": "Erskine Park NSW 2759",
+      "teaser": "To be considered for the role, you'll need to have previous experience managing and leading a team, possess a strong work ethic and hands-on attitu...",
+      "title": "Assistant Store Manager - Erskine Park",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTAiCn0=",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "14d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59572054,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Huntingwood, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Huntingwood NSW 2148"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2022-12-28T07:39:20Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "assistant-store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59572054",
+        "section": "MAIN",
+        "sectionRank": 411,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Huntingwood",
+      "suburbId": 23433,
+      "suburbWhereValue": "Huntingwood NSW 2148",
+      "teaser": "To be considered for the role, you'll need to have previous experience managing and leading a team, possess a strong work ethic and hands-on attitu...",
+      "title": "Assistant Store Manager - Arndell Park",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTEiCn0=",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "6d ago",
+      "location": "Wollongong, Illawarra & South Coast",
+      "locationId": 5038,
+      "locationWhereValue": "Wollongong, Illawarra & South Coast NSW",
+      "id": 59620054,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Vincentia, Wollongong, Illawarra & South Coast NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Vincentia NSW 2540"
+          },
+          {
+            "contextualName": "Wollongong, Illawarra & South Coast NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-05T10:12:46Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59620054",
+        "section": "MAIN",
+        "sectionRank": 412,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Vincentia",
+      "suburbId": 21603,
+      "suburbWhereValue": "Vincentia NSW 2540",
+      "teaser": "Previous management or supervisory experience in a fast paced environment is a bonus, but not essential. Our Duty Store Manager will be responsible...",
+      "title": "Duty Store Manager (DSM) - Vincentia - 35hrs p/w",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTIiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "Western Suburbs",
+      "areaId": 5073,
+      "areaWhereValue": "Western Suburbs Melbourne VIC",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6092",
+        "description": "Manufacturing, Transport & Logistics"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "14d ago",
+      "location": "Melbourne",
+      "locationId": 1002,
+      "locationWhereValue": "All Melbourne VIC",
+      "id": 59570136,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Derrimut, Melbourne VIC",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Derrimut VIC 3030"
+          },
+          {
+            "contextualName": "All Melbourne VIC"
+          }
+        ]
+      },
+      "listingDate": "2022-12-28T01:30:11Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "transport-supervisor",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59570136",
+        "section": "MAIN",
+        "sectionRank": 413,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6107",
+        "description": "Team Leaders/Supervisors"
+      },
+      "suburb": "Derrimut",
+      "suburbId": 15220,
+      "suburbWhereValue": "Derrimut VIC 3030",
+      "teaser": "Prior logistics experience is a must to be successful in this role, but more than that, we're looking for results driven leaders with strong organi...",
+      "title": "Transport Supervisor",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTMiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "22d ago",
+      "location": "Adelaide",
+      "locationId": 1007,
+      "locationWhereValue": "All Adelaide SA",
+      "id": 59533897,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Woodcroft, Adelaide SA",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Woodcroft SA 5162"
+          },
+          {
+            "contextualName": "All Adelaide SA"
+          }
+        ]
+      },
+      "listingDate": "2022-12-20T14:01:13Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59533897",
+        "section": "MAIN",
+        "sectionRank": 414,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Woodcroft",
+      "suburbId": 10414,
+      "suburbWhereValue": "Woodcroft SA 5162",
+      "teaser": "As a Retail Assistant at ALDI, you will have a lot of variety in every shift. Whether you\u2019re filling shelves or scanning items for customers, you\u2019l...",
+      "title": "Retail Assistant - Woodcroft",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTQiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "20d ago",
+      "location": "South West Coast VIC",
+      "locationId": 5068,
+      "locationWhereValue": "South West Coast VIC",
+      "id": 59553633,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Drysdale, South West Coast VIC",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Drysdale VIC 3222"
+          },
+          {
+            "contextualName": "South West Coast VIC"
+          }
+        ]
+      },
+      "listingDate": "2022-12-22T04:53:56Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59553633",
+        "section": "MAIN",
+        "sectionRank": 415,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Drysdale",
+      "suburbId": 15419,
+      "suburbWhereValue": "Drysdale VIC 3222",
+      "teaser": "As a Retail Assistant at ALDI, you will have a lot of variety in every shift. Whether you\u2019re filling shelves or scanning items for customers, you\u2019l...",
+      "title": "CW Retail Assistant Drysdale",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTUiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "areaId": 5027,
+      "areaWhereValue": "Sydney CBD, Inner West & Eastern Suburbs Sydney NSW",
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "27d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59500568,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Hillsdale, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Hillsdale NSW 2036"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2022-12-15T08:47:19Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "assistant-store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59500568",
+        "section": "MAIN",
+        "sectionRank": 416,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Hillsdale",
+      "suburbId": 23268,
+      "suburbWhereValue": "Hillsdale NSW 2036",
+      "teaser": "At ALDI we believe that our employees should expect to come to work every day with the comfort and confidence that they are in the safest possible ...",
+      "title": "Assistant Store Manager - Hillsdale",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTYiCn0=",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "400077894",
+        "description": "ALDI"
+      },
+      "automaticInclusion": true,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "20d ago",
+      "location": "Adelaide",
+      "locationId": 1007,
+      "locationWhereValue": "All Adelaide SA",
+      "id": 59556036,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Kilkenny, Adelaide SA",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Kilkenny SA 5009"
+          },
+          {
+            "contextualName": "All Adelaide SA"
+          }
+        ]
+      },
+      "listingDate": "2022-12-22T10:45:22Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "store-manager",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+        "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+        "jobId": "59556036",
+        "section": "MAIN",
+        "sectionRank": 417,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6047",
+        "description": "Management - Store"
+      },
+      "suburb": "Kilkenny",
+      "suburbId": 13102,
+      "suburbWhereValue": "Kilkenny SA 5009",
+      "teaser": "Previous management or supervisory experience in a fast paced environment is a bonus, but not essential. Our Duty Store Manager will be responsible...",
+      "title": "Duty Store Manager - Kilkenny",
+      "tracking": "ewogICJ0b2tlbiI6ICI1OGM3NWQ0NS0zMzU3LTlmMmUtODVhMy0zOThlYmYxZDUwYWNfMTciCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    }
+  ],
+  "title": "Jobs in All Australia",
+  "totalCount": 417,
+  "paginationParameters": {
+    "seekSelectAllPages": true,
+    "hadPremiumListings": false
+  },
+  "info": {
+    "timeTaken": 60,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_123"
+  },
+  "userQueryId": "a3f7e6f85be73fd8fe2e3d5ea92001b7-7335003",
+  "sortMode": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "056079ad-22e7-47e9-b32c-2d192312b759",
+    "token": "0~056079ad-22e7-47e9-b32c-2d192312b759",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "employer": "ALDI",
+    "pageSize": 20,
+    "pageNumber": 21,
+    "totalJobCount": 417,
+    "tags": {
+      "mordor__flights": "mordor_123",
+      "chalice-search-api:solId": "c00c353f-a376-4b96-b397-16e262dbd3d3"
+    }
+  },
+  "location": {
+    "matched": true,
+    "whereId": 3000,
+    "type": "Country",
+    "suburbType": "rural",
+    "description": "All Australia",
+    "stateDescription": "",
+    "locationId": 3000,
+    "locationDescription": "",
+    "areaId": 0,
+    "areaDescription": "",
+    "suburbParentDescription": ""
+  },
+  "canonicalCompany": {
+    "id": "5197",
+    "description": "ALDI"
+  },
+  "companySuggestion": {
+    "search": {
+      "keywords": "ALDI"
+    },
+    "count": "461"
+  },
+  "joraCrossLink": {
+    "canCrossLink": false
+  },
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "userqueryid": "a3f7e6f85be73fd8fe2e3d5ea92001b7-7335003",
+    "userid": "5959404e-631e-45a1-bb3b-2ae481757cf6",
+    "usersessionid": "5959404e-631e-45a1-bb3b-2ae481757cf6",
+    "eventcapturesessionid": "5959404e-631e-45a1-bb3b-2ae481757cf6",
+    "where": "All Australia",
+    "page": "21",
+    "seekselectallpages": "true",
+    "companyname": "ALDI",
+    "include": "seodata",
+    "solid": "c00c353f-a376-4b96-b397-16e262dbd3d3"
+  }
+}

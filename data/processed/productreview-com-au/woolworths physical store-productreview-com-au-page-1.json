@@ -1,0 +1,569 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Woolworths Physical store",
+    "url": "https://www.woolworths.com.au",
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/6f975963-dceb-3748-92c1-8003cb95b2e9?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.1,
+        "reviewCount": 2194
+    },
+    "address": {
+        "@type": "PostalAddress"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cf5c63c3-082c-5f95-b30c-e45429dd1146",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-10T01:38:36Z",
+            "headline": "Worst Caesar salad",
+            "reviewBody": "I purchased a Caesar salad, use by date 13/01/23 on the 08/01/23 & had to throw half of the lettuce out, all brown & old looking.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Margaret",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b6cbe5fa-274c-4f74-b227-fea2cf75aff3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/fefac0ba-eb6f-5e46-86ac-2eebb3dca813",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-09T11:57:04Z",
+            "headline": "Woolworths are happy to be complicit in shutting  banks but aren't supplying the security features or features of ATM's",
+            "reviewBody": "Today I withdrew money at woolies and left it in the machine as I got distracted. Somebody else stole it as it just sits there with no indications that it hadn't been taken. If I don't put a 50 cent candy in their bagging station the entire machine grinds to a stop but when the shoe is on the other foot I have to get police involved to get my money back. If you want to be an ATM then you need to swallow money and cards that aren't being taken or are being utilised in a suspicious manner. You can't be a local banking outlet and not provide bank level security. The staff members were very polite and helpful but once again the company is taking the money and not offering the service. Edit, I rang the manager and he is going to give me the money and charge the customer as stealing from woolies. Yay for woolies and their cctv, this is why I shop at woolies. Changed from 1 star to five!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karina",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e1cdff32-b877-37a9-9fc8-7ea18be59ba5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/9a472f67-d18e-5127-8ce7-0513448389ec",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-09T03:01:53Z",
+            "headline": "SLUG INSECTS IN LETTUCE",
+            "reviewBody": "I bought a baby cos lettuce,Woolworths brand\nWhen I made a sandwich, using a cheese slice, there was a live slug in it, on the lettuce.\nWhen I checked the packet it also had 3 dead insects in it.\nSlugs if eaten can cause serious illness,ye Head office as an indication of their lack of concern ,offered  a $10 gift card, and had no interest in my photos .\nIts not about the gift card it is about the cleanliness and safety  in regards to the food we eat\nI will also contact the Health Department.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Paul Unsworth Jane Watts",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/47a27520-566b-4e92-9352-182750d365fc"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/00ac4e5e-dfdf-52c9-9bac-0b6b36d28ddc",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-04T06:01:07Z",
+            "headline": "Always poor service",
+            "reviewBody": "Sat 31 december..mid day very busy..new yesrs eve tonight...only one check out open. Reluctant to open 2nd check out..lots of staff doing the home delivery selection to the point difficult to get down ailes..what a joke ...if customers not welcome in store and they want us all to shop on line then bye bye woolworths after 40 years plus.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "slick",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4bf3655a-86c2-3ec1-b0ee-03e5d600b914"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4a34eedf-2226-5bac-8f24-4f422eff01b3",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-03T09:23:32Z",
+            "headline": "Texture of a rubber thong",
+            "reviewBody": "I usually buy these from Aldi but due to being at Marion early I purchased from Woolworths. Never again the texture is the furthest from tender and they should be ashamed of themselves.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andrew",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ce6bb58c-9ff0-36cd-b7cd-80ee38f231d1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cb1b7ef6-33cf-5828-80c3-6d940f01cd9f",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-02T09:31:11Z",
+            "headline": "Why are you even selling this cra#",
+            "reviewBody": "I just bought 3 bowls of coco earth ready to eat bowls and I chucked all 3 of them straight in the bin. Where is the truth in advertising? Show something else on the packaging and you open the bowl it\u2019s something else. Smells like plastic all the way. The product had \u201cnew and improved\u201d. My question is how can something be improved if it\u2019s new? Please don\u2019t sell crap like this it\u2019s an utter disgust and disgrace to Indian food. Do  your suppliers really think consumers are that naive and gullible that they\u2019ll buy any bullshi#. Products like these will keep me away from woolies. I am sure to tell my friends as well. Not that you people care but one at a time. \nMy receipt number is 62925390019735020123.\nStore # 2539 \nPos 001\nTrans 9735\nTime and date 15:24 02/01/23",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "deepak m.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/66f831f1-ecf1-41e2-a45d-deafa72ddca6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/83cbb809-73df-51b2-a9e7-ba52e317d79c",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-02T07:56:06Z",
+            "headline": "Half eaten punnet strawberries",
+            "reviewBody": "When I opened my punnet of strawberries today, I ate one and suddenly when I looked down in my strawberry punnet there were half eaten strawberries even though I brought the packet today. I am absolutely disgusted in how unhygienic and unsanitary my product of what I brought was. U am concerned for myself due to already eating one of the strawberries that could\u2019ve been contained with someone else\u2019s germs.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lily-Anne",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b631531b-8af1-5fe0-b9fe-71c033c50eb6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c5da6639-a144-5e5b-82a2-3cb8bef09952",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-02T03:10:41Z",
+            "headline": "Xmas platter",
+            "reviewBody": "Ordered a chicken xmas platter to take to a function. Ordered weeks in advance as suggested. Picked up xmas eve. 2 chickens presented in bags was told they had run out of coleslaw! What us the point if pre ordering. I was expecting a well presented platter like it was advertised.  Sorry but won't be ordering another xmas platter from woolworths at blakes crossing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maria",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/edb76af9-3295-5738-95d1-36f2a41deacd"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/daf2c0b4-348f-5e17-a1cb-3300435c5854",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-25T23:58:17Z",
+            "headline": "oysters bought for Christmas day",
+            "reviewBody": "purchased Christmas eve attempted to eat Christmas morning out of 4. 2 x were off the whole lot binned  $20 gone. must have been chucked 3 /4 days prior to sale not good enough",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "harry r.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/26a4f29c-8a45-46df-a774-5e0574eabb0f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a5621652-947e-5b82-b60c-424ee6d76642",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-24T10:56:32Z",
+            "headline": "Pacific Oysters for X'mas? They have been frozen at Woolworths... yak...",
+            "reviewBody": "My title says it all, except for the \"special\" price , of course... as far as their taste: yak, yuk, etc...",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alan",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/28ef926c-20e7-522d-b7d8-df3178ff1ced"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a21dc928-d744-57d6-a420-e195cef7e3ee",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-24T06:50:09Z",
+            "headline": "They advertise a special of Breeders Choice Cat litter and have none on the shelves- Just bait advertising",
+            "reviewBody": "They do this with many products, but here's a clear example. They Advertise a special of \"Breeders choice cat litter 24L\" and you go in there to find the shelves are empty and they only had 5 or less bags in stock! They repeatedly do this and with other items too. You get sick of wasting your time going there",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michael S.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/085e78e8-f4d8-4e66-8576-d82b23999017"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4919020e-b43a-5775-9c03-c7b1dbd4a0b8",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-23T10:20:22Z",
+            "headline": "Woolworhts Refusing Refund and Return for No Reason",
+            "reviewBody": "Today (23/12/2022 at 14:49 pm) i have purchased orange juice and kept in fridge then at 19:00 pm, I went back to return item first time. one of the lady refused to return. Her reason was item cannot be returned as its fridge item. which i was keeping in the fridge, afterward [Name Removed] came in , by the looks like he was an supervisor, he didn't want to talk to me with his high attitude. Which i was asking him to show me the rule why i cannot return the item which is untouched. Horrible customer service, horrible explanation. Coles win new customer.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Serkan",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/600a7254-76ca-3a61-ae38-9f6de8896085"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/49f54bcc-0140-5b9b-9160-26f7cb690d8f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-21T06:56:56Z",
+            "headline": "Known problem with Eftpos",
+            "reviewBody": "Firstly, don't ry calling the customer service number after 17:20. It says open untill 17:30. I got put through to customer service. I think someone just got sick of the phone ringing because there was nobody there.\n\nI was at the glen Innes Woolworths. Went through the check out. Put my pin in three times and three times refused. I was then taken up to the front desk where we tried to break up the sale, but because it had been declined three times.\n\nAn (honest) young woolies employee then came up to me and said \"Were you at the end check out' i said \"Yes\" then she said \"its a problem with the machine there. It doubles the first number you put in\".\n\nIf it is a known problem why not warn customers before they go through? Better still - fix the problemx?\n\nI called my bank. I now have to change my pin number. I ended up just walking out and leaving my shopping there.\n\nGood on you Woolies. How rediculous that you would not bother to fix a known problem that would inconvenience customers so much right before Christmas.\n\nK. Gleeson",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kylie",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5ac08e48-3455-3baa-b701-9146292eeec2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/448b3995-7049-5c2c-b9ec-e478c7af97ec",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-20T08:51:14Z",
+            "headline": "Bloody tough lamb.",
+            "reviewBody": "i would expect better  from woolworths,we used to get our meat from ALDI, it got too tough,and now we get meat from woolworths that is inedibile,unless you want to break your teeth,",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "john and val s",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/46b2f91d-4a3e-3fde-bdf1-f9cb988f69e2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6833e8a5-9447-57fc-8140-c9b47f2c915d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-20T04:38:47Z",
+            "headline": "Zero customer service with half a dozen employees just standing around & looking.",
+            "reviewBody": "I stopped at WA Singleton store the other day to buy some frozen foods and took my items to a checkout but was told to go to another one as this was closing down. I moved to line up at the other checkout only to be told it too was closing down and to move for another one . At least 2 other customers in the same situation trying to pay for their items and not a single checkout opened. Meanwhile 3 staff were standing and chatting near the self checkouts and one of them pointed to them asking us to use them. Also 2 more staff were at the self checkout exit checking customer receipts yet not one of them willing to open up a checkout for customers. After almost 5 minutes of trying to have a checkout open one of the customers decided to leave the trolley with goods behind and walk out of the store.  I was just about to follow her but finally one of the staff opened up the 12 items or less counter so we could pay for the items.  I understand that the stores are trying to increase profits by getting all customers to use self serve but customers are not getting any discounts for using them and there is no saving for shareholders either when at least 5 staff are hanging around the checkouts and getting paid but refusing to serve waiting customers.  Needless to say I will take the advice of one of the other customers in line behind me and if I can avoid it will never set foot in another Woolworths again. Aldi may not be an Australian company but has cheaper grocery prices and is not pushing customers into using self serve checkouts.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Harry",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/97665c83-61c8-3f1e-bafc-6730a9091172"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/642c1e58-926b-536c-be54-b5e59fd86a6f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-20T01:19:51Z",
+            "headline": "Only ever 3 tills open",
+            "reviewBody": "Even though right now it\u2019s so busy there is still only ever 2 or 3 tills open. \nIt\u2019s ridiculous I waited 25mins last weekend\nThe self serve is full of trolleys and to be fair I don\u2019t blame them!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nic",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5aba861d-733e-3465-b888-ee94dfe2ee78"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b44879e6-73de-58fd-974b-09c343e26100",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-16T19:26:58Z",
+            "headline": "Rotten Salad items from Heidelberg",
+            "reviewBody": "Ordered direct to boot on 14/12/22, salad items use by dates were 16th and 18th and already rotten. Expected fresher items, a waste of my time and money.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Disappointed",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1f98712e-744d-5222-a71f-2e87eb55e6e7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/03f407c4-f337-56c5-b6d9-b984740dc8cc",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-16T01:35:40Z",
+            "headline": "Out of date bread",
+            "reviewBody": "Bought a loaf of turkish bread and the next day it was mouldy. When I looked I saw that it was already out of date when I bought it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Turkish bread",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b4d002f4-3d59-5772-878b-91968751e9e3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cb33eccf-36dd-5555-9bbe-a8d60a10f26b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-09T05:39:05Z",
+            "headline": "Woolworths, you\u2019ve done it again",
+            "reviewBody": "In the last 2 weeks I have visited my local Woolies in Greenfields several times looking for dog food. And on all occasions I have walked out wondering if we live in a 3 rd world country. The shelves have been completely empty except for ridiculously priced items. \nI know I\u2019m only 1 person, but reading the reviews about Woolworths it seems many ppl feel the same way. \nUps yours Woolies, I\u2019m taking my money elsewhere. Coles, Aldi to name but a few, oh and while I\u2019m having a gripe, when hiring pple for the Woolies petrol station, how about getting them to pass a speech test as many of them are from India and I can\u2019t understand a bloody word they say.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kasper",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/836289b0-eebf-3c13-94e4-3b2cae1a9201"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d2736eda-6835-5f2c-a499-4e9e1752ccf3",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-07T13:50:14Z",
+            "headline": "Moonee Ponds (Vic) store and others do not cater for their customers (insufficient stock levels and high prices)",
+            "reviewBody": "Woolworths Moonee Ponds Victoria store (and possibly other stores) has decided to half their stock (or worse) of pre-made sandwiches because it now runs out at 12:30pm and is not restocked for the rest of the day, everyday for the last 3 weeks? Even advising Woolworths on their Facebook page a week ago (1/12/22) has achieved no results. Many customers enjoy buying these as their lunch meals but we don't all have lunch at 12:00 - 12:30pm, so can Woolworths go back to providing excellent customer service for all pre- made sandwich lovers / customers for the entire day rather than only cater for just the 12:00pm - 12:30pm lunch customers? The elderly found this a bargain but insufficient stock and prices increasing from $6 - $6.50 to $8.50 - $9.00 is no bargain. You are better off going to a bakery and paying $7 for a pork roll.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4cc653ad-f3b0-3c01-9965-d9c4924740f4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/208f884f-e268-5414-946a-c0625e74f728",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-07T08:19:08Z",
+            "headline": "Cos lettuce packs",
+            "reviewBody": "So sick of buying cos lettuce in the 2 packs and having so much dirt and grit in them",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annette",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c3dabc8b-425a-51e1-985c-25c66ba0309a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ff933c4f-4b1d-527e-9a4d-227e08e451a0",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-05T14:19:18Z",
+            "headline": "Disguting pink lady apples!",
+            "reviewBody": "Bought 2 nice red pink lady apples from the claimed \"fresh\" lane..on cutting they were not only brown inside but also had these white worms!! Disguting!! Imagine that they were going to my kids fruit break box!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cleo",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/39f13792-a0a0-43d1-980d-af760a5d7722"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/23af093d-c1ac-568f-afd9-ec75e7e92175",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-05T06:35:47Z",
+            "headline": "First choice",
+            "reviewBody": "Is good for all shopping, staffs are friendly and helpful but checkout machine is not. \nDon't know how they function. Always have to call assistant.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Diwash D.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/daca05ac-a704-4ffe-8efa-40329e00de62"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c74eb1c6-815d-58fc-bd8a-67e492e9bc53",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-04T09:49:16Z",
+            "headline": "One of worst customer service ever seen, highly unprofessional",
+            "reviewBody": "I had to get something quick from woolworths pendlehill (on Sunday) and was at store door almost 10 mins before official closing time. But one of the employees from inside said that the door is already closed. \nHe completely ignored request by me and another shopper for a quick buy as the time was still there - he very rudely kept saying \"CLOSED!!  CLOSED!! \"\nHe was middle aged male, lean body, goatee type beard.\nCouple of things are completely wrong here - it was closed way before the official closing time.\nSecondly, the manner in which he presented / communicated is NOT acceptable. Even had we requested to open after closing time, the manner he presented was very bad and highly unprofessional.\nWish i could give rating lower than 1, as it doesn't even deserve that.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robert",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/9de67264-43e7-3962-8a62-3fc15e4c5141"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/06ecbc93-bb21-5d9e-befc-87e2d0aa4b48",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-02T06:58:24Z",
+            "headline": "Slow service",
+            "reviewBody": "Wait for a long time in long lines cause they 2 people on registers\nPlease bring back your staff to serve customers",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "tania",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/00509df4-b871-37fe-ac1c-af395fd20def"
+            }
+        }
+    ]
+}

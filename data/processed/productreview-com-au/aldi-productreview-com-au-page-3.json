@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ALDI",
+    "url": "https://www.aldi.com.au",
+    "brand": {
+        "@type": "Brand",
+        "name": "ALDI",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/61aa42fe-da9f-3c3c-9fb4-2eba07f78c10?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/f7f8960a-ac82-5698-a04a-62214672658c?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.5,
+        "reviewCount": 2400
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/13101992-c6c5-5cda-926b-09faf819117c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-07T09:44:24Z",
+            "headline": "Repeated poor quality",
+            "reviewBody": "Totally pointless buying salad or veg products from Aldi. Prepacked salads are rotten well before used by date",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SHANNAN",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8c2e4344-758e-56b4-a306-a602813c92a5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/fdb521d1-8aca-5639-b895-588cacdfef92",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-05T01:58:16Z",
+            "headline": "Is Aldi Baldivis getting sloppy?",
+            "reviewBody": "We did part of our shopping at Aldi Baldivis on Wednesday this week and purchased fresh fruit as usual. When unpacking at home we found that the golden kiwi-fruit in the pre-packed punnet were all rotten. What a disappointment as it required me to drive back to the Mall and return the bad item to Aldi. To rub salt into the wound I had to go to the back of a long queue and wait my turn to get a credit. This was not the first time that we saw fruit rotting in the shelves at this branch. Isn\u2019t it the supplier who is supposed to check the condition of the merchandise to make sure it is good and healthy?",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wilmoi",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/9badc50d-ae94-3767-b3d5-7ad4ff7673dd"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/14f437eb-8949-5119-a5ff-67a8a71457a1",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-05T00:34:18Z",
+            "headline": "Aldi gives a crap",
+            "reviewBody": "Aldi now sells \"who gives a crap\" toilet paper\". woohoo been wanting to purchase for a while now, but not wanting to pay postage. Thank you for always considering the environment. It may cost a little more than the regular toilet paper, but love that you give the customers a choice.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sonya Taylor",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0bf38d39-8de4-56dd-bcdb-ffa246f84544"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/10265720-82ea-5cb0-8e91-df2ddadf6b35",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-03T09:17:43Z",
+            "headline": "Weight of product in packet was not correct",
+            "reviewBody": "Bought a 1 kg packet of raisins but it did not scan on self service checkout.  Staff over ride \"under weight\" warning but later realised the 1kg packet was only 700 g.   Same staff had an a attitude when I tried to return/exchange the product.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "thomasaway",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/67178392-691d-3901-81b5-5432986bfce6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6c968621-25a1-53a3-af54-917a4060ef43",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-02T23:26:27Z",
+            "headline": "Aldis is just getting to expensive to shop there",
+            "reviewBody": "Hello aldis shoppers i have noticed since i was an avid shopper and lover of aldis, i have now found that they have become just as expensive and sometimes more expensive as coles and woolworths.Over the last month as i shop fortnightly to a strict list i have found that aldis prices have just sored very high.I have since had to change the way i shop now and aldis isnt on that list anymore.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anthony bogle",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/dec3a28b-57c2-3fbb-9798-d87181493365"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8e7121d3-7ba6-5d0a-bbbd-c2c97abe28c5",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-02T01:39:23Z",
+            "headline": "Aldi Data Sim not working",
+            "reviewBody": "I have submitted an esupport ticket but have not received a reply so I just wondering if there is anybody there",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robert A.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/9ca07a69-c202-4f22-a16d-2895ba6827d5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5663de88-390a-5c4d-be40-73bd0635d2b6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-29T10:30:35Z",
+            "headline": "Super disappointed,  never again.",
+            "reviewBody": "Just tried to eat the world kitchen prime beef lasagne,  1.2kg from the fridge section. Totally inedible.  It was full of tubes,  gristle,  and other hard and chewey unrecognisable chunks. This is not the standard I am used to with this product.  I usually purchase one of these a week.  Never again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dan.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e773f0c0-a875-5baf-beb9-0d7e06548e67"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cb885a5b-d9cc-564c-98e2-b3d5f3e19e8b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-25T23:48:51Z",
+            "headline": "False advertising, expensive",
+            "reviewBody": "Aldi is the dumping ground for poor quality faulty products and old fruit and veg. Aldi is actually very expensive is you compare it to cheaper brands from other supermarkets. Don't be fooled by fake advertising and payed fake Canstar awards",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Simmo D.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/60a78434-5f2f-4ef7-913f-bc8ef69ddfe3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/305a7e30-4e55-53f3-9b01-1ebbc3019b12",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-25T02:01:47Z",
+            "headline": "Aldi frozen salmon 2 pack",
+            "reviewBody": "Very poor quality, lots of bones & fish is end bits, uneven texture",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Peta",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/61caab38-2b90-3f89-8b86-820571c29db9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1455f73c-2e9b-599b-aa8f-2a681eb3156a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-24T10:35:54Z",
+            "headline": "Expensive and quality is compromised",
+            "reviewBody": "Prices are marked up every few weeks and quality of goods is worse than before price hike namely clumping cat litter. Since early 2022, the pricing rose 50% more than covid lock down and quality took a dive! How is that logical? Speaking of cartons of eggs,  BEWARE - you don\u2019t get what you pay for because I kept catching people swapping smaller eggs for bigger ones or caged to free range. Flagged that to staffs but there was nothing they could do. At least do something to the packaging to deter such incorrigible behaviour! I have stopped going to Aldi for eggs I no longer do my food shopping as much as I did at Aldi now and may not have to when I find better alternative litter elsewhere",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Juno",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4ad0fa66-2d5b-478e-859f-bbe518555bc7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1b011cf0-354a-54f9-a8d4-f04957d14a36",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-22T22:56:49Z",
+            "headline": "Dishwasher capsules",
+            "reviewBody": "Capsules have a terrible smell. I could not work out where the smell was coming from under my sink. Upon pulling everything out I realised it was the limited time dishwasher capsules, I had to throw them out.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annett",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/73017fac-a0a4-4d0f-8dee-732e66533583"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/51d2fa50-edb2-5b24-b726-80ee67ad5bdd",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-22T06:03:44Z",
+            "headline": "Confidence 3 ply Ultra Soft White Tissues with Aloe Vera and Vitamin E.",
+            "reviewBody": "I would go out of my way to Aldi to buy these fabulous soft tissues that didn't disintegrate in your hand while using but now that have changed their tissues to cheap and nasty.  Same brand, same box but terrible tissues.  I will go to Coles and get Kleenex now instead. Why do companies do that, get a great following and then cheapen their product.  What a shame. I have attempted to write to the company but cannot find a review or complaint page for them.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Coco",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/221ca944-d63f-3741-a6dd-a10556f87e89"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/393b901c-337d-5cb4-a65a-1ab894dc1d92",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-19T09:03:27Z",
+            "headline": "Just horrible",
+            "reviewBody": "Bought a French door fridge it is a lemon. Technician came out twice, water leaking from under fridge could not be fixed. Rang for the third time 5 days later no one got back to me. 3 calls later I finally was getting a refund which still has not happened, I have a mess water all over my kitchen floor I had to dispose of there fridge myself but I had to empty there fridge out they did not take responsibility for there mistake. A lot of stress caused me by these idiots I will never buy anything from Aldi as long as I live disgusting service they should be closed down online they don\u2019t deserve anyone business.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TARESCA",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c1c8548b-a21e-4d68-8704-9370bd7945a4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/db3ce954-de95-583a-9588-3bc3295a7ca8",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-19T00:26:45Z",
+            "headline": "Aldi Singleton NSW horrible and incompetent",
+            "reviewBody": "If the manager can\u2019t even scan items without double scanning and costing you money paying for items twice then don\u2019t expect the other cashiers to be any better \nTotally unacceptable and borderline criminal activity, when I complained was blown off by this cretin",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "James B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c27893a2-4087-4d67-9a77-3851bdfa142d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7d856583-bbfc-5d51-8558-8a04503dfa21",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-13T01:28:49Z",
+            "headline": "Absolutely ruining the choccy milk industry",
+            "reviewBody": "Champ milk is by far the most disgusting unhealthy form of liquid since the creation of Olive Oil by ancient Greeks and Ethenians. would rather recommend eating excrement on toast then taking a swig of this putrid excuse for a beverage. The food scraps at the bottom of my sink after doing a big of dishes have a more appetizing aroma than this garbage!! furthermore do not insult the general public by advertising Powergrain in replacement of Nutrigrain... that's un-Australian.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ChoccyMilkFan689",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/fbfd0c5b-07f6-579b-90b2-2a9908a4e9ff"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/63ccfcea-af4c-515e-8189-5272d7862318",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-11T06:09:09Z",
+            "headline": "unreliable supplies",
+            "reviewBody": "I have been shopping at Aldi for years but I am fed up with the many items I used to buy not being available. No chips, no toilet paper, very poor choice of meat cuts, no rice, some biscuits not available, no cat litter, the cheese I have bought twice now has had mould on it as soon as the packet is opened. There are empty shelves and fridges everywhere except for the junk that is the middle isle. I have decided to no longer waste my time going to Aldi as the supplies are really unreliable.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christine",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f6508263-5309-406e-a028-be3157647bea"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3c7adfae-e1cb-59b8-982d-92fd6885359c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-08T06:00:47Z",
+            "headline": "Maryborough Victoria store DISGUSTING customer service.",
+            "reviewBody": "I am on a low income and had got my grocery budget to under $50. It was all I was able to afford. After scanning my groceries and paying on eftpos the employee said that the transaction had been cancelled and didn\u2019t go through. I was notified on my phone that the money had been debited from my account. She said I had to pay again. \nI began crying because I did not have the money to pay again and all she did was argue with me and repeated the same thing over and over. I asked to speak to a manager and she said she was one.\nDisgraceful \u2018service\u2019. I spent the next 20 minutes on the phone to the bank trying to figure out what had happened. Worst experience 0/10 and will tell everyone I know about it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TruthTeller",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c87a353e-e887-55ac-a657-96e8123dd43f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1fe93593-71b6-59e2-986f-4dcafcc3310f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-02T02:46:52Z",
+            "headline": "Carton of eggs",
+            "reviewBody": "I'm not saying the quality of the eggs are crap...but I have checked the medium large and extra large and they are all the same size. Whether they be caged or non caged.,",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tanya",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/15e039c3-786f-5f68-902d-ae4ab7cd6fe7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ee97f5bf-c199-5b74-8e57-594f10520826",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-01T13:24:51Z",
+            "headline": "3 year warranty Waste of time",
+            "reviewBody": "Purchased a petrol pressure washer on the 18/9/22 and the Hose holder broke one week later, called the service number on the 26/9 and was told that someone will call be back in 2 days,  I called the service number again on the 30'9 and the operator said that he will mark my call as urgent still no phone call back. \nI will be taken this matter to the ACCC and Aldi you have just lost a customer.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Not me",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d6660f98-c008-3fbe-a21b-a2892667082f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/baf28297-465d-5423-95c7-c627552189ec",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-29T02:18:27Z",
+            "headline": "Best Dry Dog Food with a good price",
+            "reviewBody": "I purchase many products from ALDI as they have many quality products at an extremely good price, the Natural Elements Grain Free Chicken 1.5 kg dry dog food is top quality which our dogs love. \n\nOur long haired Chihuahua & my married daughters 2 Papillon's love their \"Natural Elements Grain Free Chicken dry dog food which is available in 1.5kg packs. \n\nFor many years i used to purchase large packets of MY DOG roast chicken dried dog food and & our long haired Chihuahua would never eat 30% of the product that was named \"meat & meat by products\" (and as the old saying goes, that if a dog does not eat it there is something wrong with it) & we would throw it away, after years of wasting money on an inferior product i decided to check every retailer (all of the supermarkets & pet shops) concerning dry dog food brands & the ingredients, strangely a large majority of the chicken dry dog food brands used the same \"meat & meat by products\".  When i checked the ingredients at my local ALDI i noticed that they did not have the \"meat & meat by products\" (whatever that means) & decided to try the Natural Elements Grain Free Chicken. For the last 2 years our dogs love it and consume 100% of the product and have not had to dispose of 30% of the MY DOG product .",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "goodgrief",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/43ad4453-dbe3-3884-9b47-b905a1a2292b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/41bc3b4e-770e-5c32-ab90-2895bf5b4caf",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-28T22:44:02Z",
+            "headline": "Poor Warranty after 60 days",
+            "reviewBody": "I purchased 4 5w LED Sensor Flood lights, one lasted 2 weeks and was rusted out, the second lasted 80 days, and stopped working, and after I sealed all the joints, which leave 2 still working, these items claim to be IP65 which means totally sealed, I have contacted the After Sales Support a number of times and received no answer, but even if they contact me I will have to send the item to them, which to mail it to their PO Box, would cost me $25.00, but the item only cost $24.99 so it will then cost me $49.99, which is not worthwhile due if the item is repaired, it may fail again and I will be up for more costs, Aldi may be cheap and if the item fails in 60 days you can return it, but after that forget it, they make it so hard most people drop out, this is a ploy that is used by Aldi and their After Sales Support, if I buy from Bunnings it may be dearer but in the 12 months warranty they will send it away or replace it, at no cost to me",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fredo",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/192ab64a-830a-3ba7-9e2d-941665f7e878"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/96551efd-7a04-5a82-aa6d-3732fd890dce",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-22T05:49:43Z",
+            "headline": "Never Buy Products With Warranties",
+            "reviewBody": "You need to contact an answering service to lodge a request for someone to call you back. I have rang 5 times. Each time a callback comes through, it shows as a \"private number\" & my phone does not ring or vibrate. The call goes directly to message bank where I am informed I must ring the answering service again to register another request for callback!  Frustrated, I explained my predicament to the callback operator & asked I be given a phone number to contact the service centre.  I received a curt response from the service centre stating they did not have a phone number I could ring!!\nBecause my claim was small I have given up & bought a new product elsewhere.\nDO NOT RISK BUYING SOMETHING EXPENSIVE WITH A WARRANTY.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michael S",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8e9fabea-b200-416e-8197-b66d470a42bb"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c527932f-839d-5e92-a6d6-b711239972d2",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-20T13:12:16Z",
+            "headline": "Aldi review",
+            "reviewBody": "Purchase multiple products for my diet this week including 5 star beef mince for chilli con carn and chicken for mini meals and salmon fillets for a recipe my sister recommends for dinner \nMay go into Aldi for shopping sometime to save money",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mark M.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cb6b3756-8fac-3bd2-8ccf-619984427e3c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c60d8db6-8b5d-5238-8bbc-23d37890d3d6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-20T09:42:22Z",
+            "headline": "Salad quality",
+            "reviewBody": "The rocket is consistently terrible ( wet) . \u2018Use by\u2019date 6 days away but already slimy- that is the norm in my experience . So sorry I gave them another go rather than choosing Woolworths",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharon Mooney",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6ae82c35-6e45-3909-839e-812ebeccb229"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/03060769-f748-5cbf-b20b-0297297b8ad7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-20T08:08:45Z",
+            "headline": "Can not contact to comment on a product. ????? Why?",
+            "reviewBody": "I have tried in every way possible to contact Aldi to question in regards to a product they sell but am unable to. They seem to have worded all the questions to get a certain answer why is ALDI so hard to contact. I could find no email address on the internet anywhere why is Aldi so hard to contact.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bob",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/7436128c-86de-4eff-a2c4-3b2c77f3844c"
+            }
+        }
+    ]
+}

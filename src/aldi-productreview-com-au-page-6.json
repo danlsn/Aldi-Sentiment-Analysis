@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ALDI",
+    "url": "https://www.aldi.com.au",
+    "brand": {
+        "@type": "Brand",
+        "name": "ALDI",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/61aa42fe-da9f-3c3c-9fb4-2eba07f78c10?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/f7f8960a-ac82-5698-a04a-62214672658c?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.5,
+        "reviewCount": 2400
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f6800015-f000-50a4-a34f-427d21453a8d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-06-08T02:06:56Z",
+            "headline": "*No Online Customer Service*",
+            "reviewBody": "No online chat. Mistyped email address on order and didn\u2019t have a account. No one to talk to. Frustrated Annoyed",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Helen",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/655e2e39-d30c-5c93-9ceb-45e96889f7cb"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/9da7fd01-38bc-5a08-8fd8-de25db52751e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-06-06T10:42:36Z",
+            "headline": "Lamb shanks",
+            "reviewBody": "Experience home cook here. Lamb shanks are a fam favourite , tried and true recipe. The shanks had an unpleasant chemical smell and taste. Def won\u2019t be buying again. First time I\u2019ve bought Aldi meat\u2026 disappointed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nell",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/711962ca-a4ec-4b43-acd6-0d8c89bb7d5c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/bc5d2325-f1b9-57f7-98a6-eab19fc9c9b6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-06-06T08:44:16Z",
+            "headline": "Rotten iceberg lettuce",
+            "reviewBody": "Bought iceberg lettuce in a plastic bag. When I opened it today, the lettuce was rotten.  It had leaves removed as well. Can't return it as I work away from home and don't have receipt. Iceberg lettuces cost around $5.99 at Coles so I thought this was a bargain buy. I wonder what has happened to staff ethics these days",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharon van Rensburg",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6ae8a09c-f66e-41f5-bc15-084d2905c0a5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6ebc6f76-1615-501d-a7df-15f43eabca76",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-06-06T01:16:12Z",
+            "headline": "Efficient and considering customer's feedback",
+            "reviewBody": "I've been going to Aldi in Port Macquarie a bit more lately (their goods are still affordable compare to other shops, and quite a few of them are of good quality too), and while I was there I went to their bathroom and noticed that the toilet paper rolls were loose and stocked on the floor near the toilet (not hygienic), and decided to talk about it to a couple of workers filling up the shelves. Few days later, I went back and needed to use the bathroom again. I was very pleased to see that they listened to my feedback and took action. Well done for considering customer's feedback and being efficient. I also should not forget to mention that there is a very nice sales assistant at one cash register that greets the customers and smiles, and is polite too. I think she has an Indian Background if you want to look for her.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Laura V.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/52698e71-e21d-4032-97f4-ce813c6c21d1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e905248e-4eb0-5d02-9fb8-febf12c44a71",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-06-05T04:51:52Z",
+            "headline": "Stock",
+            "reviewBody": "When I look at your special buys, all I see is Experiencing delays and No stock information available. Last weeks specials had 12 items available and 23 items not available. So I checked stock in other states and they were all green, In Stock. This happens way too often. So why is  South Australia the only state that never has the stock. Why do you even have stores here if you cant stock them like the other states.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Robert B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/774b8b02-bb9c-46ed-8399-ff20f55177bc"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ddd27fbd-3269-5bde-817d-33d728c1ae3f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-06-03T21:19:41Z",
+            "headline": "There frozen lamb shanks are tiny now",
+            "reviewBody": "There lamb shanks are half the size now and different flavour not as good . I need like 2 lamb shanks now for 1 meal for me.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Benny",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/292c5778-efdd-5465-a098-f69cdd12029c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6b58af3f-cbc2-503b-93d0-dda4b32bd2e5",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-29T21:10:16Z",
+            "headline": "Tiny lamb shanks",
+            "reviewBody": "The frozen lamb shanks are tiny now and taste different . Taste like leggos pizza sauce. Coles lamb shanks are tiny to now",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": " benjamin",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b9d6be76-b066-4559-83af-30e4edd1ab98"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/da1bd914-763a-56ad-9747-f27f2282557f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-29T15:07:17Z",
+            "headline": "Terrible customer service",
+            "reviewBody": "Really bad customer service, they need give training to their staff how to show some respect , or at least don't put them in pressure leads to being rude",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sam",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/93647085-b0ab-5df6-9063-f0175f5f32d6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/04355803-e732-5a84-a04d-b5a618afc4e0",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-28T15:50:50Z",
+            "headline": "Remano Pasta",
+            "reviewBody": "I bought 2 bags of Remano Large Shell Pasta from my local Aldi Store.  I bought them on the Friday and opened them on Sunday to cook both bags.  Both bags contained some sort of inserts which I then through both bags in the bin. I emailed Aldi straight away and to date I haven't heard anything from anybody with in Aldi.\n\nProduct very disappointing  and Customer Service abysmal",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Neil",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f3c02dd9-4833-45c4-81ff-0562e9165858"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/68a65519-4fda-532f-91b5-c9cd090b9e9a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-28T05:09:11Z",
+            "headline": "Adventurer Air Bed",
+            "reviewBody": "ok you want facts , the fact is that the air bed is a piece of garbage , the first time i used it the  seam at head of the mattress popped and a hole opened up and it went flat so it was useless and was thrown in the first bin i came to . they are the facts , it is cheap and nasty and not worth the money we pay for the crap .",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e344640e-bb49-5c4e-a66d-168f722a407f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ca62fad0-4a1a-5ded-bd96-6ca2ce9ae85f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-24T06:22:43Z",
+            "headline": "No Customer Service",
+            "reviewBody": "I was hoping to speak to a store manage to arrange an order for a church donation to the value of $4000 for dry goods however cannot speak to anyone which is frustrating. Aldi dictate all on line. Once upon a time you could contact store managers however if this is the new direction \"online only\" good luck.\nI have secured a significant order with Woolworth's where I could speak to a manager and arrange an order we are paying for delivered to a church as a donation.\nThank you for no assistance and no customer service. Maybe you should go back you where you can from.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Barbara",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cc102135-eec4-47f9-85a7-2e502ff3ea03"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a410d84d-46f5-5ad8-b774-191905f9e25f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-24T04:45:28Z",
+            "headline": "Prices are good",
+            "reviewBody": "Have noticed ALDIs prices have gone up. Some prices have gone down. Nutalex margarine has dropped to $1.99 where it\u2019s $4.60 at Woolworths and coles. Chicken is still a bargain so is a lot of meat products.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ephraim",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1ec5b332-2545-4562-a63c-2f011195d1c6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e7a3051d-9f96-5ac8-b52e-2c0cc0a6e0b3",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-23T06:30:17Z",
+            "headline": "Rotten!",
+            "reviewBody": "Chicken black inside - no meat. No customer service or duty of care. Chicken was rotten inside - cut straight in to bone. Don\u2019t buy from this shop - shudder!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Katy",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0f05c007-95d5-4c80-bb9e-7e1e33a9416c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c04a46a0-9892-557d-b81d-e07ac938b528",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-21T04:29:18Z",
+            "headline": "Never enough registers open!",
+            "reviewBody": "Love some specials but hate that when you want a few items you have to wait behind a massive order. Open more registers please",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gorttheenforcer",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/69494a70-6465-399a-830c-7330dd8ee69d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/60d095bd-9bbb-55d6-9e2b-e674407516a5",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-20T10:52:50Z",
+            "headline": "Aldi food is not good quality",
+            "reviewBody": "Aldi is not worth the money and the food is of very average quality. \nNot a thing from there is enjoyable to eat its just muck and terrible. \nA shop at Aldi supermarkets will leave u very disappointed and u will throw most out if u know the difference between food and fake food. \nNothing is fresh at all either. From tin tuna to fruit in jelly to meat and im a qualified butcher of 20 years plus and the meat has a funny taste and is in no way fresh or of good quality. \nWouldn't feed my dog from Aldi supermarkets.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Matt",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/af80e964-99f7-5ed8-b272-76fd99d302dc"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/fbb6378d-62b2-524a-919d-cce11328b767",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-19T22:53:12Z",
+            "headline": "Aldi - ONION BHAJI's",
+            "reviewBody": "Credit where credit is due ...... THESE ONION BHAJI's ARE GREAT.\nThey were apparently only being sold as a Limited Offer ... PLEASE BRING THEM BACK AS A PERMANENT PRODUCT..\n\nEven better would be for Aldi Australia to sell the 4 Larger Onion Bhaji's that they sell in the UK.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Unhappy Shopper",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cb70cd33-e24f-3ccc-906b-79d04749e9b4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/292640a7-eb5b-52c0-b8fd-06240ba81d09",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-19T08:43:40Z",
+            "headline": "I like Aldi. Thank goodness there is some competition to Coles and Woolworths",
+            "reviewBody": "I get a few things there regularly and glad it is an alternative option to the duopoly we are generally hostage to in Australia. Off the top of my head their low carb bread is good. There are often good deals with specials that come around.\nI've generally had good experience with returning things to them when I have to. Customer service is good by far, only the odd cantankerous shop assistant now and then which happens.\nI hope they treat their suppliers like produce and dairy producers fairly. I wish they had organic fresh fruit and veg.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Customer",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/590c0474-e0f8-577a-8da2-28b867a71224"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8fe0abd2-0b69-5d62-86ca-eade7e768742",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-19T04:33:35Z",
+            "headline": "Rude cashier",
+            "reviewBody": "Cashier at ALDI Plainlands Qld, rude beyond belief to my daughter, who apparently wasn't quick enough to empty her trolley.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CHH",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a38a6f56-eca1-563f-b07f-ef410a871281"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2dee8989-fb6d-5d71-8299-6096cffc2b5a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-17T01:44:28Z",
+            "headline": "You get what you pay for",
+            "reviewBody": "I remember going to ALDI about 15 years ago, products were cheap and high quality and the beer was good. It gave the duopoly Coles and Woolworths a run for their money. Now ALDIs standards have fallen or gone stale, the fruit and vegies aren\u2019t good, the meat is dubious, the beer is not good, the checkouts are long and time consuming etc. Coles and Woolworths have lifted their standards like better store layouts with Improved Fresh food sections and they have self service checkouts which save time and staffing costs. ALDIs limited time products which if your lucky, can be good which tempts you to keep coming back. The biggest problem is ALDI\u2019s business strategy is designed for Europe and has problems with Australia and the US because customer service and understanding the community is vital for any business to survive in the long run. Even the American supermarket giant Costco knows how Australia works than ALDI does.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Luiys Reviews ",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/41e08cda-d357-3bd7-8553-1c169b41ece3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a1f09de6-97f5-5f16-bd4d-9c1428641e90",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-17T01:12:31Z",
+            "headline": "Unhelpful",
+            "reviewBody": "After purchasing 2 bubble balls from Lilydale Aldi I found one was faulty so I took it back and received a refund as this store didn\u2019t have any left so I enquired if there was anyway of finding out if any other stores had stock but the manager said he was to busy to look that day if I came back the next day he maybe able to check the next day I went to chirnside park Aldi as I work in the centre and asked one of the employees there who kindly looked up and told me that greensbough was showing 6 I asked if there was anyway of making sure that they had them but unfortunately he had to go onto register and called the manager who told me they are not allowed to call other stores so I asked my daughter who lives about 30 minutes from greensbough if she could go and see so she packed her toddler and baby in the car only to find there were none there I felt very disappointed that I had troubled her when all it could of taken was a quick phone call",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lyn",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b61fcb45-3bed-3408-aad9-25bfb30e753a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a0a26d5d-2b86-51a1-9b53-8cf9451f7408",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-15T07:59:48Z",
+            "headline": "Humiliated",
+            "reviewBody": "Why I will never shop at Aldi again.  Twice I have been asked to show that the bag I am carrying in which to put my purchases.  Being treated like I'm trying to get away with something doesn't go down well.  If they  packed your bags for you they would soon realize that you're not trying to shop lift.  Will never go back.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nick F.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c69a1473-00ea-4866-ab97-d2bf0d4e0030"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f7907e50-b734-5617-8a30-e6183af7043d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-12T05:28:53Z",
+            "headline": "People need to be aware that we are being told lies. The quality is not there so how cheap could cheap be?",
+            "reviewBody": "I have read many of the reviews presented by people herein. I have to admit that they are spot on. I am still very surprised that no one in ALDI management would take their time to read and take is seriously but then, could we argue that we are a minority? They claim to save 1500 a years? That would equate to 28.84 dollars a week. Big deal? When: as a guy put downwards regarding the meat quality and fat content, he is spot on. There is another user stating about the tuna and ruining a $ 20.00 meal. Well the tuna in spring water is just like paper, horrible. The whole normal fresh chickens are not good in odour and flavour. You need to buy the free range. So, in saying all this, where is the 28.84 dollars a week saving? Will buy me an Aston Martin ? I then end up going to Woolworths where they take advantage but the compared to Aldi the majority of the food taste and aroma as such is different. It is really sad as we need a balance to keep the others honest, somehow but it is not happening. Whatever they want to protrude as \" price\" , then what exactly is the advantage? I just had to throw away the apples my wife purchased at Aldi. They have no flavour and no idea from which tree they ever came from either? Fresh red salmon, is 10 out of 10...........but the difference in price with Woolworths is not gigantic. I still buy with a lot of care a few things. Consistency is not there either. I am ultra disappointed. Das ist nicht gut !",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Divine Justice",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/efb89acd-fc39-30b6-8eb9-122d6ade986e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/04ca7ecd-39a9-5535-aa6c-e5cade9fb3e0",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-06T07:30:54Z",
+            "headline": "Low quality meat products",
+            "reviewBody": "I have used all the grades of mince meat that Aldi sells.\nComparing them with other retailers, Adli has the highest fat content in all grades by far.\nFat content comparision in their sausages is even more extreme, getting over 1/2 a cup of fat left in the pan.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ChilliDude",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/49563124-90ed-57ad-9a5f-24a92d52ce28"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ae9f8073-7137-5a36-8b57-75cc90ca9857",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-05T09:48:23Z",
+            "headline": "Tuna Ocean Rise Yellow Fin chunk tuna in spring water",
+            "reviewBody": "Aldi tuna used to be chunks like Sirena. Opened a can tonight and threw it into my pasta and killed a $20 family meal with crushed tuna. If I wanted cheap tuna I would have paid less and gone to Coles or Woolies home brand. There meat has also become 25-40% more expensive and has more fat than before so I'd say 40-60% more expensive. There fruit and vegetables are also of a lesser quality, apples lower grade and don't get me started on the zucchini and other fruit and vegetables. Who wants huge oversized items, certainly not your majors who are charging more for better quality. I could go on forever but check out their weekly specials, can be had for a cheaper price if you look around. Don't get sucked in, Big W and Kmart are probably cheaper for better quality. Don't get me wrong I used to buy 10% of my groceries 10 years ago from Aldi then went to 80% but have now gone back to 50%. Check pricing carefully, light cream $2.09 Aldi, 2.10 Coles.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michael H.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0b66191f-2733-4ca9-9a55-760d12e66c00"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/69fe486f-39ac-5c12-a003-e65f861aff97",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-05-04T07:36:51Z",
+            "headline": "Caveat emptor, BUYER BEWARE!",
+            "reviewBody": "Purchased from Aldi Hervey Bay 3/5/2022. Advertised as 100w RMS through 2 x 10\" woofers and a tweeter. Absolute scam, not powerful and sound quality is atrocious. Output comparable to Jaycar 40w RMS single 12\" karaoke speaker.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Grant R.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/acedbd87-3b91-44cd-90e6-30e649383c5e"
+            }
+        }
+    ]
+}

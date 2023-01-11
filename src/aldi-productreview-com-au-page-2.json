@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ALDI",
+    "url": "https://www.aldi.com.au",
+    "brand": {
+        "@type": "Brand",
+        "name": "ALDI",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/61aa42fe-da9f-3c3c-9fb4-2eba07f78c10?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/f7f8960a-ac82-5698-a04a-62214672658c?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.5,
+        "reviewCount": 2400
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3c6b9ca3-d208-578b-afdc-16c13c5fcfc7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-13T03:00:52Z",
+            "headline": "Frozen honey glazed roasted parsnip",
+            "reviewBody": "I think I want to vomit seeing the amount of oil that came out of the parsnips after I cooked them",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sue",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3dab8328-b8bb-544b-8255-e4e7f7330583"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e50fc074-17cf-5cfb-af41-e9bfd2301aeb",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-13T02:29:44Z",
+            "headline": "Would rate a 0 if I could",
+            "reviewBody": "Been to 2 Aldi stores to get the vinyl records advertised in the brochure.  The first store didnt know if they were getting them or when.  The second store, the man could barely speak English and didnt know when or if they would get stock.  Tried to ring.  Impossible.  They have no contact details to speak to a person.\nThis is not the first time they do not have stock advertised.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anne",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e2e35f78-6359-39c4-b7ec-4cb98184bfaf"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ca1738c3-f78f-58db-9dee-9dd669975848",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-12T00:45:33Z",
+            "headline": "Selling rotten R2e2 mango at $1.99",
+            "reviewBody": "I brought 7 R2e2 mangoes on 3 December 2022. All of them rotten internally. I have the receipt and photo to prove.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gin O.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/20355c87-daa8-4508-bf2e-0dbb0b172557"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/325ff042-4325-5b6d-817c-019a499458c6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-09T07:27:19Z",
+            "headline": "Collingwood decided only self service  se",
+            "reviewBody": "Collingwood have recently renovated looks good\nHowever now only self service \nPoor girl  who was the only staff said  they will open check out if requested ??? \nRubbish as checks outs used to store items \nAfter years end my association with Aldi",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Richard L.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/62a8252d-0078-4ab0-85e9-739026852205"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/582dd416-6343-546c-9f7d-62310c65d200",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-07T18:15:59Z",
+            "headline": "Aldi customer service improvement",
+            "reviewBody": "Would be great if Aldi introduced a search engine like other supermarkets. The many catalogue views are clunky and don't fulfil the advantages of search engines which would help the many millions of customers - otherwise Aldi products and staff are great!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shopper",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b0542a3c-5aa1-3396-bffb-9c56298fe446"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6ea85a42-67bd-5552-93d2-3f1a9d6a742e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-07T13:14:59Z",
+            "headline": "Bank charge on debit card",
+            "reviewBody": "7/12/22 we have been charged again for using a visa DEBIT card not a credit card, also before 10 am a bottle of alcohol purchased not bagged please Aldi what are you doing Thankyou \nKevi Howe",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kevin Howe",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/92d67beb-986b-5727-a93c-ea4c14bbe9e0"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6d2c0bbe-5599-5203-bc99-8916b510e26f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-06T05:57:10Z",
+            "headline": "Discusting",
+            "reviewBody": "So discussed that if you don't show some little boy inside your handbag they will refuse to serve you. Well discussed with Adli at Munnopara when a little crap decides you don't get served if he cannot look in your bag. I don't think so don't care what your policy says it's not a law maroon. I send hundreds of dollars on this shop every week for along time and have NEVER had this problem before. Your little trash hero has just lost you a customer. One who runs a business of there own and spends thousands of dollars each week in this store. DISCUSTING",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sue F.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1cf1a347-4f5f-495a-be99-9939eb2a7ec8"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/67cec167-2b97-55f2-ac51-1d272bcc310e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-06T05:15:00Z",
+            "headline": "Do not buy from then I would give a no star if possible",
+            "reviewBody": "Missing parts no help from them at all and no help from the supplier, apparently not available not even a year fighting for parts so I could build it. Suppliers are meant to have parts for a reasonable time in Australia # acccaustralia",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kat",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f7de1a1b-2433-5c5a-b7d4-e4644e9cd8b5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/742aaa17-bb68-55fe-adae-1c7c9838787e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-05T05:09:37Z",
+            "headline": "Butter chicken with bone in it.",
+            "reviewBody": "I normally absolutely love the international cuisine, but tonight I nearly choked to death on a sharp chicken bone. I have put the bone in a glad bag and it has pierced through it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Varise K.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/90add436-92c2-4667-87ce-7933e05ef7b3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/0b092555-8381-5225-a6fd-cc875a38fbc6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-29T08:37:59Z",
+            "headline": "Terrible dimsims",
+            "reviewBody": "The Urban Eats dimsims from Aldi have a very bitter taste. Yucky!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tracey N.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6f162b29-2f66-4e0e-8c6d-21d2c43b5bc7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5cb5923a-c754-5fd3-a9c5-eabd91f0851d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-28T05:59:19Z",
+            "headline": "Coconut dream body wash",
+            "reviewBody": "Why oh why did you change the formula for this product? Original one with aqua trim smells so nice but new one with blue trim is awful.  Old Aussie saying \u2018if it ain\u2019t broke don\u2019t fix it\u2019. It was a mistake on your part.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joann B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3d507d94-adff-43d5-baa3-47d2c4c80c08"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/201b31c5-63c4-5e9c-b4c7-5780f14e9212",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-25T23:25:48Z",
+            "headline": "Casa Life Led Star Path Lights 10 Pack",
+            "reviewBody": "Do not buy this products. Frustrating to untangle and put together.  I did not keep the receipt otherwise I would return them",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tom",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2b9063b3-5901-4052-b6a6-d6289f446c7e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7e92813c-e153-54d1-bd15-3a8a7c827408",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-25T22:58:44Z",
+            "headline": "Will not recycle",
+            "reviewBody": "The two Aldi stores in my 10km surrounding area are the only two stores that refuse to let customers take their vege scraps for their animals. All the other fruit and veg shops including Coles and woolies are only too happy for their waste veg to be recycled. \nAs a consequence I do not shop at Aldi anymore and I would recommend other environmentally aware people do the same.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Doug",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3f25f440-3f51-5bed-8e06-f5cf8ba267c6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d626be01-cde5-526a-b5f3-a026e2df99a6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-21T20:12:25Z",
+            "headline": "Discriminating of Person with Disability",
+            "reviewBody": "BLACK-LIST for DISCRIMINATION of PwD, multiple accounts:\n1. Abusive, judgemental & rude of PwD wearing prescription precision-tinted lenses\n2. No Assistance Dogs allowed (subjective rule). Staff judgemental and ignorant of Acts applying to Assistance Animals. PwD verbally abused out of store, not even given opportunity to produce Certification.\n3. Bully-ish & impatient staff at checkout, no allowance for disability or age ....witnessed them speed-up process when your unable to remove purchases as fast as others. They might as well 'stone' you out of store, throwing your purchases at you till your gone.\n\nFor ethical, moral reasons rethink shopping at Aldi.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "A McD",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/daf23f13-977a-487a-8c3a-fbe539ee68a9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/24c5b2f1-f46b-5972-91bb-2771f79b6f14",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-21T04:28:07Z",
+            "headline": "Not fit for consumption",
+            "reviewBody": "I am floored as to why Staff at this branch think it is ok In offering blueberries that are already starting to foul up?! This should not happen. Other Supermarkets throw this sort of garbage in the bin. I tried finding a complaint channel with Aldi. This was not to be found. I guess they don't want customers feedback or complaints. Just have a look at these!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "rainerluck",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8222ec27-cc8d-4031-9ff4-cc076f512657"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f4b70357-365c-5171-bc97-d391c471b3ef",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-20T13:44:44Z",
+            "headline": "Very disappointed",
+            "reviewBody": "I BUY sanz crackers every week from Harris dale, every time they are broken in the same place, I think that the way they are taken off truck delivering them is wrong , perhaps they could take a lighter approach in handling them. I will not buy them again until I have seen a change, next stop Coles to see if there more careful",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "K Buckley",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c65330ee-e5cf-3aa0-9c3d-fdf51b200e94"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/84d8f1c5-3d25-5b25-8e8c-e3324e77ccbb",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-20T06:26:53Z",
+            "headline": "Not acceptable Aldi",
+            "reviewBody": "So disappointed with Aldi. Bought a 1 kg bag of avocados, and three were overripe, whilst the rest were as they should have been. No excuse to package fruit at different stages of development just to get rid of it and make money. Do the right thing and dispose of it!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennyc",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/13670704-96a2-3fab-8c8a-251938eb94be"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/77c7f942-f7b4-5065-972d-797c57396a18",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-19T01:03:38Z",
+            "headline": "Bad service",
+            "reviewBody": "Register 1 and 2 are for alcohol purchases only but Aldi Marsden Park never opens register 2 despite however long is the queue on 1 with people without alcohols.I some times wait 5 minutes to pay for a bottle of wine. Really bad service.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Emmett",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/40cabb8b-1c16-5373-a4eb-dca1832613a8"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3cd608dd-2e80-58d7-b019-312680e12813",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-18T12:21:57Z",
+            "headline": "All your cashier are terrible on customer service",
+            "reviewBody": "Every aldi cashier are rushing when scanning through the item, and just throw the item to you like they don\u2019t give a crap.This policy makes aldi the worst supermarket in the world , never ever going back to you guys, I would give you guy\u2019s negative score if there is an option.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "james yong",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d2d18432-f1cd-4b18-ab48-7892d306cbd2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2e0f63ec-b045-51a5-8bf4-a71cc488d310",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-18T08:18:28Z",
+            "headline": "Chicken kebabs",
+            "reviewBody": "The roast chicken flavoured kebabs were terribly disappointed. We ended up throwing them away.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Donna",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/11ce0e5c-8aa5-55d4-9b98-156242bbba97"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3481823c-08b5-5ab8-b322-8d836149e2a4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-18T05:56:37Z",
+            "headline": "Needs reviewing fresh stock control",
+            "reviewBody": "Great customer shopper spend nearly $200 fortnight at Aldi, use by dates on salad veges carrots etc are only  2-3 days ahead, as we are a pensioner customer we need at least 10 days to use all product, otherwise most groceries good value in cost and quality.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John Halloran",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d800fab4-1aca-317c-8d36-a42c7a7581dd"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/595f7b44-398f-58cb-9296-5ab5a2dcb6c8",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-16T12:17:03Z",
+            "headline": "Small laptop table on wheels: atrocious quality from Aldi",
+            "reviewBody": "This was $40 down the drain. The smaller surface of the table came off after about two months use. The screw holes in the wooden table stripped. I should have noticed the screws went into wood and not metal, and taken it back straight away. Really disgusting for Aldi to provide such low quality.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "oz_consumer",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/7fc63452-acdd-3a98-8d92-af4334fae35c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b53c35ff-10ae-5e8d-8752-6131af4dd96c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-14T03:14:18Z",
+            "headline": "Different for sure.  Good ?  Nah.",
+            "reviewBody": "Aldi makes much of the fact that they employ Australians (well, duh !), to take the sting out of the fact that the profits all go back to the Motherland in Germany.  But after a few interactions with the rarely sighted employees, you will wonder how on earth these people keep their jobs.   They all have the aura of complete demoralisation; most don't even try to hide their disenchantment, openly griping about their managers in front of the growing line of customers while they gossip with their colleagues, eventually (maybe) getting around to opening up another check-out (if only there were other employees there to actually help).   \n\nNo amount of hipster advertising can put lipstick on this pig.  The novelty factor of Aldi wears off pretty quickly once you move beyond the very limited range of regular grocery items they sell that are of comparable value to Coles and Woolworths.  For the most part, their fresh food is of poor quality, their bread products are mostly awful, and their re-stocking process is appalling.    The majority of the weekly bargains they spruik to lure people in are mostly cheap tat.  \n\nAll in all: the stores are deliberately understaffed, head office eschews any innovations in self-check out that would require capital investment, they offer the lowest quality goods to screw prices down, and then send all their profits back to Germany.  For these reasons, Aldi is to be avoided.  Unless you're just flat out broke, or like the feeling of shopping in a developing Eastern European country in the early 1990s.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jules A.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a0674139-0ece-41f8-b2d7-ae81f47b8498"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b4df9ef8-8c4f-55bc-8567-a0091735c47f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-11T03:02:01Z",
+            "headline": "Cannot contact Aldi by phone, no where on website doe it mention which stores sell appliances.",
+            "reviewBody": "Cannot contact ALDI by phone, no mention of where to buy appliances on website- poorpoorpoor",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maree Tennant",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5012d5f9-18fb-5f22-8596-7d769aaea280"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5f963a4e-3583-572f-a71a-ad83d4ea65d2",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-10T23:38:34Z",
+            "headline": "Highly recommended",
+            "reviewBody": "I highly recommend this store. Great value for money and terrific customer service. Though they don't have a wide range, what they do have is great value. I haven't had the bad experiences that people cite, in fact, I believe that all supermarket chains can have faults, yet Aldi puts in the efforts to improve whenever, wherever they can, as long as they are informed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nathan W.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/517bc729-926a-4acf-9f59-7706bc2c7790"
+            }
+        }
+    ]
+}

@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ALDI",
+    "url": "https://www.aldi.com.au",
+    "brand": {
+        "@type": "Brand",
+        "name": "ALDI",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/61aa42fe-da9f-3c3c-9fb4-2eba07f78c10?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/f7f8960a-ac82-5698-a04a-62214672658c?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.5,
+        "reviewCount": 2400
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/bb57db1e-d09a-5d30-be76-dd66a4d20128",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-10T04:02:45Z",
+            "headline": "Rude Cashier and poor service - Not worth saving a few cents for",
+            "reviewBody": "I usually shop online from Coles or Woolworths for grocery.  Several times, since I was in Chatswood, I dropped into Aldi to pick up some items.  Problem (1): There is always a long queue and long wait at check-out, and one particular female cashier was almost always discourteous and loud.  I have learned to avoid her, but today at around noon, she was the only one serving so I had no choice. When I got there, I showed her my shopping bag that had two small gardening items from another shop.  She looked, nodded and started scanning.  When I was about to pack away the items, she asked to check my backpack.  When I said I would show her after I had packed the grocery away, she suddenly wanted to see the shopping bag again in addition to the backpack.  It was a loud and blunt demand, giving the im0ression that she thought I had shop-lifted.  Of course there wasn't anything of Aldi's in my bag and backpack, but there was no hint of apology or even a \"thank you\" from her. \nProblem (2): Price - Comparing the prices of similar items sold by Coles and Woolworth, it is a myth that Aldi is cheaper.  Some items might be a few cents less, but others are similar or even more expensive.  Besides, Aldi never has discounts on real food for the dinner table, whereas different specials/half-price items are always offered by the other two supermarkets every week. I do weekly online shopping at Coles, and would save at least 1/3 of the total cost and only pay a small delivery fee to have the grocery delivered to the front door - $4 and even $2 if I choose a 6-hour delivery window.  If there is any complaint concerning any item (e.g, vegetable not fresh, egg cracked...), I get a refund straight away and no questions asked.  Conclusion - I would be extremely foolish to ever go back to Aldi again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Aurel",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3c5b291d-90f9-450b-887e-6d315461532c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/9abdbc6d-c2c2-5656-852c-31b76a292d35",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-10T01:24:01Z",
+            "headline": "No stock poor quality fruit and vegetables",
+            "reviewBody": "My wife brought bananas again and as usual after few hours bruising appears length of banana not spots when ripening. Some of there salad items ok but most stock is second grade with premium price suggest you go to your local fruit shop to get good quality. Stock shortages have been a problem for some time especially ice cream which is still unavailable only named brand which is  lot dearer than other majors. Seafood especially fish and prawns always scare especially there\nAdvertise specials. Christmas specials advertised on TV weren\u2019t available. Other majors seem to have the stock available now. Aldi should not advertise products if they can\u2019t obtain them",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pedro",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6dd5758b-e7bb-314a-81ee-c6c300fe74ba"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2473710d-daf1-5d69-a39a-42601d8280a3",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-09T13:02:23Z",
+            "headline": "Loved them until one bad experience-never again",
+            "reviewBody": "Whilst eating a Spinach & Cheese Gozleme I found what appeared to be either a small bird beak or a foot, I bagged it and returned the sample and remaining gozleme and packet to Aldi, I was given a refund Whoopie do, I had to ask for my name and details to be taken as I said if I got sick I would be going back to the store.  I have never had one since, can\u2019t stomach them, I will only buy fresh when I find them now.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Necia L.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/aa8fbd62-bdf6-48ec-b7cf-9f1a9266bbe1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c84f408f-eb6e-5920-8055-a8e077c51261",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-09T12:54:44Z",
+            "headline": "The worst tasty cheese ever....",
+            "reviewBody": "Aldi westacre vintage cheese is so bland and tasteless, years ago untill they changed who they got it from it was so nice, I just wasted my money, so angry and disappointed, there is no way this cheese should be called Vintage, it's just like a home brand cheese....",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Steph G.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ed7490a0-40f9-46d3-925f-37281d96590c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/68c4db12-cb10-50e8-a355-cb7e82822f4a",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-09T07:21:01Z",
+            "headline": "Bad experience with product and company",
+            "reviewBody": "I have lot of problems with leaking bateries from ALDI. I lost an electric clock long time ago.I lost a Volt tester from $60 and an expensive 4 bateries professional USA MEGLITE TORCH worth $150, about one and a half year ago.. Aldi only offer me a $50 voucher to shop grocery at their shop(?????). ALDI HAS NO RESPONSIBILITY FEELINGS.  THEY DO NOT STAND BEHIND THEIR PRODUCTS AND DO NOT CARE WHEN THEIR PRODUCT DAMAGED OUR PROPERTY. I do not understand it is allowed in our country.  I will never more use aldi bateries in my life.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ant s",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0ac507cb-9087-3e89-be9e-9945dafb954f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a486beb8-eba9-5a23-9272-212efa955887",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-09T03:35:37Z",
+            "headline": "hidden extras !",
+            "reviewBody": "I am a shopper at Aldi over last 50 years which  includes overseas experiences.\non satuday last 7/1/2023 I purchased chicken thights and on the face of it , the presentation looked well.\nhowever on close inspection unwrapping this product at home,it appeared that 10% at least was fat rolled up cleverly hidden within the product and made up of bits and pieces. This did not resemble chicken thights. The  product was Broad oak farms chicken. In the past the chicken tights were of a better quality. I am so disappointed, to have to pay for a lot of fat I don't eat.\nphotos show front and back.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "astrid beglinger",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4a4e5d43-b83e-45d0-816a-36aaf543e91e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/98cbbdf8-99c7-5656-ad80-e99acc400322",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-08T08:41:40Z",
+            "headline": "Tasteless",
+            "reviewBody": "Just had some world kitchen Ricotta and Spinach Agnolotti.\nI'm sorry but it was tasteless sludge as far as I'm concerned. No flavour at all except if you like boiled flour.\nNever again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Steve W.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6c9b8727-e95a-4f6c-87d4-3287b168bf6e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/eaec696e-7c24-58d7-a6fa-6c338579faed",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-06T03:57:12Z",
+            "headline": "Terrible customer service",
+            "reviewBody": "Went to Bunbury store received a terrible customer service from store manager. She ignore customers rights and rude. I made a complaint on Aldi\u2019s website, two weeks already, there is no responding. Actually I just find out, they get rid of directly contacts, you have to write a form and make online inquiry for everything. For such a big business, make customers can\u2019t even reach them by phone calls?  Everyone, Aldi has no customers services, be aware of that when you shop in their store!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gigi W.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ff5c0697-904f-435f-acb0-2c60b210fb56"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4fde58d0-a6f8-5b1b-b8ab-b004e409c3d5",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-06T02:03:39Z",
+            "headline": "Still the same...nothing changed. .thin flimsy bags",
+            "reviewBody": "Still thin flimsy plastic bags with fruit dropping through and bruizing and staff can't do much about it as it's up to head office to improve bags. So why do I bother sending reviews if they don't care. stop sending me review request if you can't fix the issue. I just go to my fruit shop next door now to Aldi to by fruit and vegies.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sal",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d944e8a1-f1f8-374b-b1e5-d07ecfc6e8cb"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ba68b8cd-09eb-5c9f-ba5c-6f91d1d7b834",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-06T01:22:29Z",
+            "headline": "Strawberries",
+            "reviewBody": "Bought strawberries on Tuesday open the map today which is Thursday and I have 15 out of 45 strawberries to eat yes I counted them\nEven have a photo but apparently I can't show it here\nAt $5 a pop ($4.99) and 6 kids to feed they thought all the Christmases had come at once as they got to strawberries each LoL",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "susan m.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/39998670-bde8-4d25-88b6-8dcd21f03d13"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cafbf23e-b1a0-5b79-ae23-d5fa4e128192",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-04T07:48:14Z",
+            "headline": "Elmsbury Triangle Tempters",
+            "reviewBody": "Elmsbury Triangle tempters, Spinach & Ricotta. The contents of Ricotta and cheese was non existent, 99% was puff pastry, and literally a speck of something green. Thoroughly disgusted in this product when the advertising on the bag shows differently, misleading, false. And im an Aldi shopper, and never write reviews.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rob",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/72f71e78-4ac4-4d97-a743-f4384a5b4496"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cb12aaf9-fbc7-5211-a0f8-820e3b2ffa9c",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-02T04:20:59Z",
+            "headline": "Aldi - keeping the low prices and reducing amount in packets.",
+            "reviewBody": "My friends and I compare notes when shopping and it came up in the discussion that rather than raise their prices (much), Aldi are reducing the amounts in the packets.....\n\nThis is a generic issue, of say Product X was $5.99 per kilo.\n\nInstead of bumping price up to $6.99 or $7.99 a kilo, they reduce the product in the packet from 1 Kg to 800 grams.\n\nSo while it's not illegal and it's all advertised, it's a bit of a sleight of hand \"fine print\" (don't make waves) kind of a con job.\n\nYou know the packs look the same size and the price is the same.... But....\n\nYou walk into the store assuming that buying 20 x what appear to be the same old 1 Kg packs of XYZ product, is going to get you 20 Kg of product, and then you find that your only getting 16 Kg of product.\n\nOh the monthly shop up - lets start looking at other vendors.\n\nLike the local green grocers and market  gardeners and butchers....",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "TPT",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/226de6f8-47d4-3c06-9c07-282fe5e17d22"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/99454ca4-838e-598c-98cf-bb0c1ae7efab",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-30T05:07:37Z",
+            "headline": "If ur a mum don\u2019t shop at Aldi, they can\u2019t help",
+            "reviewBody": "Do not buy from Aldi the worse service I was trying to buy a bedside table while having a baby in a pram. The box didn\u2019t fit in the pram and I asked if someone could help me take it to the car and no one was able to help. After fighting they would call another store to see if they have stock",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Prefer not to say",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/be650db4-83d5-4c66-83f3-dacba4360096"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e67d8f70-e710-5dfd-b5df-cf29c4806c10",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-30T04:56:38Z",
+            "headline": "ALDI Bad Different",
+            "reviewBody": "On many of my shops I have purchased boxed Royal Gala Apples and likewise Pink Lady Apples and always without fail finding many within every single box every time they are badly bruised externally going into the cores.\nThe question is how long are they kept in storage before distribution ?? As evidentially it must be quite sometime and your catch phrase should in truth be \"Bad Different\" as some of your product are spoilt before hitting the shelves.\n\nFurther it is uneconomical having to travel back for a refund everytime due to fuel costs.\n\nAnd this matter would not be limited to one store.\n\nCheaper is not best and I shall be putting this on the \"Product Review\" website in due course.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joe P",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ffd66473-cd8a-371d-9314-60743cabe05a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6701e6c6-ccd7-559b-8ff4-bad4f82375d7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-27T01:30:29Z",
+            "headline": "Bonus Purchase",
+            "reviewBody": "I bought this because it said it would turn 33rpm recordings into MP3's.\nIt does the same thing with Cassettes and Radio. You can connect a Mic. \nI taped all my bull sit clarinet, violin and trumpet solos and was shocked \nto find I sounded really good 1 out of 4 recordings.  It's a 33 rpm record \nplayer they sell once a year for $70 AUS",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Chris P",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/32d6aac7-cded-35e7-940b-17657d8d0c85"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ca1e1598-cc4f-56b0-bf07-57a2ee2f38be",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-24T10:30:31Z",
+            "headline": "Iron Bark Chip Hazy IPA",
+            "reviewBody": "I love Craft Beer and this beer is delicious.  Fantastic value for money.  I'm just hoping it going to be part of the normal product line.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dave T",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/fa0fba7c-04d9-5ca1-9e65-20f95b90fb4c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e4156ee6-b8e1-504d-afd1-fef31c4aa7af",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-24T07:42:00Z",
+            "headline": "Boneless lamb leg  roast",
+            "reviewBody": "Wow not sure what part of the animal this piece of meat came from completely full of fat wasn't any part of the Leg . $21.00 per kilo  for dog meat",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "craig m.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/417f465e-26b9-46bb-949e-115618e91da4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e3eca81b-6096-5998-9724-c25f44205df5",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-24T02:10:32Z",
+            "headline": "Fruit not so fresh",
+            "reviewBody": "Bought some pears and apricots. The pears started going off within two days, apricots within three days it was a complete waste of money  I am going to my local fruit shop from now on.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1777d975-e591-4b14-a5f5-a7001479cdf5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/58830e95-cba5-5d6d-8fc5-6b5627dc4420",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-23T13:17:13Z",
+            "headline": "Fruit and veggie not so fresh, sometimes rotten.",
+            "reviewBody": "One star for the staff who work really hard. One star for the sweet crepes and the tiramisu. One star for the good extra virgin olive oil.  Unfortunately quality is not consistent among all areas; e.g. the fruit and veggies one is downgrading more and more. I got a basket of navel oranges that looked ok from outside but once at home I realised  that the 60% of them was rotten, and that wasn\u2019t the first time this happened. Considering that the prices are not so convenient as they were a few years ago, I\u2019m not sure shopping  at Aldi is still worthy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marilu",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8b2ed9e9-7331-3e7d-a4a1-c16a162d7752"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c5bbf6f9-19d1-5f1e-a195-22dcc576406a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-19T05:34:58Z",
+            "headline": "Mince was inedible",
+            "reviewBody": "The meat would not be able to digest i couldnt even break it up to flush down sink fatty disgusting will be stuck in guts for years",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lisa",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d06f7861-fd63-3624-85fa-3f076fdf6675"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/656e7189-386e-519a-8953-3844a6159dd6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-18T04:53:21Z",
+            "headline": "Poor customer service!",
+            "reviewBody": "Out of the 3 main stream supermarkets here in Australia ive always had slight soft spot for ALDI with what they have to offer. I mean its undeniable that they have some interesting products to produce and the \"special buys\" has always been an indistinguishable plus of the store. But after my recent dealings with this company and particular store as a whole, ive now got entirely different attitude towards the franchise.\n\nALDI in its own words have 3 main core values towards its customers and these are, quoted from their own website; Consistency, simplicity and responsibility. The one that stands out the most here too me is the responsibility aspect. Quote on quote ALDI states under this that \"{responsibility} Stands for our commitment towards our people, customers, partners and the environment, as outlined in our CR Principles. It also includes principles such as fairness, honesty, openness, service standards and friendliness.\" Something that now proves to be almost utterly false.\n\nLets talk about my experience at hand, a individual known to us (who to which seems to have an unrealated personal issue with us for an unknown reason) began working at my local store. Now I've been shopping here, with next to absolutely 0 issues since it opened and found it too be pleasant other then a obvious decline in the \"special buys\" availability. However alittle over a year ago i was shopping here and this previously mentioned individual so happened to be working that same day, un-to-known to us at the time, this person who has some issue with us, took it apon them selves to tell members of this store, including the manager, a fabricated story which resulted in a disgusting response by those involved. They proceeded to make a scene, including the check out chick who literally threw the groceries at us and all of those involved told us we weren't to come back. This individual who mind you wasnt the one who threw the stuff at us, then left their register and then followed us outside to continue the altercation, meanwhile there was people waiting to be served by this person. To trim the story down, they essentially told us were not allowed back, we wouldn't be served if we did come back and that police could be called. A staff member too, after we'd left, who wasnt even working that day had been called and came and abused us outside of the store entirely. After all of this we proceeded to call customer service which was the biggest joke as well as sending various emails in regards to it all. We were also told maybe I'd be better to shop elsewhere or on a day this person wasnt here. So we then took precautions such as getting other family members to go in or trying to go in on days this person wasn't here and this created a slightly less hostile  environment.\n\nAlittle over a year later, long after this, today as im writing this infact, we decided to go in there since we knew this person wasnt working and the fact that we had gone in 2 weeks prior with no issues at all. So therefore we assumed everything to be okay now. The shop started off normal we got our stuff that we needed and were finishing up when a two thug like staff members approached very rudely and proceeded to evict us from the store. We proceeded to ask on what terms were we actually banned from the store and both of these thugs couldn't actually provide a reason other then \"that we've been told your banned\". They claimed to have mailed a banning notice, to which was false. They didn't service a notice of any sort at the time to say the reasoning for this ban other then simply verbally stating that we were banned. They also told us that we wouldn't be served which meant we had to abandon the trolley full of goods in the supermarket. Throughout this whole ordeal they also proceeded to call the police which we insisted they do as they had no reasoning to stand on, to which the police arrived. We spoke with two very nice police officers who proceeded to hear what happened and said that theyd talk to the manager and see the reasoning before theyd get back too us. They never did, so we assumed there wasn't a legitimate reason for a ban.\n\nUnder the discrimination act of 2010, to which a organisation must provide a safe and bully free environment to consumers however this isn't the case with ALDI and it seems that this kind of behaviour is acceptable. They can literally get away with bullying, harassment and emotional abuse over simply disliking you as a person and nothing more. Ive also been made aware too that i can be \"blacklisted\" with my personal information, which can be distributed to other stores who can ban me too for absolutely doing nothing at all. \n\nALDI has not been fair in there treatment considering we haven't broken a law like shoplifting, we haven't verbally assaulted anyone or physically for that matter. They haven't been fair in the way that they handle mismanagement by staff and rather sweep it under the mat for there the protect of the name. ALDI also hasn't been open or honest either, considering that there is no reason to stand on why we're actually banned or open about the process, management of the issue or result and would rather pass the blame to the customer showing ALDI's  inconsistency with there policies and values.\n\nI would never recommend working for this toxic group or shopping there in general. My situation make be somewhat unique but it show cased what ALDI Australia is truly like.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vapour_path11",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c54f26a0-e9bb-569a-b1b5-dc2be943cb66"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1377a9f6-a07c-53fb-a229-e18d7ebaa948",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-17T21:28:34Z",
+            "headline": "Chicken necks.",
+            "reviewBody": "Chicken necks. I bought 5 bags of chicken necks to feed my pets. Every bag the necks were off. They smelt terrible.  I am a pensioner and I can't afford to waste money. Not happy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mal L",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/17aa2f20-bc4e-3f41-9686-757a07e41252"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2fc2671e-5229-55ca-b78f-41ea5b7bf3c6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-15T03:54:56Z",
+            "headline": "Good Value, Where? coles?",
+            "reviewBody": "For a while now, each time I go into Aldi to do my weekly shopping I find several items have gone up in price. As of this week, pretty much everything which I usually buy has gone up and the quality has dropped.\nNow I have stopped buying non essential items like biscuits and yogurt among other things from Aldi. Now I buy some grocery items at Coles which are on special. Pretty soon I wont be shopping at Aldi anymore as its just getting too expensive. Maybe your slogan should be something like Good, Different, Expensive.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "mike",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5b2a8878-b38b-3024-b595-358d8134dd8c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6d5560f5-1287-5849-adc9-7a6ef2527253",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-15T03:21:20Z",
+            "headline": "Be very careful",
+            "reviewBody": "The last time i went to aldi my coffee was stolen by the checkout guy.\nI was the only customer in the store.\nThe coffee was on my RECEIPT and i checked my bag before leaving\nWhen i asked the checkout guy he asked me if i had a witness\nI WILL NEVER RETURN TO A STORE WHERE THE STAFF STEAL FROM ME\nHIS NAME WAS NOT ON THE RECEIPT\nHE HAD OBVIOUSLY NEW THE SYSTEM AND HAD DONE THIS BEFORE",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "optimist",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/330d9a3c-9834-3dcd-97cb-89867885af54"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/29cdb5f3-3411-53a1-abe4-06aebb73c2bb",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-13T08:57:38Z",
+            "headline": "Customer service fail",
+            "reviewBody": "I had a problem at Aldi Chirnside Park where the checkout person damaged an item and then was rude when I mentioned it to them. I used the Aldi customer service store complaints form and after completing it says there is an approximate 4-step process. Someone contacted me from Customer Service, asked for specific details, apologised, and said I would be contacted within 48 hours by the store in question after they had looked into it. A week later no one had rung. So I used the form again and I spoke to someone who apologised that the process had failed and someone would contact me within 48 hours, A week later, no one contacted me. I sent in another contact form asking what happened, and NOTHING.\nAldi advertises well, they look like a good store to switch to, but when there is a problem they don't do what they state they'll do, which is to offer professional customer service. Of the 4 steps they offer, they only get to 2 and disappear.\nI was a happy convert, but I don't wish to pay the wages of staff that are rude to me, and damage my purchases, so I will go back to where I was shopping previously.\nIt's great to have good advertising, but it needs to be followed up with professional customer service when it's required.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Geoff",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/bfa817a9-a1c7-3611-adce-006b54ff2653"
+            }
+        }
+    ]
+}

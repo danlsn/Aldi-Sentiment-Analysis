@@ -1,0 +1,590 @@
+Store_ID,Suburb,Street,Postcode,Lat,Lon,Type
+501004,Quakers Hill NSW,"85 Bali Dr,",2763,-33.71828,150.89196,Store
+501007,Arndell Park NSW,Holbeche Rd/Walters Rd,2148,-33.78961,150.89029,Store
+501009,Wallsend NSW,Sh32 Wallsend Pl Kokera St,2287,-32.90368,151.66737,Store
+501014,Cessnock NSW,165-167 Wollombi Rd,2325,-32.83418,151.35223,Store
+501013,Bathurst  NSW,128 Russell Street,2795,-33.42055,149.58056,Store
+501017,Orange NSW,167-177 Peisley Street,2800,-33.2858,149.10267,Store
+501024,Hamilton  NSW,11 Swan Street,2303,-32.91892,151.74573,Store
+501020,St Marys  NSW,410-422 Great Western Hwy,2760,-33.76973,150.77037,Store
+501028,Lithgow NSW,2 Valley Drive,2790,-33.48833,150.1525,Store
+501036,Baulkham Hills NSW,Olive St & Old Northern Rd,2153,-33.75941,150.99205,Store
+501033,Mt Druitt NSW,16 Zoe Place,2770,-33.76584,150.82729,Store
+501030,Richmond NSW,128 Windsor Street,2753,-33.59911,150.75463,Store
+501035,Emu Plains NSW,Gt Wstn Hwy & Pyramid St,2750,-33.7529,150.65966,Store
+501031,Wyoming NSW,489 Pacific Hwy,2250,-33.40917,151.34944,Store
+501043,Penrith NSW,201 - 205 High Street,2750,-33.75554,150.70562,Store
+501051,Tuggerah  NSW,Cnr Gavenlock & Cobbs Rd,2259,-33.30719,151.41344,Store
+501052,Bateau Bay NSW,Shop M01 Stockland Bay Vill,2261,-33.37581,151.47246,Store
+501049,Rouse Hill NSW,3 Resolution Place,2155,-33.68367,150.91823,Store
+501047,Dural NSW,22 Allen Way,2158,-33.6908,151.01752,Store
+501056,North Rocks NSW,North Rocks Road,2151,-33.76881,151.02882,Store
+501055,Seven Hills NSW,Prospect Hwy & Federal Rd,2147,-33.77547,150.93316,Store
+501060,Erina NSW,Erina Fair S/C Terrigal Dr,2250,-33.43932,151.39398,Store
+501057,Forster NSW,"Lot 21-22, Breese Parade",2428,-32.20046,152.51935,Store
+501074,Belmont NSW,Cnr Pacific Hwy & Maude St,2280,-33.03426,151.66095,Store
+501059,East Maitland  NSW,18-20 Garnett Road,2323,-32.76011,151.58838,Store
+501072,Point Clare NSW,53-59 Brisbane Water Drive,2250,-33.44282,151.3291,Store
+501066,Rutherford NSW,3 Hillview Street,2320,-32.71707,151.52727,Store
+501071,Raymond Terrace  NSW,22-32 Port Stephens Road,2324,-32.75851,151.74619,Store
+501093,Taree NSW,Cnr High St and Commerce St,2430,-31.911049,152.452752,Store
+501003,Katoomba NSW,Cnr Waratah St/Katoomba St,2780,-33.71745,150.31063,Store
+501089,Toronto NSW,189-197 Brighton Ave,2283,-33.01384,151.594677,Store
+501075,Mudgee NSW,97-99 Church Street,2850,-32.59709,149.58746,Store
+501068,Wyong NSW,146-148 Pacific Highway,2259,-33.280734,151.426119,Store
+501097,Kurri Kurri  NSW,106-112 Barton Street,2327,-32.81873,151.48282,Store
+501070,Green Point   NSW,Cnr Avoca & Bayside Drive,2251,-33.45129,151.36135,Store
+501078,Cowra   NSW,Cnr Fitzroy St & Railway Ln,2794,-33.83685,148.69586,Store
+501018,Mount Hutton NSW,4 Dunkley Parade,2290,-32.97713,151.66861,Store
+501015,Winston Hills  NSW,Caroline Chisholm Drive,2153,-33.77316,150.969,Store
+501038,Singleton  NSW,Cnr John & Harriett Street,2330,-32.56924,151.16479,Store
+501002,Parkes NSW,Clarinda St & Caledonia St,2870,-33.14084,148.17553,Store
+501077,Cardiff NSW,49 Harrison Street,2285,-32.94095,151.65968,Store
+501084,McGraths Hill NSW,5 Curtis Road,2756,-33.6235,150.83673,Store
+501085,Erskine Park NSW,Cnr Peppertree & Swallow Dr,2759,-33.80417,150.79898,Store
+501010,Kellyville NSW,92 Wrights Road,2155,-33.71411,150.9735,Store
+501080,Muswellbrook   NSW,Lot 1 Rutherford Road,2333,-32.283,150.89754,Store
+501086,Newcastle CBD   NSW,54 Union Street,2302,-32.93042,151.76567,Store
+501011,Umina Beach NSW,310 Trafalgar Ave,2257,-33.52271,151.32079,Store
+501050,Fletcher   NSW,Cnr Minmi Rd & Britannia St,2287,-32.87636,151.6392,Store
+501023,Stanhope Gardens  NSW,Cnr Sentry Dr & Stanhope Pk,2768,-33.71793,150.92102,Store
+501096,Toukley   NSW,127 Evans St,2263,-33.26622,151.55002,Store
+501016,Port Macquarie   NSW,3 Hughes Place,2444,-31.42715,152.87952,Store
+501098,Glenmore Park NSW,Glenmore Parkway,2745,-33.787347,150.668594,Store
+501025,Kotara   NSW,30 Northcott Drive,2289,-32.94067,151.71216,Store
+501102,Cranebrook  NSW,80-98 Borrowdale Way,2749,-33.719435,150.709725,Store
+501019,Kempsey  NSW,Shop 1/15-33 Belgrave St,2440,-31.07986593,152.84005,Store
+501022,Salamander Bay NSW,Cnr Salamander Way & Town C,2315,-32.7352,152.10801,Store
+501046,Blue Haven  NSW,Blue Haven Rd & Roper Rd,2262,-33.206372,151.497981,Store
+501005,Blacktown NSW,17 Patrick Street,2148,-33.771148,150.906603,Store
+501008,Penrith Westfield NSW,585 High Street,2750,-33.75157,150.68329,Store
+501034,Tamworth NSW,374 Peel Street,2340,-31.09061,150.92868,Store
+501037,Mayfield NSW,230 Maitland Road,2304,-32.89899,151.73794,Store
+501041,Dubbo NSW,176 Talbragar Street,2830,-32.246,148.613155,Store
+501067,Marsden Park   NSW,10 Hollinsworth Road,2765,-33.720859,150.841403,Store
+501039,Castle Hill NSW,Shop 200B Castle Towers S/C,2154,-33.73027,150.99779,Store
+501103,Warners Bay NSW,Cnr King & Howard Street,2282,-32.975287,151.646031,Store
+501045,Gunnedah NSW,185 Conadilly Street,2380,-30.97737,150.25244,Store
+501062,Lakehaven NSW,Lakehaven Drive,2263,-33.24042,151.5038,Store
+501064,North Richmond NSW,47-55 Bells Line of Road,2754,-33.580695,150.71989,Store
+501088,Edgeworth NSW,57 Thomas Street,2285,-32.925148,151.626239,Store
+501076,Jesmond NSW,Blue Gum Drive,2299,-32.902464,151.689693,Store
+501095,North Kellyville NSW,10 Hezlett Road,2155,-33.699549,150.957391,Store
+501081,Charlestown NSW,30 Pearson Street,2290,-32.96263,151.695312,Store
+501108,Tamworth NSW,194-196 Peel Street,2340,-31.08563789,150.9253937,Store
+501087,Maitland NSW,"Shop MM01, 405 High Street",2320,-32.733918,151.556292,Store
+502013,Belmont VIC,149 - 151 High Street,3216,-38.17361,144.34389,Store
+502003,Burnside VIC,5 - 25 Westwood Drive,3023,-37.760043,144.755218,Store
+502011,Maribyrnong VIC,11 Edgewater Boulevard,3032,-37.78449,144.89247,Store
+502005,Melton VIC,394 - 406 High Street,3337,-37.68345,144.57917,Store
+502056,Mill Park VIC,400 McDonalds Rd,3082,-37.65076,145.06844,Store
+502048,Newcomb VIC,Newcomb S/C  Bellarine Hwy,3219,-38.16987,144.39262,Store
+502008,Preston VIC,Cnr Cramer & High St,3072,-37.74024,145.00222,Store
+502004,Sunbury VIC,112 - 126 Gap Road,3429,-37.57778,144.70444,Store
+502012,West Footscray VIC,67 Ashley Street,3012,-37.79278,144.86306,Store
+502017,Werribee VIC,77 - 83 Synott Street,3030,-37.90445,144.65778,Store
+502031,Shepparton VIC,428 Wyndham Street,3630,-36.38345,145.39847,Store
+502016,Airport West VIC,29 - 35 Louis Street,3042,-37.71389,144.88472,Store
+502015,Warrnambool VIC,251 - 257 Lava Street,3280,-38.37901,142.47857,Store
+502041,Colac VIC,62 - 70 Hesse Street,3250,-38.34189,143.58986,Store
+502047,Corio VIC,465 Princes Highway,3214,-38.06512,144.38039,Store
+502014,Bacchus Marsh VIC,"Shop 50, 158 - 196 Main St",3340,-37.67555,144.43917,Store
+502026,Wodonga VIC,72 Elgin Boulevard,3690,-36.12,146.88167,Store
+502023,Keilor Downs VIC,80 Taylors Road,3038,-37.72917,144.80639,Store
+502024,Kangaroo Flat VIC,Cnr High St & Lockwood Rd,3555,-36.80944,144.24222,Store
+502043,Northcote VIC,"Northcote Cntrl SC, High St",3070,-37.76871,144.99925,Store
+502029,Tarneit VIC,380 Sayers Road,3029,-37.84475,144.65124,Store
+502035,Ballarat VIC,102 -114 Creswick Road,3350,-37.55649,143.8546,Store
+502057,Point Cook VIC,4 Main Street,3030,-37.88194,144.73561,Store
+502044,Hamilton VIC,104-108 French Street,3300,-37.74434,142.02776,Store
+502062,Brunswick  VIC,292 - 298 Sydney Road,3056,-37.77073,144.96171,Store
+502055,Ararat  VIC,41-47 Moore Street,3377,-37.28524,142.93386,Store
+502051,Horsham VIC,67 - 73 Hamilton Street,3400,-36.7182,142.19807,Store
+502053,Sebastopol  VIC,31-35 Albert Street,3356,-37.58491,143.84122,Store
+502046,Swan Hill  VIC,Campbell & Rutherford Sts,3585,-35.34265,143.56102,Store
+502058,Epping  VIC,347-371 Dalton Road,3076,-37.65926,145.02974,Store
+502068,Sunshine  VIC,324 - 328 Hampshire Road,3020,-37.78291,144.83172,Store
+502059,Benalla  VIC,141-153 Bridge Street,3672,-36.54987,145.989156,Store
+502065,Wangaratta  VIC,13 - 15 Chisholm Street,3677,-36.35665,146.32803,Store
+502067,Alfredton  VIC,1611-1615 Sturt Street,3350,-37.55557,143.81747,Store
+502073,Strathdale  VIC,90 - 92 Edwards Road,3550,-36.77208,144.30573,Store
+502092,Eaglehawk  VIC,4-8 Peg Leg Road,3556,-36.717364,144.249994,Store
+502080,Echuca  VIC,218 - 222 Anstruther Street,3564,-36.12567,144.75062,Store
+502070,Maryborough  VIC,111 Burke Street,3465,-37.04723,143.74258,Store
+502018,Altona Meadows VIC,1 Central Avenue,3028,-37.87261,144.77518,Store
+502082,Keilor East  VIC,Milleara Rd & Buckley St,3033,-37.75089,144.86204,Store
+502075,Albury NSW,617 - 621 Young Street,2640,-36.075862,146.924749,Store
+502020,Altona Gate VIC,124 - 134 Millers Road,3025,-37.82763,144.8474,Store
+502081,Portland  VIC,29 Henty Street,3305,-38.34664,141.60267,Store
+502088,Geelong West  VIC,117 - 127 Albert Street,3218,-38.13966,144.33726,Store
+502071,Caroline Springs  VIC,29 - 35 Lake Street,3023,-37.74501,144.73524,Store
+502085,Grovedale  VIC,142 Torquay Road,3216,-38.19334,144.3431,Store
+502079,Abbotsford  VIC,313 - 325 Victoria Street,3067,-37.8099,144.99546,Store
+502002,Roxburgh Park VIC,250 Somerton Road,3064,-37.6225,144.93263,Store
+502078,Wyndham Vale  VIC,209 Greens Road,3024,-37.887386,144.607358,Store
+502076,Deer Park  VIC,Neale & Station Roads,3023,-37.7505,144.77444,Store
+502086,Seymour  VIC,32 - 34Tallarook Street,3660,-37.0228,145.13275,Store
+502083,South Melbourne VIC,100 Market Street,3205,-37.82982,144.95698,Store
+502084,Mooroopna  VIC,97 - 101 McLennan Street,3629,-36.39538,145.35804,Store
+502037,"Werribee, VIC",Cnr Derrimut & Heaths Roads,3030,-37.875203,144.679638,Store
+502072,Epping  VIC,571 - 583 High Street,3076,-37.652,145.02308,Store
+502087,Drysdale  VIC,12 - 22 Murradoc Road,3222,-38.17326,144.57303,Store
+502007,Highton VIC,245 - 253 South Valley Road,3216,-38.19615,144.31837,Store
+502089,Sanctuary Lakes VIC,300 Point Cook Rd,3030,-37.896951,144.753886,Store
+502061,"Ocean Grove, VIC",12-22 Coastal Boulevard,3226,-38.248196,144.537621,Store
+502040,Bell Park VIC,"Shop 9, 222 Anakie Road",3215,-38.096963,144.334438,Store
+502006,Moonee Ponds VIC,14-16 Hall Street,3039,-37.76585,144.92335,Store
+502010,Craigieburn VIC,340 Craigieburn Road,3064,-37.59461,144.91269,Store
+502038,Epping VIC,Harvest Home & Edgars Roads,3076,-37.620594,145.005332,Store
+502027,Wendouree VIC,21 Learmonth Road,3355,-37.535048,143.818108,Store
+502096,Taylors Lakes VIC,399 Melton Highway,3038,-37.701491,144.775918,Store
+502064,Armstrong Creek VIC,35-43 Central Boulevard,3217,-38.22971,144.37252,Store
+502021,Altona North VIC,302 - 330 Millers Road,3025,-37.844695,144.844909,Store
+502033,Warrnambool VIC,154 Raglan Parade,3280,-38.383238,142.520203,Store
+502009,Melton West VIC,"533 High St, Woodgrove S/C",3337,-37.6851,144.56555,Store
+502036,Leopold VIC,641-659 Bellarine Hwy,3224,-38.186244,144.454351,Store
+502032,Lavington  NSW,385-387 Wagga Road,2641,-36.046864,146.939388,Store
+502022,Wallan VIC,13-17 High Street,3756,-37.418182,144.977969,Store
+502025,Epsom VIC,182-192 Midland Highway,3551,-36.704665,144.317432,Store
+502074,Fitzroy VIC,247 Johnston Street,3065,-37.798736,144.983537,Store
+502039,Campbellfield VIC,Cnr Sydney & Mahoneys Road,3061,-37.688103,144.958264,Store
+502028,Kilmore VIC,97 Sydney Street,3764,-37.287837,144.948564,Store
+502077,Gisborne VIC,45 Aitken Street,3437,-37.488404,144.591493,Store
+502030,Wodonga  VIC,Victoria Cross Pde&Wark St,3689,-36.138071,146.894285,Store
+502049,Gladstone Park VIC,8-34 Gladstone Park Drive,3043,-37.688035,144.884997,Store
+502042,Tarneit VIC,540 Derrimut Rd,3029,-37.838413,144.69048,Store
+502060,Coburg North VIC,1009-1011 Sydney Road,3058,-37.723507,144.963575,Store
+502052,Torquay VIC,14 - 18  Winki Way,3228,-38.308854,144.318441,Store
+502103,Broadmeadows VIC,1099-1169  Pascoe Vale Road,3047,-37.677377,144.919443,Store
+503002,Salisbury QLD,271 Orange Grove Road,4107,-27.557528,153.04094,Store
+503003,Labrador QLD,147 Central Street,4215,-27.946867,153.395463,Store
+503004,Slacks Creek QLD,392 Kingston Road,4127,-27.644703,153.119927,Store
+503015,Helensvale QLD,1-29 Millaroo Drive,4212,-27.92602,153.336612,Store
+503007,Carindale QLD,1154 Creek Road,4152,-27.503303,153.101161,Store
+503006,Oxley QLD,146 Blunder Rd,4075,-27.575949,152.982551,Store
+503009,Victoria Point QLD,11-17 Bunker Road,4165,-27.585406,153.279616,Store
+503010,Tweed Heads South NSW,9 - 11 Machinery Drive,2486,-28.202909,153.540797,Store
+503013,Forest Lake QLD,"Shop M3, 235 Forest Lake Bo",4078,-27.625293,152.968189,Store
+503032,Tingalpa QLD,Cnr Wynnum Rd & Bognor St,4173,-27.465627,153.142035,Store
+503024,Loganholme QLD,Pacific Highway,4129,-27.660308,153.171484,Store
+503020,Yamanto QLD,475-481 Warwick Road,4305,-27.658274,152.741634,Store
+503023,Ballina NSW,2 North Creek Rd,2478,-28.849956,153.554187,Store
+503012,Booval QLD,22 South Station Road,4304,-27.611139,152.789797,Store
+503044,Beenleigh QLD,90 City Road,4207,-27.714695,153.202526,Store
+503025,Mermaid Waters QLD,Cnr Markeri & Bermuda St,4218,-28.043479,153.408365,Store
+503021,Grafton NSW,163-169 Prince Street,2460,-29.68629,152.936507,Store
+503027,Southport QLD,Cnr Ferry Road & Benowa Rd,4215,-27.985428,153.410556,Store
+503026,Coffs Harbour NSW,253 Pacific Hwy,2450,-30.28233,153.130373,Store
+503018,Kearneys Spring QLD,Cnr Hume and Stenner Street,4350,-27.593736,151.951313,Store
+503028,Nerang QLD,57 Station Street,4211,-27.997603,153.338238,Store
+503033,Browns Plains QLD,Mt Lindesay HW & Brown Pl,4118,-27.662664,153.040703,Store
+503045,Lismore NSW,44 Ballina Road,2480,-28.813611,153.279369,Store
+503030,Capalaba QLD,35 - 37 Mt Cotton Rd,4157,-27.524324,153.188825,Store
+503034,Springwood QLD,3434 Pacific Highway,4127,-27.62851,153.131874,Store
+503057,Springfield Central QLD,1 Main Street,4300,-27.676031,152.903164,Store
+503042,Warwick QLD,65-71 Fitzroy Street,4370,-28.213731,152.034739,Store
+503053,Beaudesert QLD,155-161 Brisbane Street,4285,-27.983378,152.996441,Store
+503054,Casino NSW,139 Centre Street,2470,-28.865557,153.045865,Store
+503052,Sunnybank Hills QLD,Cnr Calam & Compton Rd,4109,-27.610177,153.05529,Store
+503038,North Ipswich QLD,Cnr Pine St & The Terrace,4305,-27.609493,152.760803,Store
+503063,Alexandra Hills QLD,157-169 Finucane Road,4161,-27.522837,153.21916,Store
+503043,Marsden QLD,50-58 Bourke Street,4132,-27.680594,153.115914,Store
+503046,Mudgeeraba QLD,3 Robert St,4213,-28.074436,153.362677,Store
+503051,Gatton QLD,7 Ballantine Street,4343,-27.557184,152.280855,Store
+503071,Upper Coomera QLD,Coomera Grand Drive,4209,-27.849699,153.29847,Store
+503081,Toormina NSW,52 Minorie Drive,2452,-30.354715,153.090496,Store
+503075,Bethania QLD,1 Fletcher Street,4205,-27.70225,153.158229,Store
+503060,Underwood QLD,21 Kingston Road,4119,-27.608791,153.110233,Store
+503068,Runaway Bay QLD,10-12 Lae Drive,4216,-27.913894,153.401177,Store
+503094,Upper Mt Gravatt QLD,Cnr Kessels & Logan Rds,4122,-27.564515,153.083883,Store
+503110,Armidale NSW,95 Barney Street,2350,-30.517034,151.669279,Store
+503109,Elanora QLD,30 Guineas Creek Rd,4221,-28.134269,153.46768,Store
+503074,Redbank QLD,1 Collingwood Drive,4031,-27.605473,152.867808,Store
+503072,Byron Bay NSW,Cnr Byron & Fletcher Sts,2481,-28.643337,153.612903,Store
+503084,Harlaxton QLD,1-7 Parrot Street,4350,-27.540723,151.952173,Store
+503098,Acacia Ridge  QLD,1150 Beaudesert Rd,4110,-27.574682,153.026001,Store
+503078,Oxenford QLD,2 Global Plaza,4210,-27.889023,153.313226,Store
+503085,Varsity Lakes QLD,1 South Bay Drive,4227,-28.085472,153.409093,Store
+503092,Burleigh Heads QLD,149 West Burleigh Road,4220,-28.096697,153.441303,Store
+503095,Mt Gravatt East QLD,489 Creek Road,4122,-27.526975,153.096738,Store
+503106,Molendinar QLD,562 Olsen Avenue,4214,-27.976022,153.380002,Store
+503101,Stanthorpe QLD,Cnr Lock and  Davadi Street,4380,-28.655141,151.936873,Store
+503105,Miami QLD,2023-2031 Gold Coast Hwy,4220,-28.073546,153.444972,Store
+503102,Goonellabah NSW,15 Simeoni Drive,2480,-28.821203,153.326725,Store
+503107,Drewvale QLD,27 Illaweena Street,4116,-27.6393,153.046116,Store
+503108,Redbank Plains QLD,Cnr Argyle/Redbank Plain Rd,4301,-27.644908,152.869844,Store
+503008,Hope Island QLD,99-103 Broadwater Avenue,4212,-27.877316,153.36396,Store
+503011,Pimpama QLD,102 Pimpama Jacobs Well Rd,4209,-27.813119,153.292253,Store
+503017,Plainland QLD,2 Endeavour Way,4341,-27.5622,152.42401,Store
+503112,Brassall QLD,68 Hunter Street,4305,-27.596949,152.747107,Store
+503111,Inala QLD,Cnr Inala & Corsair Ave,4077,-27.598125,152.97413,Store
+503016,Highfields QLD,73 Highfields Road,4352,-27.45223,151.94332,Store
+503005,Dalby QLD,34 Archibald Street,4405,-27.18126,151.263493,Store
+503001,Torrington QLD,546 Bridge Street,4350,-27.535965,151.904611,Store
+503022,Tweed Mall NSW,16-32 Wharf Street,2485,-28.171113,153.544253,Store
+503035,Moonee Beach NSW,2B Moonee Beach Road,2450,-30.2049,153.15088,Store
+504001,Bankstown NSW,Henry Lawson & Milperra Rd,2200,-33.92828556,150.9811847,Store
+504002,Marrickville NSW,Marrickville Metro S/Centre,2204,-33.90642,151.17102,Store
+504003,Blair Athol NSW,Blaxland Rd/The Kraal Dr,2560,-34.06325,150.80688,Store
+504005,Fairfield West NSW,370 Hamilton Rd,2165,-33.86902,150.92352,Store
+504006,Villawood NSW,2 Villawood Road,2163,-33.88201,150.97703,Store
+504008,Nowra NSW,8-16 Kinghorne Street,2541,-34.87362,150.60354,Store
+504016,Shellharbour NSW,5 Holm Place,2529,-34.5629146,150.8371119,Store
+504011,Bonnyrigg NSW,718 Cabramatta Rd,2177,-33.8934594,150.8903898,Store
+504012,Queanbeyan NSW,134-136 Crawford Street,2620,-35.34828,149.23127,Store
+504015,Wollongong NSW,25 Stewart Street,2521,-34.4282543,150.8984211,Store
+504018,Fairy Meadow NSW,102-110 Princess Highway,2519,-34.39383,150.89357,Store
+504019,Tuggeranong ACT,Cnr Anketell St& Soward Way,2900,-35.41794,149.06867,Store
+504021,Mt Annan NSW,Waterworth Dr & Main St,2567,-34.05043,150.75935,Store
+504022,Bankstown NSW,440-450 Chapel Road,2200,-33.91426,151.03477,Store
+504026,Dapto NSW,38 Osborne Street,2530,-34.49292,150.79438,Store
+504027,Bowral NSW,9-15 Banyette Street,2576,-34.4821,150.41514,Store
+504025,Ulladulla NSW,23 Boree Street,2539,-35.35972,150.47179,Store
+504023,Minto NSW,Cnr Pembroke Rd Monagham St,2566,-34.028,150.84951,Store
+504106,Brookvale NSW,3-5 Cross Street,2100,-33.7658,151.26735,Store
+504032,Menai NSW,509 Old Illawarra Rd,2234,-34.01682,151.01157,Store
+504037,Goulburn NSW,9-13 Clinton Lane,2580,-34.75807,149.71618,Store
+504034,Canterbury NSW,73 Jeffrey St,2193,-33.91092,151.11977,Store
+504007,North Strathfield NSW,"The Bakehouse Qtr,George St",2137,-33.8595,151.08693,Store
+504039,Liverpool NSW,82 Hoxton Park Road,2170,-33.92767,150.90723,Store
+504031,Maroubra NSW,"Shop M2, 707-751 Anzac Pde",2035,-33.94124,151.23898,Store
+504017,Gungahlin ACT,Hibberson St,2912,-35.1856,149.13533,Store
+504038,Hurstville NSW,"Shop A1, Park Road",2220,-33.96671,151.10429,Store
+504004,Miranda NSW,600 The Kingsway,2228,-34.03459,151.100356,Store
+504009,Batemans Bay NSW,Cnr Vesper St & Beach Rd,2536,-35.71,150.17778,Store
+504082,Hornsby NSW,236 Pacific Hwy,2077,-33.70504,151.09939,Store
+504013,Holt ACT,50-60 Hardwick Crescent,2615,-35.2212764,149.019099,Store
+504103,North Sydney NSW,"Level 3, 99 Mount Street",2059,-33.83921,151.20863,Store
+504030,Canberra CBD ACT,Canberra Cntr 148 Bunda St,2601,-35.27906,149.13354,Store
+504085,Wentworthville NSW,331 - 339 Great Western Hwy,2145,-33.81614,150.96972,Store
+504104,Manly NSW,"Shop 24A, Manly Wharf",2095,-33.79972,151.28389,Store
+504097,Ryde NSW,Top Ryde Shopping Centre,2112,-33.8128,151.10602,Store
+504020,Conder ACT,9 Sidney Nolan Street,2906,-35.45715,149.09283,Store
+504045,Lakemba NSW,212-226 Haldon Street,2195,-33.92443,151.07981,Store
+504014,Edgecliff NSW,203-233 New South Head Road,2024,-33.87905767,151.2355788,Store
+504029,Macquarie ACT,"Jamison Centre, Bowman St",2614,-35.25249,149.07152,Store
+504102,Chatswood NSW,Westfield Chatswood,2067,-33.79695,151.18357,Store
+504024,Leichhardt NSW,Shop 21A Cnr Marion & Flood,2040,-33.88466,151.14986,Store
+504036,Weston ACT,"Cooleman Court, Brierly St",2611,-35.34021,149.05255,Store
+504048,Carnes Hill NSW,20 Main Street,2171,-33.93942,150.84391,Store
+504044,Mittagong NSW,181-183 Old Hume Highway,2575,-34.44765,150.4399,Store
+504113,Mona Vale NSW,13 Bungan Street,2103,-33.67761,151.30217,Store
+504033,Young NSW,11 Zouch St & 32 Edwards St,2594,-34.3105,148.3012,Store
+504084,Thornleigh NSW,275-291 Pennant Hills Road,2120,-33.73202,151.0799,Store
+504042,Macquarie Fields NSW,61 Victoria Road,2564,-33.98488,150.89215,Store
+504087,Guildford NSW,280-290 Woodville Road,2161,-33.84972,150.99684,Store
+504041,Glenfield Park NSW,Cnr Tanda Pl & Pinaroo Dr,2650,-35.13725,147.33388,Store
+504040,Ambarvale NSW,45 Woodhouse Drive,2560,-34.08618,150.80162,Store
+504049,Albion Park Rail NSW,10 Ash Avenue,2527,-34.57014,150.80123,Store
+504046,Yass NSW,193 Comur Street,2582,-34.8443,148.91315,Store
+504043,Cooma NSW,18 Hilton Street,2630,-36.23077,149.13499,Store
+504072,Vincentia NSW,8 Moona Creek Road,2540,-35.0752877,150.6567904,Store
+504092,Rydalmere NSW,359-363 Victoria Road,2116,-33.81259,151.04194,Store
+504081,Mt Kuring-gai NSW,Cnr Nyarra Rd & Pacific Hwy,2080,-33.65621,151.13409,Store
+504050,Belconnen ACT,Westfield Shoppingtown,2617,-35.23885,149.06619,Store
+504053,Miranda NSW,14-16 Wandella Road,2228,-34.03252,151.09926,Store
+504047,Tahmoor NSW,153-159 Remembrance Drwy,2573,-34.22552,150.59198,Store
+504054,Waterloo NSW,20a Danks Street,2017,-33.89798,151.21241,Store
+504057,Warrawong NSW,45 Cowper Street,2502,-34.48542,150.88748,Store
+504093,Eastwood NSW,62-80 Rowe Street,2122,-33.79087,151.08466,Store
+504052,Engadine NSW,"Shop 15, 101 Caldarra Ave",2233,-34.0655652,151.0140834,Store
+504145,Wolli Creek NSW,4 Magdalene Terrace,2205,-33.93026943,151.1524008,Store
+504055,Kogarah NSW,G1 Kogarah TC 1 Railway Pde,2217,-33.96882,151.12326,Store
+504058,Chullora NSW,355-357 Waterloo Road,2190,-33.89299,151.06117,Store
+504074,Casey ACT,Kingsland Parade,2913,-35.1748381,149.0953435,Store
+504051,Wagga Wagga NSW,"Riverina Plaza, Berry St",2650,-35.115,147.37284,Store
+504056,Chisholm ACT,36 Benham Street,2905,-35.41338,149.12774,Store
+504096,Macquarie Park NSW,Herring Road,2113,-33.7771,151.118,Store
+504060,Bondi Junction NSW,Shops T45-50/71 Spring St,2022,-33.89282,151.24874,Store
+504110,Dee Why NSW,15-19 Pacific Parade,2099,-33.7550015,151.2847827,Store
+504062,Liverpool NSW,165-191 Macquarie Street,2170,-33.92158,150.92328,Store
+504059,Bass Hill NSW,753 Hume Highway,2197,-33.90065,150.9929,Store
+504144,Kirrawee NSW,580 Princes Highway,2232,-34.03223188,151.0728591,Store
+504064,Drummoyne NSW,19A Roseby Street,2047,-33.85563,151.16273,Store
+504066,Broadway NSW,1 Bay Street,2007,-33.88336,151.194,Store
+504061,Ashfield NSW,260A Liverpool Road,2131,-33.8894205,151.124145,Store
+504095,Rhodes NSW,1 Rider Boulevarde,2138,-33.83524332,151.0855604,Store
+504108,Frenchs Forest NSW,Cnr Forestway & Warringah R,2086,-33.7498612,151.223934,Store
+504086,Merrylands NSW,191-201 Pitt Street,2160,-33.834385,150.989266,Store
+504098,Gladesville NSW,413-417 Victoria Road,2111,-33.82349,151.124,Store
+504063,Rockdale NSW,1 Rockdale Plaza Drive,2216,-33.95773,151.1416,Store
+504071,Edmondson Park NSW,1952-1982 Camden Valley Way,2174,-33.9540138,150.8567983,Store
+504065,Campbelltown NSW,271 Queen Street,2560,-34.06873,150.8104,Store
+504075,Warilla NSW,43-57 Shellharbour Road,2528,-34.54688934,150.8628121,Store
+504083,Westleigh NSW,Cnr Duffy Ave & Eucalyptus,2120,-33.719716,151.0689406,Store
+504118,Narellan NSW,304-306 Camden Valley Way,2567,-34.0422764,150.7336158,Store
+504068,Lidcombe NSW,92 Parramatta Road,2141,-33.849604,151.049566,Store
+504080,Galston NSW,346 Galston Road,2159,-33.652563,151.046464,Store
+504076,Majura Park ACT,18-26 Spitfire Avenue,2609,-35.299315,149.190925,Store
+504105,Hillsdale NSW,238-262 Bunnerong Road,2036,-33.95211375,151.2309507,Store
+504109,Belrose NSW,56-58 Glen Street,2085,-33.73920411,151.2100482,Store
+504067,Miller NSW,90 Cartwright Avenue,2168,-33.918748,150.883818,Store
+504111,Warriewood NSW,Jackson Road,2102,-33.69583,151.29559,Store
+504077,Fairfield NSW,8-36 Station Street,2165,-33.8676951,150.9527032,Store
+504070,Leeton NSW,Acacia Avenue,2705,-34.5517208,146.3976595,Store
+504079,Griffith NSW,4 -6 Oakes Road,2680,-34.2968404,146.0501614,Store
+504148,Emerald Hills NSW,5 Emerald Hills Boulevarde,2179,-33.99646941,150.7905697,Store
+504115,Campbelltown NSW,200 Gilchrist Drive,2560,-34.07613943,150.7984427,Store
+504069,Eastgardens NSW,152 Bunnerong Road,2036,-33.9446308,151.2244956,Store
+504180,Corrimal NSW,Cnr Russell & Underwood Sts,2518,-34.37135337,150.8959293,Store
+504184,Amaroo ACT,12 Pioneer Street,2914,-35.1651648,149.1325023,Store
+504073,Darlinghurst NSW,Oxford St & Pelican St,2010,-33.87888233,151.2134586,Store
+504147,Merimbula NSW,105-107 Main Street,2548,-36.88637861,149.9099654,Store
+504188,Jerrabomberra NSW,9 Ferdinand Lane,2619,-35.3801947,149.1968606,Store
+504182,Hoxton Park NSW,Cowpasture Road,2171,-33.91907298,150.8545815,Store
+504116,Bomaderry NSW,54 Narang Road,2541,-34.84544618,150.5938321,Store
+504187,Lane Cove NSW,2 Rosenthal Avenue,2066,-33.8135873,151.1688109,Store
+504078,Casula NSW,Ingham Drive,2170,-33.9486734,150.8995973,Store
+504107,Wetherill Park NSW,1024 The Horsely Drive,2164,-33.85070844,150.9093109,Store
+504114,Mosman NSW,1/3 Brady Street,2088,-33.8237329,151.2405503,Store
+504181,Moss Vale NSW,Argyle St and Roberston Rd,2577,-34.54619617,150.3804195,Store
+504091,Balgowlah NSW,22-26 Roseberry Street,2093,-33.78824501,151.2681553,Store
+504190,Narooma NSW,"Shop 42, 185 Princes Hwy",2546,-36.22314,150.12757,Store
+504117,Riverwood NSW,247-253 Belmore Road,2210,-33.95228274,151.0509755,Store
+504146,Chatswood Place NSW,256-260 Victoria Avenue,2067,-33.79481832,151.1883931,Store
+504183,Roselands NSW,Roselands Drive,2196,-33.93599889,151.0693181,Store
+504192,Eastlakes NSW,"Shop G01, 16D Evans Avenue",2018,-33.92427506,151.2122852,Store
+504185,Carlton NSW,76 Edward Street,2218,-33.97686,151.12433,Store
+504189,Auburn NSW,Queen St and Harrow Rd,2144,-33.8501505,151.031633,Store
+504193,Gregory Hills NSW,33 Village Circuit,2557,-34.02662817,150.7782555,Store
+505006,"Beaconsfield, VIC",53 Old Princes Highway,3807,-38.0485,145.34894,Store
+505009,"Brandon Park, VIC",Springvale & Ferntree Gully,3150,-37.9464,145.17314,Store
+505030,"Carrum, VIC",516-520 Station Street,3197,-38.07623,145.12352,Store
+505002,"Chirnside Park, VIC",Cnr Kimberly & El Centro St,3116,-37.80442,145.31702,Store
+505007,"Ferntree Gully, VIC",1009 Burwood Highway,3156,-37.888293,145.289167,Store
+505010,"Hampton Park, VIC",400 Pound Road,3976,-38.07677,145.30503,Store
+505018,"Moorabbin Airport, VIC",288 Centre Dandenong Road,3194,-37.97553,145.08527,Store
+505033,"Rosebud, VIC",1313-1335 Point Nepean Road,3939,-38.35947,144.89379,Store
+505001,"Heidelberg West, VIC",318 Bell Street,3081,-37.76654,145.04447,Store
+505025,"Narre Warren, VIC",229 Princes Highway,3805,-38.0177,145.3009,Store
+505021,"The Pines, VIC",181 Reynolds Road,3109,-37.73845,145.22026,Store
+505019,"Prahran, VIC",34 Elizabeth Street,3141,-37.84825,144.84825,Store
+505028,"Wonthaggi, VIC",Cnr Murray & McKenzie St,3995,-38.60431,145.59277,Store
+505027,"Carrum Downs, VIC",493 Frankston-Dandenong Rd,3201,-38.11012,145.16075,Store
+505022,"Ringwood, VIC",Cnr Maroondah Hwy & New St,3135,-37.79924,145.22027,Store
+505034,"Melbourne, VIC","Tenancy 2, 501 Swanston St",3000,-37.80727,144.96222,Store
+505045,"St Kilda, VIC",135 Inkerman Street,3182,-37.86492,144.98747,Store
+505052,"Warragul, VIC",12-28 Queen Street,3820,-38.16255,145.9272,Store
+505036,"Bairnsdale, VIC",90-120 Nicholson Street,3875,-37.82469,147.628,Store
+505038,"Endeavour Hills, VIC",974 Heatherton Road,3802,-37.97684,145.25923,Store
+505042,"Cranbourne, VIC",Cnr Bakewell & Codrington,3977,-38.11128,145.28426,Store
+505080,"Rowville, VIC",1100 Wellington Road,3178,-37.928435,145.251481,Store
+505040,"Bayswater, VIC",10-14 High Street,3153,-37.84306,145.26641,Store
+505074,"Eltham, VIC",6-20 Luck Street,3095,-37.71196,145.15028,Store
+505024,"Springvale South, VIC",23/792-806 Heatherton Road,3172,-37.96154,145.143,Store
+505049,"Morwell, VIC",263-265 Princes Drive,3840,-38.23767,146.40402,Store
+505014,"Burwood East, VIC",172-210 Burwood Huighway,3151,-37.86956,145.17633,Store
+505016,"Box Hill South, VIC",391-395 Station Street,3128,-37.84013,145.13238,Store
+505054,"Moe, VIC",7 Saviges Rd,3825,-38.17508,146.258,Store
+505063,"Sale, VIC",396-420 Raymond Street,3850,-38.10382,147.06573,Store
+505060,"Pakenham, VIC",1-3 Portobello Road,3810,-38.06428,145.45474,Store
+505005,"Mordialloc, VIC",542 Main Street,3195,-37.99866,145.10724,Store
+505041,"Somerville, VIC",1089-1097 Frankston-Flinder,3912,-38.22492,145.17756,Store
+505050,"Warringal, VIC",56 Burgundy Street,3084,-37.75537,145.06861,Store
+505064,"Waverley Gardens, VIC",Cnr Police & Jacksons Roads,3170,-37.9355,145.19004,Store
+505029,"Forest Hill, VIC",270 Canterbury Road,3131,-37.83439,145.16436,Store
+505061,"Chadstone, VIC",1341 Dandenong Road,3148,-37.88609,145.08393,Store
+505004,"Bundoora, VIC",584-604 Grimshaw Street,3083,-37.65549,145.04446,Store
+505017,"Lyndhurst, VIC",945s Thompsons Road,3975,-38.0476,145.23909,Store
+505003,"Eden Rise, VIC",1 O'Shea Road Eden Rise SC,3806,-38.076777,145.32701,Store
+505069,"Southland, VIC",1239 Nepean Highway,3192,-37.95891,145.05507,Store
+505013,"Mornington, VIC","Shop M02, 241 Main St",3931,-38.26078,145.98555,Store
+505011,"Greensborough, VIC",25 Main Street,3088,-37.70973,145.06644,Store
+505035,"Lilydale, VIC",33 Hutchinson Street,3140,-37.76055,145.34901,Store
+505077,"Kilsyth, VIC",540 Mount Dandenong Road,3137,-37.80301,145.31133,Store
+505081,"Frankston, VIC",28 Beach Street,3199,-38.139781,145.126209,Store
+505068,"Reservoir, VIC",850 Plenty Rd,3073,-37.72459,145.02894,Store
+505051,"Hastings, VIC",9 Queen Street,3915,-38.308565,145.18885,Store
+505012,"Preston South, VIC",19 Dundas St,3072,-37.76788,144.95658,Store
+505088,"Narre Warren South, VIC",400 Narre Warren-Cranbourne,3805,-38.067289,145.300726,Store
+505015,"Carnegie, VIC",2-18 Koornang Road,3163,-37.90157,145.06327,Store
+505044,"Templestowe Lower, VIC",299-301 Manningham Road,3107,-37.77301,145.11213,Store
+505023,"Bentleigh, VIC","Shop 7, 285-305 Centre Road",3204,-37.91761,145.0339,Store
+505053,"Leongatha, VIC",10 Bruce St,3953,-38.47821,145.94491,Store
+505055,"Monbulk, VIC",32-36 Main Street,3793,-37.876318,145.40898,Store
+505067,"Dandenong Plaza, VIC",Cnr McCrae & Walker,3175,-37.97989,145.22632,Store
+505110,"Karingal, VIC",330 Cranbourne Road,3199,-38.151906,145.166569,Store
+505047,"Vermont South, VIC",495 Burwood Highway,3133,-37.85549,145.18212,Store
+505048,"Cheltenham, VIC",280-282 Bay Road,3192,-37.955558,145.033451,Store
+505070,"Mentone, Vic",27-29 Nepean Hwy,3194,-37.97507,145.06764,Store
+505093,"Healesville, VIC",175 Maroondah Highway,3777,-37.65417,145.513853,Store
+505073,"Cranbourne East, VIC",1S Linsell Boulevard,3977,-38.09998,145.29372,Store
+505101,"Doncaster East, VIC",3-11 Mitchell Street,3109,-37.7882,145.147843,Store
+505099,"Lower Plenty, VIC",45-49 Main Road,3093,-37.728034,145.111239,Store
+505057,"Northland, VIC",2-50 Murray Road,3072,-37.73786,145.029848,Store
+505087,"Dromana, VIC",120 Nepean Highway,3936,-38.330009,144.987697,Store
+505085,"Balwyn North, VIC",Cnr Doncaster & Tannock St,3104,-37.791328,145.09461,Store
+505095,"Camberwell, VIC",15-25 Station Street,3124,-37.83049627,145.0584457,Store
+505108,"Keysborough, VIC",466-468 Cheltenham Road,3173,-37.99238796,145.1461008,Store
+505037,"Traralgon, VIC",141-143 Argyle Street,3844,-38.19228,146.55541,Store
+505096,"Glen Waverley, VIC",235 Springvale Road,3150,-37.87510766,145.1649868,Store
+505092,"Springvale, VIC",754-768 Princes Highway,3171,-37.94158113,145.1686464,Store
+505071,"Cowes, VIC",68-80 Thompson Avenue,3922,-38.45047,145.2386,Store
+505107,"Croydon, VIC",5-15 Kent Avenue,3136,-37.79304229,145.2782641,Store
+505076,"Lakes Entrance, VIC",6-12 Marine Parade,3909,-37.88186832,147.9742235,Store
+505078,"Scoresby, VIC",800 Stud Road,3179,-37.90113551,145.233333,Store
+505089,"Mornington Peninsula, VIC",1128 Nepean Highway,3931,-38.219879,145.060646,Store
+505094,"Seville, VIC",638 Warburton Highway,3139,-37.778298,145.459146,Store
+505102,West Melbourne VIC,512-544 Spencer Street,3003,-37.80799,144.94848,Store
+505109,"Clyde North, VIC",680 Berwick-Cranbourne Road,3978,-38.09394,145.33353,Store
+505113,Mulgrave VIC,Crn Police & Jackson Road,3170,-37.9355,145.19004,Store
+506017,Bald Hills QLD,1905 Gympie Road,4036,-27.3348584,153.0093696,Store
+506005,Burpengary QLD,172 Station Street,4505,-27.1543277,152.974447,Store
+506001,Chermside QLD,628 Gympie Road,4032,-27.3917414,153.0306,Store
+506011,Strathpine QLD,295 Gympie Road,4500,-27.306279,152.991242,Store
+506016,Gympie QLD,43-47 Hyne Street,4570,-26.2011495,152.667137,Store
+506039,Maryborough QLD,340 Alice Street,4650,-25.537674,152.694533,Store
+506037,Kippa Ring QLD,212 Anzac Avenue,4021,-27.2269207,153.0930003,Store
+506031,Toombul QLD,1015 Sandgate Road,4012,-27.4099028,153.0629194,Store
+506036,Hervey Bay QLD,103-115 Main Street,4655,-25.2901923,152.8372597,Store
+506035,Morayfield QLD,14-24 Dickson Road,4506,-27.098171,152.951876,Store
+506041,Noosaville QLD,201 Weyba Road,4566,-26.404604,153.072708,Store
+506048,Caloundra QLD,2 Baldwin Street,4551,-26.803836,153.119512,Store
+506056,Ashgrove QLD,30 Harry Street,4060,-27.444898,152.992416,Store
+506040,Bribie Island QLD,132-150 Goodwin Drive,4507,-27.072559,153.161221,Store
+506047,Albany Creek QLD,630-636 Albany Creek Rd,4035,-27.346659,152.976623,Store
+506061,Deception Bay QLD,424-438 Deception Bay Road,4508,-27.191763,153.0228661,Store
+506050,Kallangur QLD,15-27 Goodfellows Road,4503,-27.252297,152.994343,Store
+506058,Mount Ommaney QLD,171 Dandenong Road,4074,-27.5501472,152.939426,Store
+506055,Kingaroy QLD,73-81 Youngman Street,4610,-26.542836,151.835276,Store
+506067,Kelvin Grove QLD,12 Bishop Street,4059,-27.444032,153.007823,Store
+506059,Beerwah QLD,78 Simpson Street,4519,-26.859905,152.957557,Store
+506064,Kepnock QLD,153 Greathead Road,4670,-24.870071,152.384789,Store
+506062,Maroochydore QLD,102 Aerodrome Road,4558,-26.6584601,153.0952406,Store
+506076,Taigum QLD,330 Roghan Road,4018,-27.341537,153.042095,Store
+506070,Stones Corner QLD,405 Logan Road,4120,-27.50023,153.04457,Store
+506066,Keperra QLD,577 Settlement Road,4054,-27.4178338,152.9497821,Store
+506083,Nambour QLD,125 Howard Street,4560,-26.625927,152.965056,Store
+506080,Sandgate QLD,47 Brighton Road,4017,-27.319159,153.069382,Store
+506069,Stafford QLD,400 Stafford Road,4053,-27.410606,153.012157,Store
+506091,Kenmore QLD,795 Moggill Road,4069,-27.506063,152.948591,Store
+506089,Kawana QLD,119 Point Cartwright Drive,4575,-26.7034,153.132,Store
+506087,Arana Hills QLD,5 Grove Avenue,4054,-27.3999,152.9581,Store
+506093,West End QLD,335 Montague Road,4101,-27.4822243,153.003545,Store
+506086,Darra QLD,166  Monier Road,4076,-27.559291,152.951508,Store
+506088,Cannon Hill QLD,1145 Wynnum Road,4170,-27.47304,153.098861,Store
+506079,Aspley QLD,59 Albany Creek Road,4034,-27.36296,153.012687,Store
+506077,Brightwater QLD,69-79 Attenuata Drive,4557,-26.710671,153.108904,Store
+506082,Fortitude Valley QLD,650 Wickham Street,4006,-27.44978,153.040883,Store
+506009,Urangan QLD,19 Cartwright Court,4655,-25.2921984,152.891789,Store
+506097,Warner QLD,353-355 Samsonvale Road,4500,-27.292261,152.952064,Store
+506010,Gladstone QLD,54 Boles Street,4680,-23.857973,151.253118,Store
+506103,Clontarf QLD,10-22 Hornibrook Esplanade,4019,-27.260451,153.080562,Store
+506018,The Gap QLD,17 Glen Affric Street,4061,-27.445998,152.952405,Store
+506096,Meridan Plains QLD,238 Parklands Boulevard,4551,-26.772471,153.10654,Store
+506014,Sunshine Cove QLD,20 Flinders Lane,4558,-26.6610393,153.0823062,Store
+506019,North Lakes QLD,48 North Lakes Drive,4509,-27.239539,153.014864,Store
+506015,Coorparoo QLD,300 Old Cleveland Road,4151,-27.4946,153.0585,Store
+506003,Bundaberg QLD,19 Maryborough Street,4670,-24.870901,152.347181,Store
+506104,Morayfield Supercentre QLD,312-344 Morayfield Road,4506,-27.116412,152.951639,Store
+506012,Caboolture QLD,147 King Street,4510,-27.0846576,152.9405652,Store
+506008,North Lakes Westfield QLD,Westfield North Lakes Drive,4509,-27.2424475,153.0177302,Store
+506004,Bargara QLD,699 Bargara Road,4670,-24.8180411,152.4556554,Store
+506020,Fairfield Gardens QLD,180 Fairfield Road,4103,-27.50924,153.0242,Store
+506021,Allenstown QLD,167 Gladstone Road,4700,-23.39609,150.50636,Store
+506025,Indooroopilly QLD,322 Moggill Road,4068,-27.49744,152.97266,Store
+506023,Birtinya QLD,8 The Avenue,4575,-26.7429,153.11957,Store
+506027,Avoca QLD,123 Takalvan Street,4670,-24.88973,152.31839,Store
+506028,Lutwyche QLD,543 Lutwyche Road,4030,-27.422486,153.034139,Store
+507002,Parafield Gardens SA,88-94 Lavender Drive,5107,-34.775323,138.619206,Store
+507012,Gilles Plains SA,Cnr Sudholz & North East Rd,5086,-34.857212,138.655401,Store
+507009,Kilburn SA,400 Churchill Road,5084,-34.865371,138.581527,Store
+507001,Seaford Heights SA,1 Vista Parade,5169,-35.190918,138.494607,Store
+507003,Hallett Cove SA,246 Lonsdale Road,5158,-35.078083,138.51585,Store
+507007,Noarlunga Centre SA,Colonnades SC Beach Road,5168,-35.143578,138.498786,Store
+507028,Kilkenny SA,Arndale SC 470 Torrens Road,5009,-34.876094,138.550611,Store
+507013,Oaklands Park SA,Marion SC 297 Diagonal Road,5046,-35.016142,138.544453,Store
+507006,St Agnes SA,1244 North East Road,5097,-34.821767,138.717168,Store
+507010,Blakeview SA,15 Main Terrace,5114,-34.680659,138.702961,Store
+507004,Woodcroft SA,Crn Panalatinga & Bains Rd,5162,-35.113793,138.549088,Store
+507023,Kensington Park SA,398 Magill Road,5068,-34.914242,138.6571,Store
+507008,Modbury SA,972-976 North East Road,5092,-34.830724,138.693777,Store
+507011,Berri SA,Lot 200 Kay Avenue,5343,-34.279368,140.609421,Store
+507024,Victor Harbor SA,56-60 Adelaide Road,5211,-35.529854,138.638079,Store
+507022,Aldinga SA,209 Port Road,5173,-35.267018,138.48341,Store
+507005,Mount Barker SA,22-28 Hutchinson Street,5251,-35.065892,138.8591,Store
+507014,Smithfield SA,12 George McCullum Road,5114,-34.685331,138.68943,Store
+507025,Nuriootpa SA,Crn Murray & Gawler Streets,5355,-34.473649,138.994571,Store
+507027,Port Pirie SA,8 Wandearah Road,5540,-33.1906,138.01,Store
+507026,Murray Bridge SA,105-109 Adelaide Road,5253,-35.1239,139.264,Store
+507018,Morphett Vale SA,Cnr Sherriffs & Hillier Rds,5162,-35.105,138.520332,Store
+507017,Golden Grove SA,Lot 1035 Helicon Drive,5125,-34.79203,138.69276,Store
+507015,West Lakes SA,44 Frederick Road,5021,-34.881114,138.503426,Store
+507016,Evanston SA,1 Tulloch Road,5116,-34.615136,138.737933,Store
+507019,Hawthorn SA,198 Belair Road,5062,-34.974012,138.608878,Store
+507033,Mt Gambier SA,58-74 Commercial St East,5290,-37.829402,140.783269,Store
+507041,Mawson Lakes SA,1-7 Main Street,5095,-34.81043,138.615342,Store
+507020,Adelaide Airport SA,2 Butler Boulevard,5950,-34.935213,138.523028,Store
+507021,Ingle Farm SA,237 Montague Road,5098,-34.828994,138.647257,Store
+507030,Mildura VIC,858 Fifteenth Street,3500,-34.2063914,142.1356148,Store
+507042,Stirling SA,3-5 Pomona Road,5152,-35.003065,138.716746,Store
+507035,Blackwood SA,198-200 Main Road,5051,-35.016487,138.616326,Store
+507031,Newton SA,174-178 Gorge Road,5074,-34.876295,138.683875,Store
+507037,Norwood SA,76 Magill Road,5067,-34.915541,138.628921,Store
+507029,Kadina SA,Frances Terrace,5554,-33.964271,137.710743,Store
+507045,Findon SA,263-271 Grange Road,5023,-34.905022,138.534229,Store
+507034,Salisbury SA,41-49 Park Terrace,5108,-34.764908,138.645559,Store
+507036,Clovelly Park SA,1160 South Road,5042,-34.9954975,138.5745675,Store
+507032,Port Adelaide SA,200-220 Commercial Road,5015,-34.848573,138.50593,Store
+507038,Plympton SA,Crn Anzac Hwy & Marion Road,5038,-34.965832,138.553833,Store
+507039,Whyalla SA,10-14 Ekblom Street,5608,-33.02833574,137.5358558,Store
+507043,Glenelg SA,601 Anzac Highway,5045,-34.976,138.51765,Store
+507044,Glenunga SA,499-505 Portrush Road,5064,-34.94733,138.64259,Store
+509041,Warwick WA,Cnr Erindale & Beach Road,6024,-31.843612,115.811157,Store
+509035,Wanneroo WA,Cnr Conlan Ave& Wanneroo Rd,6065,-31.752279,115.805903,Store
+509003,Mirrabooka WA,43 Yirrigan Drive,6061,-31.871511,115.862836,Store
+509001,Belmont WA,227 Belmont Avenue,6105,-31.965416,115.934869,Store
+509010,Southern River WA,346 Warton Road,6110,-32.087452,115.946499,Store
+509019,Ellenbrook WA,The Promenade & Pinaster Pd,6056,-31.781911,115.974225,Store
+509017,Cannington WA,1383 Albany Highway,6107,-32.02155,115.93717,Store
+509018,Waikiki WA,Cnr Read & Gnangara Dr,6169,-32.314742,115.753466,Store
+509011,South Lake WA,Cnr North Lake Rd & Omeo Rd,6164,-32.106173,115.82794,Store
+509015,Armadale WA,Jull Street,6112,-32.15067,116.017289,Store
+509009,Camillo WA,131 Westfield Road,6111,-32.119398,116.002002,Store
+509039,Midland WA,274 Great Eastern Hway,6056,-31.890417,116.011454,Store
+509002,Joondalup WA,420 Joondalup Drive,6027,-31.743779,115.766161,Store
+509042,Madeley WA,168 Wanneroo Road,6065,-31.817551,115.823042,Store
+509008,Rockingham WA,10 Robinson Road,6168,-32.287952,115.742689,Store
+509031,Busselton WA,Cnr Bussell Hwy & West St,6280,-33.655504,115.34114,Store
+509005,Halls Head WA,14 Guava Way,6210,-32.548906,115.703421,Store
+509021,Secret Harbour WA,420 Secret Harbour Blvd,6173,-32.407677,115.758853,Store
+509014,Mundaring WA,22-24 Hartung Street,6073,-31.900246,116.165188,Store
+509023,Lakelands WA,Mandurah Road,6180,-32.472483,115.761877,Store
+509022,Cockburn Gateway WA,Cockburn Gateway Beeliar Dr,6164,-32.13154,115.85727,Store
+509006,Australind WA,5 Mardo Avenue,6233,-33.281091,115.715609,Store
+509030,Currambine WA,Lot 5001 Delamere Ave,6028,-31.741362,115.739057,Store
+509038,East Victoria Park WA,"1009, 1013-1015 Albany Hwy",6101,-31.99302,115.91082,Store
+509045,Hillarys WA,Cnr Marmion & Whitfords Ave,6025,-31.796387,115.749212,Store
+509007,Harrisdale WA,Cnr Nicholson Rd&Yellowwood,6112,-32.126633,115.926769,Store
+509012,Mandurah WA,2 Aldgate Street,6210,-32.53245,115.73298,Store
+509004,Kwinana WA,32 Meares Avenue,6167,-32.243753,115.815767,Store
+509013,Butler WA,Lot 2712 Butler Boulevard,6036,-31.637732,115.697204,Store
+509020,Morley WA,4 Collier Rd,6062,-31.899909,115.900731,Store
+509024,Spearwood WA,Cnr Burgundy Cres&Lancaster,6163,-32.096066,115.78436,Store
+509028,Northam WA,10 Beamish Avenue,6401,-31.65778,116.67049,Store
+509016,Wattle Grove WA,338 Hale Rd,6107,-31.99998,115.98479,Store
+509034,Beeliar WA,283 Beeliar Drive,6164,-32.126559,115.798316,Store
+509032,Kalamunda WA,17 Mead Street,6076,-31.973626,116.058211,Store
+509027,Bunbury WA,9 Edward Street,6230,-33.328543,115.638775,Store
+509046,Karrinyup WA,200 Karrinyup Road,6018,-31.876697,115.778841,Store
+509026,Banksia Grove WA,"3 Jewel Way, Lot 137",6031,-31.704893,115.799593,Store
+509049,Inglewood WA,96 Tenth Ave & 1 Eleven Ave,6052,-31.92087,115.887267,Store
+509025,South Fremantle WA,24/219 Hampton Road,6162,-32.07419,115.75883,Store
+509037,Wonthella WA,NthWstCoastalHwy & Eastward,6530,-28.777413,114.626743,Store
+509040,Thornlie WA,115 Murdoch Road,6108,-32.068694,115.949995,Store
+509036,Byford WA,845 South Western Hwy,6122,-32.21936,116.00836,Store
+509029,Yokine WA,6 Wanneroo Rd,6060,-31.910637,115.846638,Store
+509033,Kardinya WA,17 South Street,6163,-32.067295,115.818496,Store
+509043,Baldivis WA,26 Safety Bay Road,6171,-32.332853,115.814745,Store
+509047,Beechboro WA,161 Altone Park Road,6063,-31.870837,115.945582,Store
+509051,Yanchep WA,2 Kakadu Road,6035,-31.547905,115.640506,Store
+509055,Albany WA,70-80 Albany Highway,6330,-35.0187673,117.8793807,Store
+509056,Clarkson WA,36 Ocean Keys Blvd,6030,-31.6912372,115.7157576,Store
+505100,Dandenong VIC,50 Produce Drive,3175,-38.0373455,145.2206406,DC
+502100,Derrimut VIC,60 Swann Drive,3026,-37.802448,144.7713582,DC
+509100,Jandakot WA,21 Orion Road,6164,-32.0883104,115.8738996,DC
+507100,Regency Park SA,84 Gallipolli Drive,5010,-34.8523981,138.57586,DC
+506100,Brendale QLD,68 Kremzow Road,4500,-27.3147468,152.9745505,DC
+501100,Minchinbury NSW,1 Sargents Road,2770,-33.7888098,150.8208388,DC
+504100,Prestons NSW,10 Burando Road,2170,-33.9370696,150.8744599,DC
+503100,Stapylton QLD,55 Burnside Road,4207,-27.7494602,153.2390813,DC

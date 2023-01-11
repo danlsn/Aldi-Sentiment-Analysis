@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Coles Supermarkets",
+    "url": "https://www.coles.com.au/",
+    "brand": {
+        "@type": "Brand",
+        "name": "Coles",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/d0a94cb2-afa8-5059-b125-b133e948c303?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/ba80dc43-67e2-57c1-b5b6-d496801ccd54?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.3,
+        "reviewCount": 1910
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/afe010bc-23cb-5f43-a115-348633b5b92c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-29T09:38:21Z",
+            "headline": "Dreadful treatment at Gateway Coles Warrnambool",
+            "reviewBody": "March 22nd this yr I was told by customer service to go to this store to receive refund. I went, [Name Removed], the former \u201c manager\u201d told me to [Content Removed] out of HER store. I refused. Things got out of hand, I suffer chronic debilitating pain and have arthritis in EVERY joint of my body. Hadn\u2019t slept for 3 nights straight due to pain, was extremely tired and exhausted but when was told to [Content Removed] by the former manager there I lost my temper! I rang Regional Manager who promptly fired [Name Removed]. Managers should know how to micro manage a situation to de-escalate NOT ESCULATE a customer to be enraged. I refuse to allow a check out chick to talk down to me! She deserved to be sacked. However now she\u2019s a petty heffer and went to police with her loser posse and put a complaint about me. [Name Removed] the officer who spoke to me giggled at the situation and petty [Name Removed] is. The store Manager and bakery manager were also pathetic! All the so called managers there need to be sacked! Useless. Petty. The coles employees are plain janes, overweight and obese, tired looking sad cases. Never will shop there again!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Slander",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/14586caf-0eff-5278-8de3-8345e62a5475"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3492dde2-1b17-55c3-96d3-a118528c30c7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-27T11:54:48Z",
+            "headline": "Disgusting Sausages",
+            "reviewBody": "Coles Finest Australian Pork, Apple and Cider Sausages were my favourite, until to-day.  A piece of gristle with every bite should be the new promo.  The quality was disgusting - will be thrown away as inedible and never\npurchased again.  If you have changed processor, where is your quality control ?",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "disgruntled12",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c804be13-6e18-3716-aa5a-a12dc537adff"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/156999b9-9028-58e6-8345-59183d3d0400",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-27T06:39:36Z",
+            "headline": "Terrible fruit quality",
+            "reviewBody": "Yesterday I bought from Coles Chadstone a pack of white peaches with a best before date 27 Nov 2022 which is today and look at the quality they sold me.They expect me to eat all these bad fruits?",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Victor B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d107623b-2bff-4f1b-be67-13fdefbef49f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c621d358-bdbd-5427-b896-b26406da3462",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-23T05:24:22Z",
+            "headline": "Lacking in quality, for product and packaging.",
+            "reviewBody": "I really think major outlets should hire 'shelfed' product reviewers, kinda like at home quality assurance. People that go in as loyals buy coles product with their shopping every week and then forward information regarding the products and their packaging back directly to a quality assurance manager. I believe product quality is plummetting. I see sausages with more air pockets than meat filling....or with untied and exploding ends, scotch fillet 2packs, where one piece looks like a cut but when you open the packaging you realise its been that POORLY cut and squashed together to look like a full piece and priced at 30 dollars like a piece of scotch, yet actually resembles something more similar to sausage meat or a cut that could have been made into stirfry strips or diced casserole meat. Kievs that have white rubber stuff form on the outside whilst cooking that I have never seen before. Spefically labelled winglettes that have damaged drummettes, still attached spare ribs and skin off cuts that should have gone into the bi products line, disguised in the packaging by the marinade. Milk bottles that literally split in corner seams or still have the finger hole piece stuck inside. Its just dissapointing because as the prices for all your products rise with the cost of living.........the quality is not rising with it and something needs to be done or the prices need to drop again because i find this insanely unacceptable and for a major outlet, the upmost pride should be taken in the packaging, presentation, and quality of the product that have the Coles name and label on them.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Crystal",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/40ecff5b-8425-59a4-80da-6eec404260ef"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/34873736-b864-5e0b-9a4b-ae0b940ab868",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-21T07:28:25Z",
+            "headline": "COHERSION - DROP TO BOOT",
+            "reviewBody": "I swore I would never shop at Coles again after what they did to me during lockdown.\nSpecifically Coles South Melbourne \n\nDirect to boot is a LIE.\n\nMy bank offered me a $30 cash back if I spend $100 at Coles.\nEntrapment. You can give me 50% off my shop and I will NEVER step foot in a Coles store again.\n\nWho are you offering this service to and why ?\n\nAs a disabled agoraphobe, this \"service\" would be deemed \"convenient\". It is NOT.\n\nI attempted to call the mobile number over 9 times that \"I have arrived\".\nI'd already hit the \"I've arrived\" button on my phone, 30 minutes earlier with no sign of anyone bringing the groceries down to my vehicle. \n\n40 minites pass , pick up was between 10am - 11am.\nNoone has come down.\n\nI'm stuck in an underground basement carpark with no way of getting out , no way to contact anyone as they're not answering their phones and no way to get out and find out whats going on.\n\nI go up the escalators, in my bathrobe, in a panic as I suffer**** severe agoraphobia.\n\nI ask where my groceries are and why Ive been kept waiting 40 minutes \n\n\"It's not my fault !!!  Our phone is down. Who are you? Which is your order\" ?\n\n( There were 2 orders on that trolley at the front desk. Mine and someone elses and NOONE cared enough to come down and notify us )\n\nDear Cu Coles,\n\nAre you not aware you've cohersed people into your basement that are waiting for pick up orders ?\nAre you not aware that you have collection orders between 10am - 11am ? THEY'RE SITTING IN FRONT OF YOUR FACE\n\nWHY DID NOONE CARE ENOUGH TO NOTIFY YOUR CUSTOMERS  ! ?\n\nWHY DID YOU NOT SEND SOMEONE DOWN TO WAIT FOR CUSTOMERS  ?\n\nWHY DID YOU NOT PUT UP A PIECE OF PAPER NOTIFYING CUSTOMERS THAT YOUR ONE **** PHONE DOES NOT WORK ?\n\nAbsolutely poor management. Awful\nYou're AWARE of your one phone not working but wont apply that further ourside of your selfishness. \nDo not coherse me into your store with deals or discounts or a service that you cannot fulfil. \n\nYou do not care for disabled people\nYour reaction towards me was of annoyance rather than apologetic.\nvulnerable people\nelderly people\nmothers on their own\n\nIf you did , you would have not made them wait near an hour sitting in a basement with full knowledge that you have orders to fulfill.\n\nIt is NOT a \"convenient\" sitting in a basement carpark for 40 minutes , being ignored whilst someone else touches all my shopping rather than myself selecting it.\nSadly we all cannot go in store and Coles knows this but does not care nor implement any problem resolution when it comes to servicing their customers.\n\nNo apology either\n\nI will STARVE before I ever set foot in any of your stores again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vivienne Lilith",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/348d0c3a-b6d0-4c97-acca-f9c0e620062e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/772b3a5b-2014-55ed-bcf5-3003fdf48e4a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-21T01:41:14Z",
+            "headline": "Coles cancels REDcycle",
+            "reviewBody": "Coles has cancelled collection of soft plastics and has blamed the REDcycle people. As most soft plastic waste comes out of Coles and Woolworths supermarkets, they should have stepped up to the plate and invested in the industry and ensured its sustainability. It's not good enough for the big supermarkets to wash their hands of responsibility here. Coles: restart the soft plastics collection and find, and invest in, a solution.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ric C.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ce9fa6e9-6cd3-4c3f-b88b-71b300c0084d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/436fa1aa-116f-523f-bacf-c95eb72ba563",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-19T11:12:28Z",
+            "headline": "Coles brand CUB \" packaging \" for Nappy Pants size 6 and junior 16+ size 6.",
+            "reviewBody": "Very frustrated and disappointed in the \"packaging look\" for the two products listed.\nThey are two Different products with the similar same packaging look.\n\nWho can tell if the child is wearing a nappy pant or a nappy??!\nThe colour of the packaging is the same as is the size of the product.\n\nAdmittingly, they are labelled appropriately, but when you are looking at rows of products with children in nappies, its very easy to still choose the wrong product!\n\nKnowone wants to stand their and analyse rows of product lines.\n\nIts very easy to mistakingly purchase the wrong product only to then run around to look for the receipt, drive back to the store and swap over.\nToo much work to purchase a simple product.\n\nPlease simply and make life easy!\nIts not that hard nor should it be!\n\nOther than that, the product is amazing in terms of quality and price and I would highly recommend over Aldi and Safeway brands.\n\nMum with experience",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cat",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/59db6021-19bd-3380-9e1e-81b3d3ec10bf"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/997c5aaa-a2ad-57a7-9ea0-6d72bda9a937",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-18T11:28:57Z",
+            "headline": "Do Better Coles Local",
+            "reviewBody": "The transition from Coles to Coles Local seemed hopeful, however, the change is disappointing. \nTrolleys recycled from old baskets seem environmentally friendly and sustainable, until you realise the sustainable METAL trolleys were gotten rid of. \nNext, the artisanal displays around the store serve no purpose, except to exhibit expensive items, the key demographic of the Earlwood area (being families and elderly), would not be able to afford.\nFinally, what is the point of the self-checkouts when staff are required to 'stand guard' but not actually help in the checking out. About 80% of the checkouts at Coles Earlwood are now self-checkouts, half of which are commonly closed because a staff member needs to monitor you checking out. Is there an actual need for the checkouts to be SELF-checkouts when a staff member needs to be present? And again, this method of checking out, alienates elderly customers who would not know how to scan the items, how to bag them, or to scan the bags along the way, etc.   \nTo sum up my feedback to you, Coles, your vision is to become, \"the most trusted retailer in Australia,\" and I believe that you have failed in your approach.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "B.Smith",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/bf58fda5-1648-56e1-a6f1-18ac32f0222d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e9a34166-8d38-5a1d-a3c6-1b0b0cc85dd3",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-17T09:47:21Z",
+            "headline": "Poor Quality",
+            "reviewBody": "This is the quality that is served to your customers. You advertise using Australian celebrities stating the quality and freshness of your products. There is certainly no quality in this and then it was packaged under the label so you could not see the poor quality of the whole product. It is hard enough surviving in today's world without companies like Coles deliberately deceiving customers. So tonight we all must share our portions as we buy for the quantity in the pack for the family, no $ for extras. Thanks Coles.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "GTO",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/39267f39-bac1-374b-8ec2-c0423c08ac92"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3f511e70-e8c3-5aaf-83e1-8fb80381816f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-16T05:24:36Z",
+            "headline": "Very bad",
+            "reviewBody": "I bought SABA mini chopper from Coles supermarket and it doesn't work anymore.\nI tried to return it to Coles and they said it's not their responsibility to return it and I have to chase the factory now.\nThe factory has asked me to take it to their warehouse this very faaaaaaaar from me or they can return half price to me.\nVery frustrating and disappointing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "samar s.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b01a7a96-e288-4946-935d-0d4c6e18b502"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8163b50e-0618-5e5a-a662-5aa723e97e0d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-16T04:52:11Z",
+            "headline": "No staffed checkouts",
+            "reviewBody": "There's only one staffed checkout in the middle of the day. The self service area has recently been expended and it is being under utilised. Coles CEO keeps blabbing in his nonsense statement how the customer service is important to him. Hahaha! You sir are a liar.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tom K.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c4d4990e-346b-42b6-84e3-be9206dc25b5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f2ef2954-5f4f-5ea8-8969-33481c0cc939",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-13T17:57:16Z",
+            "headline": "Coles. The Feral Food People?",
+            "reviewBody": "I recently returned some pears to our nearest Coles, which is at Mount Sheridan in Cairns, for the third time this year as they had once again failed to ripen after many days on the kitchen bench top as they had either been picked too green and/or had been in cold storage for too long, and they developed rotten brown spots instead.\nOn the last occasion, the girl at the Customer Disservice Desk said that she had worked at other local Coles where the \u201cmanagers\u201d refused to refund defective \u201cfresh\u201d produce but she processed my refund.\nOn 03.11.2022, I bought 2 x \u201cColes\u201d Kensington Pride mangoes for $2.50 each and another 4 on 05.11.2022 on \u201cspecial\u201d at $2.00 each.\nNone of them developed the usual sweet mango aroma and the 2 my wife tried a couple of days ago were neither juicy or sweet. The skins on all of them were starting to wrinkle without ripening properly.\nI took the remaining 4 mangoes and the 2 Coles receipts to the Customer Disservice Desk yesterday for a refund.\nThe one person who was doing the express checkout, the Disservice Desk enquiries, and selling tobacco decided that she needed to ask a person at another checkout then returned to say she had to call the manager.\nAfter some 10 minutes, an individual with a bad attitude finally arrived and I explained once again what the problem was.\nShe retorted by asking why I had taken so long to return them, to which I replied that we had waited for them to ripen.\nI also said that ripe mangoes should smell sweet, and be sweet and juicy, and these ones were not fit for purpose.\nShe retorted that they cannot see what they look like inside when they sell them.\nI also commented that we were spending around $200 every week at this store. (\u201cWere\u201d is the operative word).\nI finally got my money back and departed, never to return to this store. I went to the Woolies store to purchase the other items I was going to buy from Coles.\n\nColes website currently describes the mangoes as \u201cColes Kensington Pride Mangoes\".\nhttps://shop.coles.com.au/a/earlville/product/kensington-pride-mangoes\n\nColes \u201cCustomer Care\u201d policy states this regarding Coles \u2018fresh\u201d produce.\nReturning Coles Own Brand products\nColes proudly has a range of products under the Coles Own Brand. You can identify these by the Coles logo or Coles trademark on the pack.\n Our Coles Own Brand products carry satisfaction guarantees:\n\u2022\tFor grocery and fresh products it\u2019s: Try it. Love it. Or Your Money Back. (This is a registered trademark used under license from Coles Group Limited.)\n\u2022\tFor non-food product it\u2019s: 100% satisfied with this product or return it to your Coles customer service desk for a 100% refund.\nSo if you're not 100% satisfied, we encourage you to return your Coles Own Brand product, empty packaging or receipt to the customer service desk at your local Coles supermarket for a refund or replacement.\nOur satisfaction guarantee applies to all Coles Own Brand products purchased in-store and online at Coles, including grocery, fresh (including delicatessen) and non-fo\n\nThis is the same Coles store which has been totally incapable of producing their own instore baked bread on a daily basis for months and no longer even bothers to place apology notices on the bakery counter.\nWith management like this, they could not even successfully run a brothel on a troop ship.\nWoolies has their \u201cThat\u2019s Today\u2019s fresh Food People\u201d motto. Perhaps Coles should use \u201cThat\u2019s Today\u2019s Feral Food People\u201d.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fred123",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0807a36d-064c-397f-96d3-ab66ad7ee183"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/aacc6788-5744-58aa-ad7f-abe09a6a2841",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-09T08:29:55Z",
+            "headline": "No Customer service at Coles Supermarket, Westfield Helensvale.",
+            "reviewBody": "Absolutely no customer service at all, in Helensvale Coles supermarket on the morning of Wednesday 9th of November 2022.\nAt approximately 9.15 am I went to pay for my groceries only to find that the express register was in the middle of working through a huge food laden trolley, with another equally huge trolley waiting in line. There were no other cash registers open. Customers had no option other than to use the self service registers. \n\nThe self service registers are a nightmare to use because they are extremely sensitive to any number of customer interactions and will stop working for many reasons, sometimes it can be as insignificant as nudging your plastic shopping bag!!    The customer is then left trying to catch the attention of the lone staff member servicing the  area.  In my case the staff member was engaging in some well meaning social interaction with a couple of elderly customers which meant that I was left waiting and waiting. until I gave up and left.\n\nThere is no point in providing a self service facility  unless it can be made easy, simple and fast to use by any first time customer. If this is not an option, management should insist that staff on duty are there to help customers and to focus on the job.\n\nIn summary, forget going in early for a quick shop at Coles Helensvale. At 9.00am there was only the express register manned, and the self service area had 1 staff member who was tied up socialising with a couple I can only assume were her friends as there was no concern for any other customer waiting. \n\nIf Coles supermarkets are intent on providing no customer help at all, at the very least they should create an automated system that is fail safe, otherwise what is the point. Customers will vote with their feet. I walked down to Woolworths and did my shopping  there. They at least had more staff and more registers operating.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "costly mistake",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/28bfc242-16d3-3e5b-afa7-a165b90c64d1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/91ad8fa2-97a7-54d4-a0a8-8e950bfc831f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-08T06:55:03Z",
+            "headline": "Coles rewards",
+            "reviewBody": "Coles rewards (flybuys) a total rip off. Have to go online then it is impossible to redeem points. Wollies tels you when you have $10 credit and just takes it off your bill. O logins no internet no set a password that is  never accepted and they honour the reward. Unlike Coles! Plus at Woolworths I get fuel discounts as well as honest redeemable points. I will never enter a Coles store again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dave",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a6823858-cf60-3f77-8765-a3e9744e70fe"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6b873c37-1896-569c-bd35-1944ab8b2775",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-08T04:29:48Z",
+            "headline": "Nasty customer service. Don't go to Southland Coles in Willetton!!",
+            "reviewBody": "It's some of the worse services I've encountered.\nThey don't do price match (Huggies nappies $35.50 vs Woolworth $28) and if you asked, not only the reply is not helpful, they laugh at you as if you are STUPID for asking. ALDI is about to open up next to their shop.\n\nGood luck for such unfocused nasty service.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Liam",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b046b75b-36e4-4802-84a7-e8bccf74fa37"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/90bdebf4-ffa0-5ca0-8978-884db88fecc6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-07T02:52:55Z",
+            "headline": "Move towards self service terrible for families",
+            "reviewBody": "We\u2019ve been increasingly frustrated by the move towards more and more self service. Now eastland has gone to only one manned checkout. We have a family of 4 kids to manage and coles clearly don\u2019t care about the feedback we provide. The lines are taking close to half an hour to checkout out now as everyone\u2019s going slower, and doing it whilst juggling the children has become impossible. We\u2019ve moved now to Aldi, and not because of lower prices, but because as ironic as it sounds they actually now have better costumer service despite being known as the discount option. Do better coles, you\u2019ve lost in excess of $350 a week from us.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LME86",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a83fa6c9-80a8-3496-866c-04bfa0b556f1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/10462288-9c7e-5d1e-a019-a26dd8e14be2",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-11-03T08:07:09Z",
+            "headline": "Why are we being charged for paper bags ?",
+            "reviewBody": "Bags to carry your groceries used to be provided free. We all understood that To discourage plastic the supermarkets and other stores charged a fee . But now with no plastic  and paper bags  available ,why are we still being charged???",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Omando",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a61a7531-3ea3-31a8-b733-c9c2e5d17557"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7640ad09-19a7-5b6f-a1f7-70ba2c2507fd",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-30T14:40:03Z",
+            "headline": "Lamb Shoulde Roast-Boneless",
+            "reviewBody": "Bought a 1.2kg boneless lamb roast from the Rowville store today,absolute disgrace,we had about 300/400 grams of edible meat,the rest was just fat,fat and more fat .Disappointing when you expect to be paying for good quality meat.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Harry",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/02ec8b1a-0fa9-5e9e-a4d2-6e2b4f57e19c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a82bbd5c-102f-5fe0-973b-9a375542c66b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-30T08:32:30Z",
+            "headline": "Coles self-styled ban on plastic bags for veggies, shows contempt for customers and corporate virtue signalling.",
+            "reviewBody": "In Canberra, since Coles have decided to virtue signal to the younger generation (who DON'T buy the groceries) by voluntarily banning plastic bags and charging us $3 for a 3-set of netted bags, we are now simply boycotting Coles altogether. We don't mind bringing recyclable bags for our main shopping, but trying to carry around a dozen smaller vegetable nets (which tangle in keys and anything else sitting with them) is just not practical! It wasn't the state government, but Coles themselves that brought this ban to their stores. Aldi didn't.\n\nAll our household spending is NOW going to Aldi, because THEY still care about helping consumers and not invonveniencing them with even more corporate dictates and public wokeness.\n\nEven more concerning, is that Coles were one of the first companies to force their staff to take the experimental vaccines or face the firing squad, even today, knowing they are not effective in preventing transmission. This is just cruel.\n\nAnd other thing. If Coles relocate those staff who are acting as security monitors in the self-checkouts to actually work behind a counter, we may not have to wait 20 minutes for service. If customers are expected to do the work of Coles employees by scanning their own items and risk getting pulled up by local police for inadvertent theft, then maybe they should also get a discount in exchange for their efforts.\n\nMore than ever, Australians are seeing through the corporate wokeness agenda, with cost of living rising, so 2022 will be the start of Go Woke, Go Broke for these type of companies. And about time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jamie",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/62abae68-bf59-52e1-89df-1a099a1e6a99"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3c0d9c96-79c1-5395-8a33-fdf74b07a811",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-27T03:35:09Z",
+            "headline": "No one at checkouts",
+            "reviewBody": "Vasse W.A.   never anyone at check outs, have to put your groceries on the floor using self-serve after a large shop, this has happened numerous times, manger says it's out of her control, upper management won't even acknowledge there is a problem, as a shareholder I'm very disappointed with Coles w.a. management team",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Peter F",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ec80e61e-ec8f-490d-8515-777c37d35e84"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/df9e7fa0-b400-55c0-a03d-550e6553a8d2",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-25T10:26:54Z",
+            "headline": "Coles' response to feedback - obviously didn't even bother to read my feedback",
+            "reviewBody": "I went into Coles yesterday to purchase 1/2 a bunch of celery.  I couldn't believe it when the full bunch was $3.50 and half a bunch was $3.45.  I asked for a price check and it was right.  I can understand the 1/2 bunch not being 1/2 the price but 5 cents cheaper is unbelievable.  I sent a feedback form to Coles giving them feedback.  This was their response which just made me realise they didn't even bother reading my email.  Disappointing to say the least.  I will shop at Woolworths in future.\n\n\"Thank you for your enquiry regarding the recent price increase of Coles Celery. Coles has been working very hard to improve the shopping experience in our stores and deliver better value on our shelves. To support this, we\u2019ve been actively cutting prices on those products our customers buy the most in order to make a real difference to their everyday grocery bills.\n\nWe understand that great value for money is very important to people these days and this is why we are constantly looking for new and innovative ways to reduce the cost of shopping at Coles. As you\u2019ve pointed out in your email, unfortunately the price of some products in our stores will inevitably rise.\n\nPricing is influenced by a wide range of factors including the prices suppliers charge us, seasonal factors including availability of and quality of product, transport and distribution costs, and various promotional activities offered daily by competitors in the marketplace. \n\nHowever, we thank you for your email, and appreciate the feedback. We will continue to monitor this product, and all our products, to ensure that we remain price competitive.\n\nWe look forward to being able to assist you in the future.\"",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "deborah C.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cdd58f78-1f7f-4909-acf5-bacc44ea3f4e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/29696c98-25a5-57fa-b54e-26bf73661c0e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-25T05:13:10Z",
+            "headline": "Bad Avocados",
+            "reviewBody": "I bought four Avocadoes atTwo Dollars each !  Not one  single one  was  any good  ! all had horrible black  and brown steaks though  the flesh !   Cost more to return them than its worth !",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dave",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0e799cfc-9921-45f1-92f9-7caef7f2eb7c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4b14e6ad-8d8e-59a8-be9f-b6cb6076a5d4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-24T22:58:10Z",
+            "headline": "POOR QUALITY FRUIT (ROTTEN)",
+            "reviewBody": "Went shopping at COLES location Penrith NSW Nepean Square shopping Centre  and bought a packed container of white grapes and found when opening the container and eating a few found that 80% of the grapes were rotten \nIm finding that the fruit and veggies from COLES the quality of the produce is pretty poor and tasteless so won\u2019t be shopping fruit and veg again from COLES \nP.S Also have noticed that this store stop selling GREEK FETTA CHEESE what\u2019s going on COLES?",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JOHNSKI",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b0e80344-5b4b-4405-b2c3-7ea8e3e754e9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c1a6f36d-d99a-562b-b9db-28d6d1b06842",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-23T13:00:06Z",
+            "headline": "Recommend you drop this line",
+            "reviewBody": "Taste was metallic to nothing. Could not get chicken or mushroom from flavour. Continental brand is far superior(which you also offer).",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/32ba2583-8bbc-5514-972e-b30b9bea97d1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/9da09a8b-dafe-5555-86aa-fa2292329426",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-23T07:18:42Z",
+            "headline": "Coles lavender disinfectant not fragrant anymore",
+            "reviewBody": "Used to love coles lavender disinfectant because of its beautiful scent.\nBut my new bottle has no good fragrance but the smell of bleech.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ana",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/534a4011-b5e6-55bd-a68f-9b8b05a224ab"
+            }
+        }
+    ]
+}

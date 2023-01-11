@@ -1,0 +1,569 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Woolworths Physical store",
+    "url": "https://www.woolworths.com.au",
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/6f975963-dceb-3748-92c1-8003cb95b2e9?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.1,
+        "reviewCount": 2194
+    },
+    "address": {
+        "@type": "PostalAddress"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c91dcf54-a87b-4f41-af3b-889748fe942f",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-22T05:08:46Z",
+            "headline": "Woolies own Turkish bread",
+            "reviewBody": "Just purchased a pack of Woolworths brand of stone baked Turkish rolls, unfortunately they forgot to the bread in them.\nAbsolutely pathetic as that seems to be the only brand available.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "D Mackay",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2203e87e-ad93-4c4b-8c8e-8912f28ecd09"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/fb9ab7f9-851b-4b70-88fe-ee647eb60e22",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-14T12:02:59Z",
+            "headline": "Medical discrimination is wrong!!",
+            "reviewBody": "I\u2019ve been a customer of yours for many years and I\u2019m extremely disappointed that you\u2019ve chosen to medically discriminate and support the mandate of vaccines. \n\nI emailed a few months back to ask if you were going to implement vaccine mandates and I was told no. Only to now see that you are!! \n\nI\u2019ll be spending my money elsewhere.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ilana Collins",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ae957f84-8303-318e-b308-64b407f05396"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3ff30af7-0e3a-45c3-a100-fa9ee2b078d9",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-13T00:21:10Z",
+            "headline": "Creative food solutions",
+            "reviewBody": "Possibly the worst pre made food I\u2019ve ever eaten. I wouldn\u2019t feed it to my dog the American BBQ Chicken from the Creative food solutions. Restaurant standards my butt. Woolworths need to delete their product as soon as possible they might be making good margins but that stuff is disgusting",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tom",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/47aa6fa0-568b-494d-9854-18d854aa64b1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6b3b5e4f-4f80-4b34-bc60-2a9729436965",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-12T06:02:57Z",
+            "headline": "Keeping the Social Distance in stores",
+            "reviewBody": "November 11 (yes Rememberance Day)  2021, Queensland has eased the Covid19 mask mandate, but social distancing and hygiene considerations are still in place. \nQueensland Health has still recommended that individuals keep masks on faces indoors because social distancing space can be invaded by the unthinking (or Covid deniers) crowd in an instant.  Full marks to the Woolies staff, they are all wearing masks and the clear acrylic screens around the staff in the checkout are still there.  The social distancing dots on the floor in checkout lines are still visible.  \n\nSo why does an unmasked woman (one we have seen unmasked in shops before) decide to stand behind us. She is putting her stuff on the conveyor as the conveyor moves forward slowly. We only have a few things (unusual for us). We are standing on our DOT and the person in front is still paying. \n\nBehind my back the unmasked woman behind decides to move into my personal space to lean in and rearrange her stuff on the  conveyor. She touched me. I turned around and said \"Excuse me, keep your distance\" she stands on her toes to object, so I reminded her about the DOTS. \n\nYes I have been vaccinated, but I don't want to be exposed to unnecessary risks because getting sick means not being able to work and everything else that flows on from that.\n\nKEEP THE SOCIAL DISTANCE, the Woolies staff should be reminding these pushy people because their actions also risk the Woolies staff Jobs.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "QLDZDR",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b68031d7-b506-3649-8115-0ee6140659e0"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e90abaf0-d2d3-45e7-be0e-5fd69762c09a",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-11T01:47:33Z",
+            "headline": "Woolworths Chicken Thigh Cutlets with Japanese Citrus Dressing",
+            "reviewBody": "Package states 4 serves and yet there were only three small thigh pieces in the packaging.  Either two people would get 1/2 a thigh cutlet each or one would go without.  Correct advertising would be contents amount as it was barely enough for my husband and I.  Flavour was good though on the plus side.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fiveo",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/77a03d65-988e-4384-990b-b18cf4ac4970"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/0286b63b-e2fb-4d8b-ad07-7930e1bf5ffa",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-10T04:45:29Z",
+            "headline": "I'm not stealing, even they don't have it in soter.",
+            "reviewBody": "I went to shopping to Earlville store after I've been to Coles. I did not know I lost coles receipt that time.\nI used self casher, and staff came to ask me for checking my bag and receipt. 5Kg sunrise race and a box crackers in there. \nBut I could not find out the receipt. \nAnd also there is no evidence because of they don't have same items on the floor.\nThe staff said loudly to me and other people\" you have to show me the receipt\", 2~3 times. \nAt last the staff said this time is ok, next time make sure get your receipt.\nI can proof my rights to get app shopping record of Coles overnight, but I could not prove it that time.\nSo what is she thinking about customer service? She never says this word \"please\" on her talk.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharon",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cf825ce8-a029-41b2-a510-eb56119e2f4c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/26fcf170-2e1d-4311-898f-59c6c649d073",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-09T04:32:18Z",
+            "headline": "not impressed",
+            "reviewBody": "As a local mullumbimby shopper i'm not impressed with mullumbimby woolworths not with the staff who are great it's the amount of products they are deleting from their range eg Talon rat bait works better than ratsack yet now no Talon and a shelf full of ratsack is this a company rep pushing the oppositon out the door also use to buy woolies milk  NO MORE  have   bought 2 differnt times and  went off 3 days before their use by date looks like COLES might be a better option only 3 mins longer to get ther",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tony",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/db3e2f99-00fa-4d70-a8cf-5c261dd682d6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d5781112-9797-44e9-8974-a689272aedf9",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-04T06:53:23Z",
+            "headline": "Lack of standards.",
+            "reviewBody": "All I can say is bring back night packers. Lack of stock on shelves and copious amounts of stock just sitting on floor/isles waiting to be put on shelves.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karen",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2efc8dd0-288a-31b0-8ad6-ea1463896501"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a829888b-de18-4a98-afe5-068da10c879b",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-21T19:39:26Z",
+            "headline": "No Vaccine Mandate",
+            "reviewBody": "Just heard on the news today you will be mandating all the workers to be vaccinated.  So from now on I will boycott Woollies & coles & will never ever support your businesses again. I will shop elsewhere.  Plenty of places to shop. We know who owns woollies & coles its the Freemasons that worship the devil.  You lost my business forever.  I will post this message everywhere I can so hopefully you will suffer with money loss.   You make me sick controlling what workers put in their bodies.  I hope all your employees leave you on the spot & your short staff because thats what mentally insane people deserve.  This is totally discrimination..",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bellamia",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/60edfa79-abed-4d57-bd78-8a09aeeeef60"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/034765af-b64e-4d9c-8c01-6dc2c1e7bcee",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-21T08:27:09Z",
+            "headline": "Boycott Woolworths",
+            "reviewBody": "Vaccine mandates for workers, BOYCOTT WOOLWORTHS. There are plenty of other places to shop that will welcome your patronage and money. Don't bow to tyrannical overlords",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jason L.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d829b6c5-da3b-417d-a692-f24e80c367ba"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b6b6c314-48ad-4793-80dc-0b02e888379d",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-19T09:39:24Z",
+            "headline": "The day I gave Woolworths the Flick",
+            "reviewBody": "I've always shopped at Woolworths,I've even worked there,but things come to a end.The service desk at Wollongong Woolworths should learn manners and customer service. Great day on Monday walked into Woolworths asking politely what can I do bought 2x hair dyes (yes I do dye my hair)receipt in hand I explained that I had purchased this product last Friday in Schofield Woolworths. No hotspot area. No exchange ,no refund nothing woolworths aren't doing refunds or exchanges because *yes covid rules. This manager who must of promoted herself touched the box and said get out covid. I told her use glen 20 and called her a idiot.Shame woolworths for employing a nasty rude and nieves employee let's hope woolworths responds to my feedback.Please teach your staff manners covid is here to stay",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dorothy Linda Alcroft",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c837dad1-01d8-4c6f-9d15-ad418377591d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d701cd54-c393-4dbc-9a38-94babf204c34",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-16T22:27:42Z",
+            "headline": "WOW what a mess this company has become",
+            "reviewBody": "Hello,\n\nGosh I have just done the figures and I am not the only one who thinks WOW is a little bit of a problem. Of the 3547 reviews 3548 (71.8%) say its terrible to bad shopping experience. How low does this need to get before they turn this around?\n\nThe product was clearly priced, big yellow sticker. Because the price was different on the chicken I took a photo.\n\nWhen I got to check out I pointed this out and showed the photo to the check out person. He hit a bell and another person came over, grabbed the chicken and set off down the back. She returned and \"get someone from butchery\". Another person arrived and down the back again went the chicken, and came back with another chicken entirely, not this brand. I pointed out that is not the chicken on display and showed my photo again. \n\nAfter assertive insistence \"you have to give it to me at that price, I will only write in and complain\", the chicken went for another trip for some unexplained reason, turned out to be repriced. Anyhow I have the chicken, but what a sxxt fight to just buy chicken.\n\nPoint 1: Price things properly, the advertised price is the price. \nPoint 2: If you make a mistake (everybody makes a mistake), be nice about it and fix it, don't make an embarrassing argument with me at the checkout in front of all you are keeping waiting. I just want to buy a chicken not be held up for ridicule like I have done something wrong\nPoint 3: Staff dealing with problems should know how to do it, clearly these staff (with the exception of the checkout worker) were stressed, angry and winging it. Your training needs a review. \nPoint 4: Whoever gets called over should be empowered to resolve a little problem not uncommon problem such as this, not flick it on.\nPoint 5: Apology cost nothing, especially for such a small amount of money and where I am not at fault.\nPoint 5: Where have all the nice, helpful and competent staff gone? I have had such good experiences at this store (my local) over 15 years.\n\nWhen at the end of my \"happy journey to the shops\" (sic) I suggested given the runaround and public embarrassment I should be given the product free - In  keeping with what I thought was Woolworths Scanner Code of Practice, well you can guess how that went.\n\nSee below for the policy from their own website\n\nhttps://bunch.woolworths.com.au/article/10102991/Supermarket-Scanning-Policy#?sortby=RECENT\n\n\nNot happy, but neither is anyone else by the looks.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Seamus",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a7b59b4d-148c-305c-9a2d-7967587fe86b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2924e3d2-c27b-4c81-bcde-a30325f77abb",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-14T03:11:18Z",
+            "headline": "Refund Policy",
+            "reviewBody": "Bought milk at Chester Hill shop.\nCost $3.20 Was charged $4.00. Went to Inquiry Counter. Asked for free milk! Was given 80 cents cash. Complained to Woolworths Website. Was sent $5.00 eGift Card. Can't access bloody card. Staff treat me like Village Idiot! Will NEVER shop at  Woolies ever again, period!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Quentin Robbins",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/95e4685e-b085-449e-91ff-186c56aaaa49"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6a43c6e6-35a6-42bc-9e22-9f3122e368a0",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-10T05:58:08Z",
+            "headline": "Absolutely disgraceful",
+            "reviewBody": "Eye fillet was terrible, not worth $46.50/kilo! Disgraceful\u2026 cut $15 off a dinner for 2 tonight just so we could chew it.. will not be back, disgraceful Woolworths\u2026 improve the quality or lower the price, but stop robbing people",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kyle D.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4aed6a44-dffa-4b9b-abb5-c0e108941fe5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ee2e94b7-aecd-4af2-b1a7-015a500692a8",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-07T23:24:02Z",
+            "headline": "Hard to tell if this is Chicken or Tuna. Woolworths Butter Chicken.",
+            "reviewBody": "What has changed apart from the price? Where have the chunks gone? Just recently (after the price increase of .30 cents per pack) i have noticed the chicken is more like tuna in consistency?\nI have literally been eating these every lunchtime for the past 3 years and its got to the stage where, its no longer a bargain and no longer enjoyable. Very Disappointing!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heidi H.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b772f52c-2f68-4f05-91fc-81f02020b5f7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4bec8950-0426-4d77-886a-c718bcf26b93",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-05T07:23:36Z",
+            "headline": "Second time treated like dirt never again",
+            "reviewBody": "If I could put a minus review I would so here we go again absolutely disgusting behaviour from WOOLWORTHS staff at Tura Beach, this is the second time this WOOLWORTHS staff member has treated me like dirt, the WOOLWORTHS staff member obviously dislikes her customers and hasn't got any customer service skills AT ALL, it is also evident that the previous WOOLWORTHS store manager at Tura Beach did nothing about correcting this person's behaviour previously.  The funny thing is Aldi is opening up in approx 1 month in our area and I can almost guarantee that a very large number of the current WOOLWORTHS Tura Beach customer base will start shopping at the new Merimbula Aldi because I'm quite sure they are also sick of being treated like dirt, as there is a number of Tura Beach WOOLWORTHS staff that treat customers with contempt, for myself and my family we won't be shopping Woolworths again, absolute grubs, my last comment, we are asked to treat staff at shopping centers with respect in regards to the abuse they are getting surrounding COVID well it goes both ways, some of these WOOLWORTHS staff members also need to remember that some customers they are in contact with could be carrying injuries mentally and DONT need the added pressure of someone who doesn't like their job.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Barry",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4f5dec5f-9efa-4d28-b277-8e9674da407b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c6e16f09-5e28-480b-b7ab-99acfb12b804",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-03T04:19:43Z",
+            "headline": "Atleast defrost the fresh fruit before selling it that way",
+            "reviewBody": "Just bought fresh strawberries from woolworths and they're frozen?!?! Atleast defrost it before claiming to be the fresh food people...",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fresh food eater",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/66a4ee81-7c28-4490-ad14-c61731ff8081"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8c31aaa9-b224-41d0-8375-0b33b51ab030",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-25T11:12:51Z",
+            "headline": "Thank you Woolworths !",
+            "reviewBody": "Thank you Woolworths for not discriminating and being understanding  about vaccines ! Thankyou as many people have a right to what goes in their body and thank you for recognising we all need to eat ! I will shop with Woolworths because of the above .",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4732d3f5-7870-3bf3-bc52-54a4e5c049fa"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/22b237fb-30c0-4285-91fb-9df275faef1f",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-24T03:50:02Z",
+            "headline": "rude staff member",
+            "reviewBody": "I have been shopping at Woolies for over 20 years but won't be going back. Staff member was really rude to me today. When I told the store manager he said it was this person's last day today. Rude staff member was obviously going to be rude to customers  all day because they were leaving. Not good enough.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Susanne",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/469668ad-060b-32b2-95b0-730760a0a26c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e06f1c24-e779-4dd6-b8bc-93e7050bae48",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-23T11:47:53Z",
+            "headline": "New chicken schnitzel.",
+            "reviewBody": "The new prepacked chicken schnitzels taste like a vile cheap chicken nugget. Slimey minced chicken with black spots through it that makes you feel sick looking at it. I purchased the previous version nearly every week. The recent product is horrible.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gbanger",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d50d7296-b2e5-3ac4-bb44-d600d5d8f889"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c64d6bab-7306-49dd-a869-aac9520ac285",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-20T21:20:12Z",
+            "headline": "Hopeless online orders",
+            "reviewBody": "Ordered air fryer online as was not able to get to store on day of special. I could only arrange a click and collect for 2 days later. I had reason to attend the shopping centre on the day before arranged pickup day so tried to pickup fryer while I was there. Could not do it and was advised to purchase another one even though I had paid for ordered one and get a credit on original purchase, figured might as well pickup next day. Next day get mths email, no stock all sold, what a total waste of time and effort, they don\u2019t even put ordered and paid for items aside so missed out altogether. I used a Woolworths gift card to pay for the fryer and they tried to give me a STORE credit to be used within a short time and had to be with an order of $30 or more. This I totally refused to accept and after contacting Woolworths got a digital gift card for future use. This was my first and will be my last attempt to purchase from Woolworths online and warn others don\u2019t waste your time trying to purchase anything not groceries as they don\u2019t even put those items aside for you",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Macca",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d638f25c-3f94-3485-851f-6b86ddd51539"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e7b2c7bb-578b-470c-a036-8725d57f8230",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-18T06:57:36Z",
+            "headline": "Life Buoy Sanitiser - Non greasy",
+            "reviewBody": "Exactly what I need, a non greasy easy to use sanitizer for on the go. Super affordable and would purchase again, the smell doesn\u2019t really appeal to me, but I don\u2019t think any of them have a nice scent. Good job lifebuoy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "FeE_83",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/58445bc4-1444-43a2-a73b-3b1cd7f2255b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/fadc573a-3c9c-434a-aa5c-5e2f27abb4f7",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-18T01:13:40Z",
+            "headline": "Covid infected workers",
+            "reviewBody": "WW states customer safety is their highest priority yet they allow untested workers to work exposing customers. Why have they not implemented rapid tests to their crew before start of shift practically risking thousands. A COVID positive worker worked at Gordon 11 & 12 sep. WW Mgmt put real checks and controls if you really care about customers appalling",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "honest57",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ec60aa62-9958-39dc-8e3d-1816db34f1ba"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/be784108-292d-45db-abc2-adab4ef88ae5",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-16T06:21:45Z",
+            "headline": "Quality issues",
+            "reviewBody": "i bought a 4 pack of cheese and bacon rolls, only to realise when i got home and after i bit into a roll and tasted dirt, the bag had a large tear in it making it unsanitary. It's absolutely disgusting especially with the current pandemic. i had to spit the roll out and throw them all away, wasting  my money and peace of mind and possibly affecting my health.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ec848eaf-9898-4bb4-a3f6-12a8cb299345"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/338a7de2-38fc-48b3-a836-fa606dec12fd",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-09-10T13:22:47Z",
+            "headline": "Staff refusing customer's right for a 50 cent coin- 4 Rude, obnoxious staff including Duty Supervisor",
+            "reviewBody": "4 Rude, unhelpful obnoxious staff including Duty Supervisor- I visited Woolworths Town Hall on Sat evening 21st of August, and after spending over $20 in store, I wanted to exchange 3 coins- that i received in-store for one 50 cent piece; however all 4 staff members- all refused, including male at ground floor counter, female at self-service check-in (ground floor) and female at ground floor counter- near entry door- who upon my complaining rung the supervisor, telling him i wanted to change my coins for a 50 cent piece. The supervisor, over the phone, with the female staff member also refused my request. So that is four staff members, including supervisor refused my request. This is poor unsatisfactory rude customer service, as i received these coins in store, and had a receipt. You permit customers to do cash transactions, but when i wanted to exchange a coin, four staff members all rudely refused, although i showed all 4 staff members my receipt. This is not how you treat regular customers!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Outthere",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/885236ab-1226-3fd3-9adf-ad9deb03eaaf"
+            }
+        }
+    ]
+}

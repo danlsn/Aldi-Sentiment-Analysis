@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Coles Supermarkets",
+    "url": "https://www.coles.com.au/",
+    "brand": {
+        "@type": "Brand",
+        "name": "Coles",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/d0a94cb2-afa8-5059-b125-b133e948c303?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/ba80dc43-67e2-57c1-b5b6-d496801ccd54?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.3,
+        "reviewCount": 1910
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d3a31de0-b2ca-5bc8-a96f-6880a2f69753",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-04T05:01:19Z",
+            "headline": "Rating is only in respect to current product limitations",
+            "reviewBody": "Just as a point of interest, and keeping in mind that I fully support product limitations during demanding times, just be mindful that in Coles stores, any flavoured milks that you may wish to purchase are inclusive of the two pack of 'fresh milk' limits.  So for example, if you decide to treat yourself to a 500ml Breaka and a 400ml Pauls Zymil then you CANNOT purchase any additional 'fresh milk' products.  After a rather lengthy and somewhat tiresome messenger exchange with Coles Customer Service, they confirmed that although their website only refers to \"fresh milk\" having a 2 pack limitation, and that their own website excludes flavoured milk as being considered as \"fresh milk\", that if you'd like to indulge in a little flavoured milk drinkie then you'd need to defer your 'fresh milk' purchase to another time.  That's about the oddest thing I've heard in awhile for sure",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dave F.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/25afe6f4-1dca-422a-91a9-2c9632241eca"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/562328c9-50fa-5061-82ae-25732f00de1b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-26T10:46:32Z",
+            "headline": "Dreadful",
+            "reviewBody": "Coles brand \u201cice cream\u201d said loosely, new label, very bad taste. Called ice confection. Do not buy, spend more money on a much nicer to taste brand. When I first started buying coles ice cream, it was cream then milk and gradually became milk then cream, now first ingredient is water followed by milk products. I know it is cheap but don\u2019t treat your customers with contempt. Hate the new self service so time to shop exclusively at Foodland where Bulla ice cream is always priced at $4.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jb",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/51a5b1af-8afc-3184-9d02-2be406a96864"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7ac4802a-de40-5982-b210-9767044b6034",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-24T03:18:54Z",
+            "headline": "Decline in both Quality and Servive",
+            "reviewBody": "I have recently been very disappointed in products from Coles.  Fruit bought on 2 occasions has been rotten on purchase.  I wanted to buy a roast chicken but they had run out.  Crackers bought were stale.  \n\nThey have a love it or your money back guarantee, but who has the time to keep asking Coles to improve their service and quality - I don\u2019t.  I just dnd up frustrated and without the required item.  \n\nPlease do better Coles.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jono",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5ecf5f8e-c320-37d1-ae4b-e2d28f425e34"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e4e092f5-f9e3-5de3-ac9b-ba8022770151",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-17T22:49:24Z",
+            "headline": "Checkout Operator refused to pack my groceries",
+            "reviewBody": "Not too happy yesterday when Emma refused to pack my groceries into my trolley bags at Coles at Sunshine Plaza Maroochydore. I noticed the customer in front of me had bought about six big plastic bags for her groceries. Are the checkout operators now pressuring customers into buying Coles bags? She said it was because I had trolley bags and she couldn't pack into them. I have never had trouble before and have been using these for about three years and this is the first time someone has refused to pack into them. I showed her how to hook the handle over two of the loops and she still refused to pack them. If this is going to be a 'norm', I will start to shop elsewhere. I am happy to say that I have never used a Coles bag and definitely do not intend to start now even if they were free., https://au.oceaniabiz.com/queensland/coles-maroochydore-37090",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Margo",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8bfb2b64-6474-3a75-86b5-6608a902685a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b1de778d-b891-5d4f-ba82-d2d8fad6fd35",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-13T22:33:17Z",
+            "headline": "I have a very positive experience today",
+            "reviewBody": "Today I wanted to buy just few sweets from Haynes Coles, notices the shelfs were empty. I asked one of the worker , sister Deb and she took time from her buddy work to explain to me the reason and affirmed to me that no need to panic , at the end, she offered if she can help me to find specific item, . This kind of attitude shall be recognised and I want to say Thank you to Coles and your great team, Thank you",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "George King",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/22aa6c42-f391-340e-8ffa-a3f836bae08c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3d82233b-aa04-55da-a690-0a33bfbedcfc",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-13T07:25:05Z",
+            "headline": "Terrible system and poorly trained staff",
+            "reviewBody": "Bought an expensive product, i asked a staff member if it was refundable and she said yes. When i tested the item she then said it was no returnable. Yet less than 30 mins before she said it would be fine. Just a tip: Only buy food from coles",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hugo H",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/484f13ac-2882-5afd-b4e5-5607e0d5ae09"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ef657e4b-eafc-5eab-bafb-4029a9819a1f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-12T12:37:55Z",
+            "headline": "Deli ham . That has gone off",
+            "reviewBody": "Yesterday u purchased  ham from the deli. Only to come home and find  that it was black and grey  . I had to throw the whole thing away. Perhaps the team needs to be more courteous  when packing the goods.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anisa",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/12c9abca-5656-566b-8a7c-c830dfcb45ff"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/61325411-cfc3-4002-87d3-4e925ef074aa",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-07T23:14:19Z",
+            "headline": "Prices Just Keep Going Up!!!!!!!!",
+            "reviewBody": "With every new shop I do their prices just keep going up. Golden Circle cordial was $3 for a 2 Litre bottle. Now $5. How can they justify such a huge increase? And it not just large price rises either. Coles brand Tasty Cheese was $4 for 24 slices. Now $4.40. And they're doing it across the board. Yet if I want to buy a slab of coke I'm gauranteed to save more than half price. Same deal on chips, chocolate, lollies, icecream and all other unhealthy junk food. Don't expect to eat healthily at a reasonable price at Coles. And Woolworths are no better! They just price match the same specials at Coles and offer no better value. The 2 large corporations are taking us all for mugs! Profits before People. Will be shopping elsewhere.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wayne",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5919a759-798b-4c22-bb2b-ce3a7d5c26a2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/680229bc-a2bd-45f6-9060-9a90bedceef7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-02T00:48:50Z",
+            "headline": "PORK KIEV - with Katsu Sauce",
+            "reviewBody": "I purchased these last night - my bad - i read Pork KIEV - got home cooked and thought sause was weird - checked packaging and it did say with Katsu Sauce -   I think this is a bit of false advertising as the Key ingredient in a Kiev is GARLIC BUTTER -  These need to be renamed so there is no confusion -  wont be buying again - They are not a Kiev they are crumbed pork rolls filled with Katsu Sauce",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lois",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ff6ab2ae-2568-4806-b700-2f38ccf1dfa5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/363134da-df38-47b1-82c5-5d806f4c655b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-30T00:45:31Z",
+            "headline": "Abysmal attempt",
+            "reviewBody": "Geriatric lettuce, no invoice with groceries, inefficient packing=extra Coles bags. Feel so sorry for those at coleface. There's more issues.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Disgusted",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2cd0b6cc-8d34-41b7-be83-5a3c396f3999"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e01ad955-fbff-4d82-af21-d95610596e8f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-29T08:06:20Z",
+            "headline": "Lynbrook coles - the self serve checkout guy is a legend",
+            "reviewBody": "Just gotta give credit where it\u2019s due - the dude that helps with self serve in lynbrook is always so positive n thanking people for shopping at coles he deserves credit where it\u2019s due ..\nN should be rewarded just my personal opinion but I reckon he should be training everyone who is a self serve cashier ..\nHe shows positivity, compassion n always has you thinking geez what a happy guy n leaves you with positivity as you leave .. \nmate your a legend brother.. coles you should up his pay he deserves it ..",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rick W.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/414538a3-53b5-442d-a33b-5260cba053db"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/995d842b-f22c-47b8-bcf8-c111ef535cbd",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-28T22:27:42Z",
+            "headline": "What a Disgrace",
+            "reviewBody": "For weeks we have been attempting to buy our usual groceries from Coles Chisholm, absolutely nothing on the shelves. Yet we can go to any other store eg Woolworths & they have plenty of stocked shelves. This has to be the worst Coles store I have ever shopped in. As for the staff they are as good as the store, couldn\u2019t give a dam.\nThis store needs a real boot!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lynne D",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8c2948b0-8d18-3f6e-ac8b-114f0161ab24"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7c00abf8-e05c-4686-87b5-889314dd3471",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-27T02:41:28Z",
+            "headline": "No flyby bonus points through liquorland",
+            "reviewBody": "Bought beer and drink on 2 accasions during the 2000 bonus flyby points promo period from liquorland asquith. Never receievd any bonus flyby point despite put in all the correct details. Disappointed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eric L.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0e377dfb-bcd9-4b83-910f-915871685187"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/96c65976-025b-4905-9151-e1c62e29247d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-25T16:04:29Z",
+            "headline": "Use false adverting",
+            "reviewBody": "Coles deserves zero stars. You can't trust their website, or their digital catalogue, it's set up to mislead customers that items are on special, and if an item is on special at one store, don't expect it to be on special at another store!!! The customer is never right, staff and managers are awful, and argumentative, and will even conspire together and lie to you to save a few dollars, don't waste your time with \"customer care,\" because they don't care.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Milena",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f0e74a34-f71f-3158-9a61-177eec84320c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ae273c11-db96-480e-bee2-f8a432e99818",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-25T08:50:53Z",
+            "headline": "Fresh Fruit and Veg",
+            "reviewBody": "Went to purchase some fresh fruit and Veg \n\nPicked up some Cherry Tomatoes and opened the box to find they were all mouldly had one look at them and had to throw them in the bin \nYuck",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "fred",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f41bb93c-c942-33d8-b905-6967ee36f91b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3f47ab32-323d-4f6b-b76a-f7c325e8a045",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-24T22:35:40Z",
+            "headline": "Worst service",
+            "reviewBody": "After buying the Coles label UltraLife vitamin C tablets I was not happy. I have taken another brand Vit C tablets for many years but when I needed a replacement my regular brand was not available.\nAlthough the UltraLife bottle says 'Try it, Love it or your money back', I've had the biggest run around to try to get my money back. No success so far - not good!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "SueH",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/9faae27b-1889-431c-98a9-4e9b34ca2382"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/71e4f70f-6ec7-4330-b071-eecc89c00952",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-20T10:26:38Z",
+            "headline": "Great products range !",
+            "reviewBody": "Everything I needed can be found at Cole five dock, store is clean and tidy, friendly staff, accessible toilet near by which is great.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David7988",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e17289a1-7ecf-4d7b-b5cd-dfd540e6ecdb"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7ea28661-6b24-4df4-a293-e41348d68dcd",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-17T22:27:00Z",
+            "headline": "This food was inedible",
+            "reviewBody": "After seeing Coles PerForm meals were awarded, I bought a Satay Chicken meal.\nIt was so dry, tasteless, and couldn't be eaten. A total waste of money!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sue W.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2cef8877-fa37-460c-8866-f8d90dfff852"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6d74c76e-d40b-4641-9d9b-204e8558fac2",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-17T04:16:28Z",
+            "headline": "Not good service",
+            "reviewBody": "I have just arrived back home from town having just had to put up with further rudeness at Coles in Mount Gambier from a staff member and I'm sick of it.I have been a long time customer but am considering shopping else where from now on and may never go back ever again.I'm not saying that every person that works for Coles in Mount Gambier is an evil nasty condescending bully but definitely some are and no one seems to care.No compassion for a sick struggling woman.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gambier city r.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1a7cf336-7015-4236-bcb2-8aff4de78bae"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1f1d5178-e404-4ad5-b4d1-355223cc6fd4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-15T13:06:29Z",
+            "headline": "What the???  Buy 2 steaks. Get 1.5 steaks.",
+            "reviewBody": "Recently bought top shelf porterhouse steak from Coles at Silkstone Qld. Looked great in the pack. Opened up to find one steak 30mm thick and a stowaway 10mm BBQ steak. C\u2019mon guys. You charge a motza for this meat and it really is poor form when you present something really top quality and pack it with rubbish.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "david m.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6e73e868-b9f7-4f44-8ad0-bd2dc844480e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/dae25e84-763c-468e-804a-cf2f44fe55e3",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-11T10:55:50Z",
+            "headline": "Dodgy Promo's",
+            "reviewBody": "This is a Joke...bait advertising is used to get us to spend $1600 to  get a mini chopper ,which is what we wanted, not more knives like your last masterchef promo !!!\n\nWe have been waiting for over a month and a half now making all attempts to collect one..phone calls visiting different coles sites etc.\n\nI know I am not alone with this disgust of how this promo has proceeded.\n\nMy wife and I consider that we were good and loyal coles customers but this has to change, I know I am not alone having spoken to many people in your stores.\n\nBottom line don't run these promo's if you cannot produce the goods.....using till stocks run out does not cut it, particularly with your most expensive one ( mini chopper ).\n\nLiterally Fed Up\n\nRon L",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "ron",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e4291bcc-113f-3902-972a-4e0b0ed425ac"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/dbc46017-d709-4524-b85a-4faaaf2fb90a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-09T10:34:48Z",
+            "headline": "POPPIN Popcorn is now Terrible product!! Never buy.",
+            "reviewBody": "POPPIN popcorn has recently downgraded their popcorn packaging product significantly. So salty, different packaging that made half of the corn not popping while the other half get burnt. Avoid Avoid Avoid.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Behnam T.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/335d1473-12da-4c4d-bfdb-afe06c2eea00"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4af7a4f0-5c97-4578-a7c5-469c2d172669",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-06T07:27:28Z",
+            "headline": "Customer service",
+            "reviewBody": "I didn't want to wait in line as 2 checkouts were open and large orders to go through. I used self service which is something I don't do. I wasn't clued to the system and had to ask for assistance on several occasions. The attendant was quite clearly annoyed and rude and when I left with my bags shouted after me. SEE YA. I looked for her name tag, but it was pushed inside her top pocket. This is the 3rd incident I've had at Coles Gawler. Another incident involved a customer who had obviously been caught shop lifting at an earlier date and he was named and shamed in front of other customers. I was embarrassed for him\n I don't think it's a staff members job to name and shame.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heather",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8fac37ae-1fbd-33fc-b9c9-b0a96f65d4e3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1952b77b-f97b-4bfb-9981-46e0b0b61e4f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-03T11:10:07Z",
+            "headline": "Poor Deli Service across multiple NSW stores",
+            "reviewBody": "Hi, Over the last 3 months or so I have been refused by many staff to slice your Primo Chili Coated Salami. Eg Xmas Eve - Attended Mudgee, approx 5 staff in the deli, approx 4.30 pm and I was told they would not slice the meat as the slicer had gone home, so I then drove to Bathurst approx 2 hours away, only to be told the same, that they would not shave or slice this for me as the Slicers were off, I then traveled through to Goulburn a further 5 hours, only to be told the Deli is shut but that they had no one who would slice any meat anyway. Approx 2 weeks before this I attended Batemans Bay Coles at approx 5 pm as well as Muswellbrook, again where staff refused to slice any Salami. Take your signs down as this is false advertising, and given that this is regular practice, this is the most disgusting customer service and I will notify Primo as Coles seems to have exclusive rights to this product. I live rurally where it is no less than 1.5 hours to do any shopping and to continue to get this level of service is appalling. Your staff needs training or you need to take your statements down which are on every Coles wall which states that \"You will slice Fresh Meat\". This is deceptive and misleading advertising, and wondering what the legal position is on this? It seems to be that none of your NSW staff have any interest in good customer service at $32 a KG, just curious if COLES Head office is aware how much money is being lost through nasty Deli Service??",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Debz",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c53d8013-e3da-3b17-94d3-108d55aae627"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/51b017f1-490e-40be-89de-e18d2894d56b",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-31T09:25:17Z",
+            "headline": "Coles ripping me off!",
+            "reviewBody": "Bad coles. Big corporations ripping off consumers. Bought samsung phone from coles. Put coles simcard in it, but it is network locked to telstra. They will charge me $25 to unlock sim network. When I buy a phone outright, that means it is my property, should not be locked to one provider and consumers need to be made aware if they are locked. I signed no contract with telstra and now my phone is not fit for purpose under Australian consumer law. I should be able to put as many different sims in as I wish. Coles in bed with telstra to rip off consumers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Liam B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/dde47d06-40e9-443e-a097-05a247298ccc"
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "id": "115;a",
+      "state": "SUCCESS",
+      "returnValue": {
+        "returnValue": {
+          "DataConfig": "[{\"label\":\"Licence No\",\"fieldName\":\"licencenumber\",\"type\":\"text\",\"uniqueValue\":true,\"sortable\":false,\"showDetails\":true,\"showMain\":true,\"showMobile\":true,\"modalPos\":\"top\"},{\"label\":\"LicenceCode\",\"fieldName\":\"licencecode\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"modalPos\":\"top\"},{\"label\":\"Licence type\",\"fieldName\":\"licencetype\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"showDetails\":true,\"modalPos\":\"bottom\"},{\"label\":\"Organisation type\",\"fieldName\":\"licenseeorg\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"showDetails\":true,\"modalPos\":\"top\"},{\"label\":\"liccount\",\"fieldName\":\"liccount\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"modalPos\":\"top\"},{\"label\":\"lictotal\",\"fieldName\":\"lictotal\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"modalPos\":\"top\"},{\"label\":\"Licensee\",\"fieldName\":\"licensees\",\"subPageTitle\":true,\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"showDetails\":true,\"showMain\":true,\"showMobile\":true,\"modalPos\":\"top\"},{\"label\":\"Trading Names\",\"fieldName\":\"tradingnames\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"showDetails\":true,\"showMain\":true,\"modalPos\":\"bottom\"},{\"label\":\"Date issued\",\"fieldName\":\"dateissued\",\"type\":\"date\",\"uniqueValue\":false,\"sortable\":false,\"showDetails\":true,\"modalPos\":\"bottom\"},{\"label\":\"Date expiry\",\"fieldName\":\"dateexpiry\",\"type\":\"date\",\"uniqueValue\":false,\"sortable\":false,\"showDetails\":true,\"modalPos\":\"bottom\"},{\"label\":\"Address\",\"fieldName\":\"join__Address\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"joins\":[\"address\",\"suburb\",\"state\",\"postcode\"],\"joinType\":\", \",\"showDetails\":true,\"modalPos\":\"bottom\"},{\"label\":\"Address\",\"fieldName\":\"address\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"modalPos\":\"top\"},{\"label\":\"Suburb\",\"fieldName\":\"suburb\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"modalPos\":\"top\"},{\"label\":\"State\",\"fieldName\":\"state\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"modalPos\":\"top\"},{\"label\":\"Postcode\",\"fieldName\":\"postcode\",\"type\":\"text\",\"uniqueValue\":false,\"sortable\":false,\"modalPos\":\"top\"}]",
+          "DataEndpoint": "https://www.data.act.gov.au/resource/mnuq-rzi6.json?$$app_token=PtS69pWP2eErxYode1SB9VJrJ&$limit=15000&$where=licencecode%20like%20%27%25OFF%25%27",
+          "DataModal": true,
+          "Title": "Liquor - Off"
+        },
+        "cacheable": true
+      },
+      "error": []
+    }
+  ],
+  "context": {
+    "mode": "PROD",
+    "app": "siteforce:communityApp",
+    "contextPath": "/s/sfsites",
+    "pathPrefix": "",
+    "fwuid": "tr2UlkrAHzi37ijzEeD2UA",
+    "mlr": 1,
+    "loaded": {
+      "APPLICATION@markup://siteforce:communityApp": "K0V8802f_xC9u_ipYQN2Rg",
+      "COMPONENT@markup://instrumentation:o11yCoreCollector": "8giBLfYbOC17LwOopJh9VQ"
+    },
+    "globalValueProviders": [
+      {
+        "type": "$Global",
+        "values": {
+          "eswConfigDeveloperName": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "isVoiceOver": {
+            "writable": true,
+            "defaultValue": false
+          },
+          "setupAppContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "density": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "srcdoc": {
+            "writable": false,
+            "defaultValue": false
+          },
+          "appContextId": {
+            "writable": true,
+            "defaultValue": ""
+          },
+          "dynamicTypeSize": {
+            "writable": true,
+            "defaultValue": ""
+          }
+        }
+      }
+    ],
+    "enableAccessChecks": true,
+    "apce": 1,
+    "dns": "c",
+    "rns": [
+      "vlocity_ps"
+    ],
+    "ls": 1,
+    "lairn": [
+      "app_flexipage",
+      "auraplat",
+      "einsteinconduit",
+      "jsonxform",
+      "runtime_hcc_performanceassistant",
+      "runtime_industries_aisentimentresult",
+      "runtime_industries_documentreader",
+      "runtime_revenue_billingbatchinvoices",
+      "runtime_revenue_billingbatchpayments",
+      "runtime_sales_billingpayments",
+      "work"
+    ],
+    "laerc": [],
+    "lav": "56",
+    "mna": {
+      "lightning": "interop"
+    },
+    "lff": {
+      "ENABLE_MIXED_SHADOW_MODE": false
+    },
+    "arse": 1,
+    "acaf": 1,
+    "services": [
+      "markup://lightning:configProvider",
+      "markup://force:salesforceScopedModuleResolver",
+      "markup://force:ldsEngineCreator",
+      "markup://instrumentation:locatorService"
+    ]
+  },
+  "perfSummary": {
+    "version": "core",
+    "request": 73,
+    "actions": {
+      "115;a": {
+        "total": 37,
+        "db": 8
+      }
+    },
+    "actionsTotal": 37,
+    "overhead": 0
+  }
+}

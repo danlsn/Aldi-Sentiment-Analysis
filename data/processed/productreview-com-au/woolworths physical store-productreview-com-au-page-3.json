@@ -1,0 +1,569 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Woolworths Physical store",
+    "url": "https://www.woolworths.com.au",
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/6f975963-dceb-3748-92c1-8003cb95b2e9?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.1,
+        "reviewCount": 2194
+    },
+    "address": {
+        "@type": "PostalAddress"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/afcade71-4c68-529f-a5e1-792494525f21",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-23T15:07:35Z",
+            "headline": "Where has the large jars of standard Vegemite gone?",
+            "reviewBody": "I went to Woolies to buy a large jar of Vegemite and this is what I was confronted with!\n I wanted to buy what I've known all my life (60+yrs) as good old Aussie ( 1st made in Melbourne in 1923) VEGEMITE. \nNeedless to say I went home empty handed as there was no standard Vegemite on the shelf.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sandra",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6866ab47-3cfb-5a3b-ac01-1a2f4c64c43d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/499713cc-e1e8-5327-86b8-302f7252b27d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-22T08:40:39Z",
+            "headline": "Direct booth pick up",
+            "reviewBody": "unprofessional staff ( one woman on Sat 22 Oct 2022 around 1100 Rockingham direct booth pick up)",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mimi T.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/7590eea6-080a-414b-809d-d73a9d8b921f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d442609d-f8f5-5db1-9513-4318a614077c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-21T04:16:04Z",
+            "headline": "The new Mustard (so called Dijon )$2.50",
+            "reviewBody": "is a very poor imitation of the previous Dijon Mustard imported product.$2.50 I will not be buiyng it again when will you bring back the original???????",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Guy Florenty",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a8856743-21fe-5814-b76b-1eb3697b00b7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/aefbbca1-9fc0-509a-b95d-ea2ee84eb665",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-20T02:41:32Z",
+            "headline": "WASH YOUR VEGETABLES- DO NOT TRUST WASHED AND READY TO EAT PACKAGES",
+            "reviewBody": "I cannot believe my eyes, my mother wanted to see how clean the \u201cwashed and ready to eat\u201d spinach packages are. I am lost for words, look at how dirty it is.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rebecca K",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/fe7556e3-c78e-4460-977a-f68d08359329"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f87d06f8-11d5-506a-a65a-ad1392e76a60",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-19T09:10:13Z",
+            "headline": "Disgusting",
+            "reviewBody": "Woolworths 12 pack of cinnamon donuts were disgusting and road kill would of tasted better nothing but a rip off",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "jack a.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/270e44b1-1dd6-4aa4-8489-620357401f10"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/0d8a06f7-2e9b-5fbf-bdef-68406eb6104f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-19T03:49:28Z",
+            "headline": "Sneaky advertising",
+            "reviewBody": "Bought frozen barramundi steaks from their Lake Haven store  this morning, two different varieties available tossed about and advertised half price in the middle of the display which seemed to be both reduced but NO, only one of them.\nShoppers beware, read the small print ALWAYS .",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hans",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/243d37b2-e37f-571c-ae8e-2a2e625aea79"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1c38d931-a113-59d9-af81-b3cf21344e5d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-09T10:57:38Z",
+            "headline": "Someone will get sick",
+            "reviewBody": "I went to Woolworths and was looking for salad. The bag of salad was only marked down that day which was also the use by date. It was so bad that it actually had green liquid floating in the bag. There wasn\u2019t any options. As you can imagine I was impressed with the slogan \u2018we\u2019re the fresh food people\u2019 on the same day in the freezer section there was opened items which had fallen into the freezer. \nI told the staff about these problems but they were so understaffed that I doubt they were able to address the problem in a timely manner.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sulkytugboat",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e8414f73-eefb-36d4-9508-0620dc6c8e1b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5672436d-2372-5b90-95b0-f80a18b832bc",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-08T08:25:58Z",
+            "headline": "Worst piece of beef ever.",
+            "reviewBody": "Bought a T/Bone steak at Engadine Woolworths today butcher advised you couldn\u2019t get a better cut of beef. Well I\u2019m long time quality cook of all cuts of beef I like my beef mainly rare to slightly well done very short cook process. The T/Bone he selected was tough as an old boot only edible part was the scotch fillet part the rib part was inedible.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Glenn",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/bb3cff70-0d5e-5129-8c05-b5aa918b1888"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7eb2de98-43e8-5bdc-94d3-ef47ef9ddafe",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-06T19:33:48Z",
+            "headline": "Cooked Chickens",
+            "reviewBody": "I bought one of their Free Range chickens the other day,when i got it home it was the size of a pigeon,maybe enough meat on it to feed one person and it was $11.50,so now it seems they are down sizing their cooked chickens and pork and beef pre cooked,will not be buy this again,im sick of being ripped of buy these crooks inflated prices and poor products,the price of stuff goes up every week just taking us all for a ride",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Barry R.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3ba70b5e-263d-4bca-be71-ecedb0a81b78"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/bb68a7a5-144f-5df4-a3a1-9288dfeaa080",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-05T06:12:29Z",
+            "headline": "Advertised at a good price, but not sold at that price",
+            "reviewBody": "They advertised Barramundi Fillets thawed for $9 per kilo. When I went in there they wanted $18 per kilo. I showed them the advertisement, they said it must be a different store and did not honor their own advertisement. I am done with the overpriced fruit and veg there also. This store has no character at all, dishonest, time to shop at Coles.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Des",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/547daec5-d4fa-3c2d-a5c0-30d43f1f01d2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/258d9365-6fd2-5c6b-8ebf-1c6b0ade7792",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-10-03T03:33:03Z",
+            "headline": "\u2018Fresh\u2019 vegetables keep giving me diarrhea!",
+            "reviewBody": "I\u2019m done with Woolworths\u2019 \u2018fresh produce\u2019 and \u2018fresh packaged produce\u2019. These products from Woolworths, Circle on Cavill, Queensland keep giving my diarrhea!!!\n\u2026.killing hours out of my weeks productivity and making it hard to leave the house!\nThe brand name (not Woolworths brands) frozen produce is what I will go for for now, along with some of Coles fresh produce, which seems to be better.\n\nWoolworths is selling \u2018fresh produce\u2019 that is off and unfit for human consumption. If they were not a huge corporation, they would be shut down by the government, but obviously, the Australian government(s) are only interested in lining their pockets through corporate stocks/equities and are owned by multi-national corporations.\n\nNever mind Covid-19, the Australian government(s) and most certainly big corporations like Woolworths do not care about your health or well being.\nAlso in the news is how bad Australian pesticides are with fresh and packaged produce compared to other developed nations. Scary as eff!\n\nI don\u2019t know what the alternative is. We are slaves to capitalism and small amd medium sized food companies have little chance of survival. \n\nThings are just wrong\u2026 but keep watching channel(s) 7,9, and 10 and you\u2019ll be lulled into a state of fear where everything outside of conforming and accepting the corporate rule and crimes as acceptable and keep on that hamster wheel. Which, even if you have a family and do everything \u2018right\u2019 won\u2019t help you in the slightest.\n\nWoolworths has no ethical standards and under corporate laws, do not have to take any responsibility for the devastation it causes the Australian public.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gavin",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a0c0dbec-5de7-4e6f-8554-6975a785da7c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f8505241-62ce-59bc-ae29-acd0fe8196d7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-29T01:15:19Z",
+            "headline": "Scan & Go App disaster",
+            "reviewBody": "You need to link Rewards Card to use the App but it keeps forgetting it. I have linked Rewards card four times now. I have the Woollies App & the Rewards App BOTH ON THE SAME MOBILE yet the Scan & Go still loses the card and is too stupid to find detail in the Rewards App that still has card details.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JARS",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/aba171b3-6f0c-3185-884c-e830b1849f21"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4041c41a-787d-584b-a707-564771d31b88",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-28T09:50:15Z",
+            "headline": "Raw Scones",
+            "reviewBody": "Bought a 6 pack of scones the other day and was 2 scones through before I realises they were RAW inside. When I cut them open there was still dough which was raw and sticky. Chucked them out immediately. You can't tell much in the image since it's bad quality but all the dough on the inside was still raw. Please get the bakers to bake them better because you can't go selling raw scones with uncooked dough that lool like this!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alex",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ca0b9f76-ccca-5689-b84f-efa7acb7505b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2906fb8f-3106-5cf0-961a-20a2c4e7cde4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-26T01:45:24Z",
+            "headline": "Very acidic strawberries",
+            "reviewBody": "I bought 2 kg of strawberries today as they were cheap to make jam. But they were the worst I\u2019ve ever had ver hard , hollow, dry and acidic. No sweetness at all. Very disappointed",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nadia B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/dff05bc8-df73-456d-989f-771ed4ec56b9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/75c2d0cd-2d05-5964-9c0c-2151c399f652",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-25T23:08:35Z",
+            "headline": "Woolworth Fairfield Heights is a very very extremely bad store,the staff are extremely rude,none of staffs have name tag",
+            "reviewBody": "Woolworth is a terrible company no customers service at all.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tung",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d6d8e630-31b5-5230-bfa2-e07be375d6ac"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/05deca4e-b28b-5c7e-b355-74a0563dd701",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-19T00:47:23Z",
+            "headline": "Forced to buy larger items",
+            "reviewBody": "Not sure if this is a Woolworths wide issue, but the last few weeks I\u2019ve noticed at my local Woolworths store that they are only stocking larger items. For example, a small tin of nesquick i can only get the larger one now. The small jar of peanut butter I buy is not there, it\u2019s been replaced with a $10 large jar. These are not the only items either, there\u2019s a range of other things\u2026.what\u2019s the go? If I wanna buy things in bulk like that I would go to Costco. May need to start shopping at Coles because I literally can\u2019t afford to buy all my foods in bulk\u2026.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Renee h.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/9645d8b1-7bb3-4131-b3a9-2ef13866f280"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/78630ab2-6612-5ff1-b43b-5a8b5b4026cf",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-15T20:55:40Z",
+            "headline": "Vax Required for employment",
+            "reviewBody": "Absolutely disgraceful and discrimination, backlash with lawsuits will be inevitable in the future. \nAmazing how places can enforce a vaccine policy for something that isn't even a vaccine \"yet\". \n\nIf I'm vaxxed, I can still contract covid, pass it on, get sick, and still have to isolate\nIf Im unvaxxed, I can contract it, pass it on, and have to isolate. \n\nTell me what the difference is between vaxxed and unvaxxed?. Because to me. Their is no difference besides personal choice. \n\nDiscrimination at its finest.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kay",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/963074fd-ba63-457b-bdc5-565e127909c9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6d8203b9-cee9-57f3-a4de-fc06fcf85b39",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-15T06:21:06Z",
+            "headline": "Customer Service Out The Window",
+            "reviewBody": "How does one get a job at Balaclava store? There is no greet nor thank you pleasantries at all. Perhaps, some of these staff need to be restocking and retrained. Customer services goes along ways. It's not hard at all.  Rehire and retraining needs to be put forth!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Karol",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/db28ef6e-2fda-595d-aa17-77df86ba848c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/56c0969a-c69b-593e-b3f5-e57899331db3",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-14T02:07:20Z",
+            "headline": "Never have full stock this past year!",
+            "reviewBody": "Want to buy toilet paper for a single person on a pension? Don't go here. I used to be able to get a 4 pack of double length 3 ply for $3.70.  WHY DON'T THEY SELL THIS ANYMORE?  You have to buy an 8 pack for $12. Ridiculous! Customer service?  No one knows anything.  Ryvita?  Don't stock it!  Raw meat for csts in sachets?  Nope. Everything is gone.  Most expensive and not worth visiting. Coles Sebastopol is much better.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Madjaspa",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/eb77aee8-682c-3a37-8f59-4aec2f88f71f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1d967f3c-a60a-5077-bdca-2acf0b114d9c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-13T09:01:29Z",
+            "headline": "Mouldy pita breads is a habit",
+            "reviewBody": "Bought traditional pita breads from woolies this afternoon to make yiros at home for dinner..use by date 16/9/22, today is the 12/9/22...went to make yiros for dinner and all of the pita breads had black mould on them..not happy..this is not the first time...dinner was ruined..",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Desiree",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/39ceec6a-36bb-55b1-89ba-394f5148aaa5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/69990e62-51cc-59db-a557-4b7fa3b5d554",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-12T13:08:45Z",
+            "headline": "New bread slicing machines required",
+            "reviewBody": "Woolworths offers sliced bread but their slicing machines are only capable of one setting at 2cm thick. This information was provided by their own bakery staff.   2cm thick slices are too thick even for toast. There is little point in offering sliced bread if the stores are not able to provide normal thickness for sandwiches and or toast.\nWoolworths are making record profits, one of the industries that have done extremely well during the pandemic, perhaps some of these profits could go to providing new bread slicing machines in their stores.\nSince writing this review and providing feedback to Woolworths, their customer hub has responded (along with a $10.00 store voucher) that the matter will be discussed at the next appropriate meeting. This was an unexpected surprise, but I doubt that anything will change unless they receive more feedback on the same issue.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "costly mistake",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/28bfc242-16d3-3e5b-afa7-a165b90c64d1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/59d43fd4-8689-5079-8ec8-006a336dc927",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-11T06:18:22Z",
+            "headline": "Barcode sticker attached on top of a spoiled spot on a mango",
+            "reviewBody": "When we purchased a mango at a Balwyn outlet of woolworths on the 9/9/2022, the mango appeared to be perfect. However, when we peeled off it\u2019s barcode sticker, it was revealed that there was a large rotten spot underneath. We purchased the mango so we could make some baby food for our infant, but we could not.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Asanka",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/98d6053e-ace4-5a6a-b5ca-7dfe35d9e66e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/687c2900-652e-5800-b831-c4ed2c17ccaa",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-09T00:51:38Z",
+            "headline": "Selling inferior products",
+            "reviewBody": "Morning Fresh dishwashing liquid. The current product being \"Made in Indonesia\" is of highly poor quality. Label states \"superior grease cutting power\". I have always used the product but there is an obvious reason for the half price tag, Woolies are offloading this bad stock on customers. Will not be using it again. Even undiluted it does not wash off oil or grease.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "fifty4",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8b93f2d6-bba1-3fc6-bcc8-675235420f5e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1c23c094-c797-505a-ac3b-3a94680a347b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-05T04:17:21Z",
+            "headline": "Ripped off",
+            "reviewBody": "Well went to my local woolies , for the fourth time this year the sausages have made me crook.( even the dogs were crapping everywhere). Threw half the onions out. The ham was off. Potatoes were soft & crappy, fresh food people my [Word Removed]",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mark",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b1dd1a7e-4cbd-592b-825a-a8c2a8d22e59"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3a7b165d-19a2-5128-a81a-8305b89264ca",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-09-01T07:12:37Z",
+            "headline": "Bread",
+            "reviewBody": "Wondering why I can\u2019t get a loaf of sourdough cut in store after 2.30pm?",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jane",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/fd000553-798d-5cb6-9177-77854d58d124"
+            }
+        }
+    ]
+}

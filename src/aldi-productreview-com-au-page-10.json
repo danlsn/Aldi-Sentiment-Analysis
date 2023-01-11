@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ALDI",
+    "url": "https://www.aldi.com.au",
+    "brand": {
+        "@type": "Brand",
+        "name": "ALDI",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/61aa42fe-da9f-3c3c-9fb4-2eba07f78c10?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/f7f8960a-ac82-5698-a04a-62214672658c?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.5,
+        "reviewCount": 2400
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3853e476-10e0-4c59-a4c2-103bc7b44bd4",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-27T04:26:17Z",
+            "headline": "Christmas dinner ruined",
+            "reviewBody": "Pork roast seemed to have been soaked in something and had no taste at all. It had the texture of a deli meat in it's centre. Was rubbery to eat and despite 50 yrs experience in crackle making I could not make it crackle. Ruined my Christmas dinner.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Julie P.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b10689d1-7fde-4e54-b4c9-959920eaefd9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d5288bce-1373-4dd3-a039-e2d83300746a",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-26T11:31:33Z",
+            "headline": "Curated Collection, luxury puddings and cakes",
+            "reviewBody": "The most delicious bought pudding and Christmas cake I have ever tasted. I've purchased these for friends and they've all agreed with me. Thanks ALDI. Please make sure you sell them again next year",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sue Swinfield",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3dbdee08-1576-4456-a68d-6fef5e2ec4ff"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/93d735fa-f43a-47c5-b322-3e5f40d2a7d6",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-24T05:41:49Z",
+            "headline": "They are not honest  on special",
+            "reviewBody": "3 times was chasing 499$ Smart TV and 3 times it wasn't arrived. Woke up early in morning , stayed in line , waiting when they open, and no one from the staff didn't come out and didn't say, tv is not arrived.They should say it, and they should update website. People take a time, driving there for get specials and its not there.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elina C.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8c761db0-4641-476c-bca5-37d73ac5f307"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8d883735-61d3-4838-8215-882ab9bde25c",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-24T01:51:03Z",
+            "headline": "Availability of products",
+            "reviewBody": "It's very disappointing that Aldies have so few European foods in store these days . You can buy them at Woolworth so why not Aldies . I thought they are a German company.  If it wasn't for some special buys there is no point shopping there anymore",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angela",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/32385fe4-5ac8-4388-979f-83d800d2fddc"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6e5f1c08-8697-449a-98a1-531ff5ef5645",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-21T08:57:23Z",
+            "headline": "Sneaky, deceptive, contempt for customers",
+            "reviewBody": "The rot started with LED light bulbs, which I bought in bulk. By the time it came to using them my receipt was out of date. So much for their 100% money-back guarantee. One after the  other of the bulbs failed, the dimmable were a particular joke - flickering like a strobe,  darkening, brightening and then reducing permanently stuck barely like a night light. Even though packaging clearly stated Aldi, refused to honour guarantee. Next: the porcini mushroom triangles. 3 packs fed four and leftovers.  Suddenly we were fighting over five triangles each. I looked at the packs and they had been drastically shrunken. But same price!!!! Ricotta in a basket, the same!!!! Laundry liquid - first the lid / measuring cup capacity doubled, meaning we were suddenly tricked into using more. Next purchase, the thick concentrated liquid had turned as thin as water!!! Now I tear through a bottle in weeks instead of months. The Lyttos yoghurt - God knows what they did there, but package change coincided with a decline in taste and consistency. Who knows how many more items have been doctored and fudged and tweaked to stooge their customers. So so deceitful, Aldi - you STINK. And it's not cheap anymore - people compare with your local greengrocer and stop supporting these thieves. Absolute disgrace, Aldi!!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gyps",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e0be31c5-1615-35ca-a8a8-ac8dd2f9f641"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1101c7a6-6032-4f9d-a6bb-d58effb1edb9",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-21T04:43:41Z",
+            "headline": "Queues still awful when will this endemic issue at Aldi be fixed",
+            "reviewBody": "Standing in slow line again . A register just got closed but I am in a queue with people behind me. Mentone Branch\n\nUpdate. Some months later . Dropped to one star. Queue and no tills attended. None ! Mordialloc Branch",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Harry B",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/bede501f-7076-3e83-8875-f7f3e01f34df"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7c3eca23-6f92-45e4-83f2-1d570bb730d8",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-21T00:01:20Z",
+            "headline": "The worst experience",
+            "reviewBody": "I ordered Robot Vacuum one month ago, paid delivery fee on it that costs me around $600. According to the Aldi team the delivery partner couldn't find my delivery address, instead of leaving it to the nearest post office he took it with him and since than I am waiting. Almost everyday making a request to the Aldi team to send me a new product and they are are insisting that once we will receive the product back from the delivery partner, we will send you.\n\nThat shows that they value for their product not for the customer.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Salma H.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/46b31d56-653e-4e93-8686-3483c577cd65"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/da3e8a27-77ee-47eb-88b7-00e9300db693",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-20T03:30:03Z",
+            "headline": "ALDI FINDON",
+            "reviewBody": "No customer service as there is no one in store to assist you. \n2 staff only behind checkout counter!!\n1 star only for this store.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ca2a83bf-61f5-33ab-9b47-8d411c5501e5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1e93c61a-429b-42cb-8f9d-4a7c1c774389",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-18T23:49:45Z",
+            "headline": "Poor Staff Attitude",
+            "reviewBody": "Sunbury Aldi at 9.43 am, 19th December. While at the Checkout I came across a bottle of cream with a lid that had removed itself in my shopping bag. The cream was everywhere including my purse, my phone and my sunglasses. The bag is now in the bin and the rest cleaned. The lady on the checkout never once apologised, not interested. I was even obliged to ask for a cloth as she offered nothing to clean the mess everywhere. She only acknowledged the incident long enough to ask if I knew where the lid was. Yes, still in my bag floating around in the cream. I handed it across - still no apology!  Yes, probably  the most dismissive and rude member of staff I have ever encountered. My new bag is now in the bin and this has turned out to be a really expensive bottle of cream.  PS. Why can I never find wipes to clean trolleys??",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "CAROLINE",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ad4cf74d-ed9a-4858-a101-a025c63cfb32"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f8d7fff5-b046-4a31-b4b9-64cf752fec5d",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-13T20:23:34Z",
+            "headline": "Lobster Tails",
+            "reviewBody": "I found them @ Logan Central. Could not believe lack of weight; felt like 2 empty boxes. For $60?! No way!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "L Daniel",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3c0e7de6-cada-43bb-a994-7c347d466858"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/65d910d6-cdd3-4cf6-bc42-1fb661c6454b",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-13T00:00:20Z",
+            "headline": "Lying on special items",
+            "reviewBody": "Today ( Wednesday 8/12/21), Aldi was supposed to bring lyric day and night cream based on what it had written in its catalog, but unfortunately it was not available.  When I talked to one of the staff, he said that many of the special items that were supposed to arrive  today had not arrived.  Customers make time for these items and sit behind Aldi's door very early in the morning, and I consider this a big lie and I will never trust Aldi and I will write this on Facebook aswell.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Farrah F.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d4e76d7b-b2cd-4a06-b685-09bc34c826a1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f0abee69-6f12-461e-9928-832735fa2b26",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-12T11:02:21Z",
+            "headline": "Now I know why the Germans have no sense of humour !",
+            "reviewBody": "Yeah Ok - 'some' inferior items are cheaper - BUT - very limited items - Chinese made Junk Specials at twice the price - and the most annoying checkout you could ever imagine !!! Gone back to Woollies !!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ciao Telstra !",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/92d1cf0e-7515-3547-9de7-6eebb6486159"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e6383dd6-4a51-495a-a579-b86ccce546a7",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-12T08:47:20Z",
+            "headline": "Poor service",
+            "reviewBody": "Sunday afternoon around 1pm, attended aldi\u2019s to buy groceries got nearly all i needed the one article i must buy was milk, but no 2lt full cream milk not one bottle, when asked a staff member was there any out back, nope none til next delivery but theres a 3lt there. Ah no only 2 ppl 2lts last 3 days. Poor for a big supermarket not to have milk in supply.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maggie",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a0889593-eb9d-3a84-8cd6-221d4ab4c631"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/816250ea-6759-4eed-a69d-44f51b664386",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-11T09:17:25Z",
+            "headline": "Please refrigerate your chicken products",
+            "reviewBody": "This is the 3rd time I have returned chicken thighs or fillets to Aldi Camberwell for being off.\n\n  I purchased the thigh fillets today and opened the packet to prepare a meal . The  use by date on the packet was the 14th Dec however the chicken was spoiled and the stench was unbearable. I returned the pack to Aldi this afternoon and even the cashier at the counter called for someone to remove the package due to the foul smell.\n\nTo add insult to injury Aldi reimbursed me for the item but didn't offer a free replacement . Need to keep up with your competition Aldi , woolworth's not only refunds the product but also offers a free replacement.\nI will never buying chicken from Aldi again, my family will end up with food poisoning .\n\nTerribly disappointing !",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angela",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/75235884-9a37-4a76-b51d-b7dfd5d3234e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3aea40e9-99b6-48e9-bf77-b675c1a7da07",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-11T09:13:21Z",
+            "headline": "Prawn wrapped in prosciutto disgusting and off",
+            "reviewBody": "I love seafood and thought I\u2019d buy Aldi frozen prawns wrapped in prosciutto. I was exited to try these. I opened the cardboard box and inside were some decent sized prawns in prosciutto as promised. They were just rolling around in the cardboard box. It wasn\u2019t a wax box or protected and the prawns weren\u2019t in plastic . Very lazy packing . The smell when I opened the box wasn\u2019t very pleasant or fresh smelling at all.\n\nI started to cook these as instructed and noticed the white freezer burn on the tails. Again the smell while cooking was not appealing at all . \n\nFinally cooked and not really as excited anymore I finally tried one. It was absolutely disgusting and definately not right. It tasted off . I threw the rest out . Yuck!!!\n\nI absolutely love Aldi and actually went there to look for lobster tails but it\u2019s a big hell no after those putrid prawns . Who does your quality control, why would a company throw seafood in a cardboard box that\u2019s not sealing in plastic first. Has anyone at Aldi ever opened one of these? Can\u2019t say as a chef that I\u2019ve ever seen anything like that before . \n\nYour prawns are disgusting and not fresh when frozen or they thawed out at some stage and were refrozen very dangerous combination regardless . \n\nWhat a waste of $19 .",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bruno",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ed717bb7-f154-3919-8355-8ecc3d11bbd4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8358abe0-e2a3-4c51-9c65-2d4f977f5c55",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-08T03:51:05Z",
+            "headline": "Tape measure",
+            "reviewBody": "Bought a tape measure off you. \nThe retractable system was too fast when contract , it flicked back and sliced a big chunk out of my finger. All the edges and end are too sharp. I couldn\u2019t stop the bleeding for over 4 hours , because it was deep. Very dangerous product.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle K.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/88a4e44e-f14f-4ef5-9e6f-edb4032f9baa"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a8d23e0f-72e8-470f-8d93-8962b8559e99",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-07T03:40:07Z",
+            "headline": "Pita bread seems to be contaminated with flake",
+            "reviewBody": "Bought pita bread that is suitable for vegans. Seems to be contaminated with flake and taste like fish. now i am vegan abd this is terribly upsetting. not only did it make me want to throw up, i couldnt even finish my meal. I wasted all my time and engery and money to make it, then has to throw it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "lis",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c0ef6ff5-6bb6-44ec-9345-80fd4c1ef823"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/01cebdbe-853e-4f1f-9413-433b18bf65e7",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-06T09:12:34Z",
+            "headline": "Lobster tails",
+            "reviewBody": "Lobster Tails $30...read packaging less than 10% Australian and lobster is from Brazil...completely flavourless probably that's why garlic butter is included..please dont wasye your money!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mark B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/508b6b84-3d0a-4bfc-bdeb-24d43912e4a2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e37d1d8c-b185-4840-b44f-a0f29fed0638",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-02T06:56:40Z",
+            "headline": "Parts Missing, No Support....",
+            "reviewBody": "Beware Gardenline 20m Retractable Garden Hose, Wall Plugs may not be supplied. Suppler elitetec group don't reply to emails or message service.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dave",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d2cb3091-504c-3949-9fcf-d7846e2a469e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5ba4466f-b527-4a3d-860c-20b963eb36de",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-01T04:04:29Z",
+            "headline": "Availability of product",
+            "reviewBody": "A week ago the Aldi catalogue advertised 250gm Salmon Gravlax for $7.99 and Smoked Ocean Trout 300mg for $9.99 to be available from a certain day. I walked 2 kilometers to buy these products only to be told they had not arrived and to try the next day or the following days. I again visited the Morley branch and Inglewood branch only to be told that as a result of Covid 19 deliveries to stores could not be guaranteed. When other super markets sell out of product or it is unavailable one is able to obtain a rein check and be advised when the product becomes available. Not Aldi. It has happened before when a product is advertised and only small quantities are available thus tricking the customer to visit the store in the hope they buy other goods. Customers not interested in excuses about pandemics or anything else. If the product is not sitting in the local warehouse it should not be advertised for sale. Management have attitude and are untrained in customer service.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "george bouzidis",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/08766546-986b-3493-b4cb-0990e42ddb00"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b2900fa2-08f1-4e93-a048-b2a141ce426a",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-01T02:15:48Z",
+            "headline": "Not too fresh",
+            "reviewBody": "Biscuits taste as if they\u2019ve been packaged too long even though well within date. Fruit and veg not as good as it used to be and meat very poor quality.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gail",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/fbf117ee-6c80-3deb-b30f-ea2dd0b32696"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8ec714e6-b390-41d3-b68d-5e78bd56a822",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-30T19:18:03Z",
+            "headline": "Quality not there",
+            "reviewBody": "Slowly changing products to give customers less bargains.Will no longer buy any of their fruit.Quality just not there.Starting to look like a not quite right store.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Paul c",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b1294cb5-f71c-3c9e-98ab-ea44139a69d8"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ea839896-8389-4ca9-8907-5db189c1cbeb",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-30T03:24:07Z",
+            "headline": "Food seems NQR (not quite right)",
+            "reviewBody": "Used to be good quality food..sadly not anymore. Somethings not quite right with it..Is it possible to sell knock off food? Noticed the label is not of food grade quality standards either. This is not right. Food needs to be approved by legal standards company and they have struct guidelines. They claim it is organic and natural but does not taste organic or natural. Irganicolives and beans dont taste the same, bread taste and texture is like a sponge, bought mixed olives and capsicum in oil, seems to be contaminated with percutio meat. dont have pics of all products as had to throw away. I am vegan and this is very upsetting. This is food people are ingesting. This is very serious, if the standards are not followed, people health could be effected. And they used to be cheao but now are charging so much for vegtables and fruit.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "beth",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/af4893f0-3544-4403-9f6d-90b4e381aa39"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/84df7a61-c67d-45b3-bf45-02485dc873f8",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-29T07:26:08Z",
+            "headline": "ALDI's Poor Customer Service",
+            "reviewBody": "Tried to purchase a 60\u201d 4K Ultra HD TV from ALDI.  Local Store Manager said the catalogue item did not come in: \u201cit may arrive in a week, or it could be a month, so check available stock details online.\u201d  The Manager\u2019s parting comment was: \u201cIf we didn\u2019t receive stock, neither will any nearby stores.\u201d\nLooked at ALDI\u2019s website, as suggested \u2014 \u201cSpecial Buys Product Delays\u201d and \u201cCheck Available Stock\u201d.  Of the twenty nearby stores: ten indicated - We are sold out; nine indicated - ! No stock information available; and one indicated - Stock available. \nRang ALDI\u2019s only listed contact number (13 25 34) to confirm the stock situation. The phone prompts indicated it was not possible to speak to a real person, let alone a specific ALDI store. So, I travelled over thirty kilometres to the store listed as having stock, only to find it had just two 4K TVs, both of which were faulty returns and as such were not available for sale.\nCome on ALDI, at least try to be fair dinkum. We understand hustling customers through checkouts and providing no store contact details is part of the model that keeps costs down.  Nonetheless, ALDI could at least make an effort to ensure that the one and only point of contact system ALDI wants customers to use is at least capable of differentiating between Stock available (total stock inventory) and Stock Fit/Ready for Sale.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kevin C",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/708a7f37-1d01-3f0b-85ec-89251fa9f40c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/47a1a703-9310-4e28-bdbb-65d5914de520",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-29T07:22:38Z",
+            "headline": "Aldi chicken snitzels",
+            "reviewBody": "My husband purchased chicken snitzels from Aldi and I am shocked at the quality.  They appears to be  masticated chicken pieces that no one wants and mostly crumbs.  Definitely will not be purchasing them again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenna",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/7871efb0-4949-35e2-88df-256165046881"
+            }
+        }
+    ]
+}

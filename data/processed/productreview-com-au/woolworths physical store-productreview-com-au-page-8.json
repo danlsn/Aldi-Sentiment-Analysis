@@ -1,0 +1,569 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Woolworths Physical store",
+    "url": "https://www.woolworths.com.au",
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/6f975963-dceb-3748-92c1-8003cb95b2e9?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.1,
+        "reviewCount": 2194
+    },
+    "address": {
+        "@type": "PostalAddress"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/91946041-c2e8-51a6-97c8-2df72e3b4436",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-15T09:39:42Z",
+            "headline": "Creeping up prices before a war starts",
+            "reviewBody": "Prices on  products I've noticed In the last 3 weeks have jumped bye 20% or more because of an announcement that they may go up due to diesel prices and a war that had not started at the time of these rises, so when the media says now they will go up woolworths will continue to put up prices, I'm off to aldi from now on.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shadzo",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4d7aeea8-dd56-38a9-9fe1-9fe8fb6ab6cb"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2e346377-85c0-5be2-bca6-aefa3bf548be",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-15T05:51:26Z",
+            "headline": "Woolworths need to pick up their game",
+            "reviewBody": "Under staffed while food prices are higher, shelves empty every day which just leaves the higher priced items to choose from, if you are able to choose",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AJ R.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/58b26b55-e0fb-4654-8826-fa70c7b7845d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/47b4a27c-5002-580b-968a-b5a47098c7e5",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-12T06:09:15Z",
+            "headline": "Greedy company",
+            "reviewBody": "Cant believe these supermarket chains, with everything we've gone through, covid for 2 years, now floods, supermarkets are the only consistent companies to stay open and afloat, to the extent they were running out of stock, so I ask, how is it possible after not losing a cent in revenue that they have put their prices up, some to the extent of 40%, anyone would think with the profit they've made they would bring their prices down, greedy greedy pigs, no wonder they have so many reports of shoplifting, people are finding it hard to support supermarkets extreme lifestyle, shame on all of you retailers!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Donna stumberger",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a30c086f-12a5-4904-80ac-92f6e1350b75"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/40e58d37-d841-590c-a095-f9b9d293068a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-10T23:06:15Z",
+            "headline": "Gift card Fraud!! They sell gift card without loading money!! Be careful while purchasing gift cards!!",
+            "reviewBody": "Got gift cards from a couple of friends during a party. Upon checking on $150 Woolworths gift card, it was showing invalid. Called their customer care and they notified that it was not loaded and it might been an error from the store and off course they will collect the amount before selling it!! They asked to provide the receipt from the person who gifted, if I wanted to get the money loaded! Off course, it is a gift card and I wont be asking for the receipt and they know it very well.\n\nAs a courtesy they offered me $50 and loosing me $100. So if they cheat 100 customers like this a month, that is like $10,000 (100ppl x $100 = $10,000), which is $1,20,000/year earnings by cheating customers as they are sure most of them wont go back to person who gifted the card.\n\nStay away from woolworths gift cards!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Deepak V.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ee335574-d71b-41f8-9bd9-79b927482cf3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3baa4c6e-3184-519d-ad51-e04e5ed85e7c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-10T09:16:38Z",
+            "headline": "Prawns were rubbish",
+            "reviewBody": "Appear to have been defrosted, frozen and defrosted again. Tasteless, texture of soggy bread, all for $20 a kg. Wasted my money here.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nobby",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/54a7a1c6-e8d0-40bb-9cb2-460d9223a550"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c2637099-2338-5889-815c-d67d8a811655",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-09T23:13:09Z",
+            "headline": "TikTok Made me do it and FroPro Pizza's are AMAZING!!!!",
+            "reviewBody": "Always steered clear of the frozen pizza section as everything tastes like cardboard but saw the new FROPRO Pizza's on TikTok about 100 times but couldnt find them on their website so I thought it was a joke...\n\nBoooommm unill they turned up in my local woolies.... \nAlmost 60g of protein and low carb they were phenomenal, honestly better than some of the take away pizzas ive bought and a healthier option.\n\nIm throwing away all the youfoods I have left and eating these for dinner... seriously...\n\nAt $12 these are worth every cent.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mikeyman",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/63d670b5-c535-56c9-8eff-a5106c053e20"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/942f58af-5619-514d-be6b-e322daee8bad",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-09T09:14:16Z",
+            "headline": "Bananas In Edible.",
+            "reviewBody": "Bought bananas 1 week ago. They r hard as a rock and still greenish. Obviously been frozen. So why is that.?",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Terry",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e088c858-24b5-51bb-8a92-5dcfd83f147a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1b5877b3-1784-5c27-943f-eeaf52d11241",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-09T03:00:19Z",
+            "headline": "Too hot to shop",
+            "reviewBody": "If you want an honest opinion. I think they have a lot more products than coles but I won\u2019t go there because the store isn\u2019t airconditioned properly. Some aisles are cool & the rest are hot & with mask wearing it makes it extremely difficult. Been like this for a long time.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maureen Hartland",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d8a084cd-9ca9-5b02-bb99-fa2da6940186"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/16ab55f2-7016-5f7e-8367-a55529433ab1",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-09T01:46:23Z",
+            "headline": "Fresh Produce??? What a Joke.",
+            "reviewBody": "A few weeks ago I wanted to purchase asparagas from Woolworths at Strathpine. Unfortunately it was wrinkled and limp. I mentioned this to the person on duty. The following week I tried again with the same result. This time I managed to speak to the manager about the problem and offered a costless solution. Although he said he would fix the problem the same thing occurred on Saturday. Obviously Woolworths is not worried about the food wastage or about customer satisfaction.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "AKB",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/aa71b79e-4626-3139-85ec-8991b5feac3e"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e14e963c-22f6-5f17-9fa0-bb8d75aa3a56",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-08T08:37:10Z",
+            "headline": "Woolies Customer Disservice.",
+            "reviewBody": "Woolies incompetence and stupidity is exceeded only by their arrogance and dishonesty.\nA few days ago, I went to the only Woolies store in Cairns that listed Purina Supercoat Chicken & Duck dry dog food as actually being in stock, as it is the only kibble that our little dog actually likes, but there was no stock.\nI went to another Woolies store which also had none but I bought a different variety which I later recalled he would not previously eat so I returned to the Woolies Customer Disservice Counter where a wet- behind-the-ears girl pointed to a sign taped on top of the counter which she claimed stated that they do not do exchanges or refunds for change of mind purchases, but after a brief \u201cchat\u201d, she begrudgingly refunded my money.\nI then went to Coles who actually had the item I wanted despite failing to list it on their website.\nYesterday, I took a photo of the sign on the Woolies Customer Disservice Counter and it does not mention refusing exchanges for change of mind purchases, as their website also does not.\n\"Exchanges\nWe will happily provide an exchange where you have changed your mind about a product purchased from Woolworths provided that the product: is returned to us with a receipt within 30 days of purchase;\nis in its original condition, including with packaging; and has not been used and, if a perishable product, is not expired or within 2 days of expiry.\"\nPerhaps Woolies select their customer service staff for being illiterate as well as dumb.\nWoolies employees have an attitude problem which permeates throughout their supermarkets, Big W, and the now thankfully long-gone Masters.\nNo problems getting refunds or exchanges at Coles which is one more reason that we spend most of our grocery shopping money with them and most of the remainder at our local Supa IGA store, and we only buy items at Woollies that we cannot get elsewhere.\nThankfully, I did not bother driving all way to the CBD for some Birdseye chips that Woolies claimed were in stock there and I managed to find them at our local Supa IGA.\nAs recently as yesterday, Woolies website was still showing the dog food as being in stock despite it being unavailable, and their pathetic website also claims that stock availability is updated every 2 hours.\nWhat a disgusting bunch of muppets.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fred123",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0807a36d-064c-397f-96d3-ab66ad7ee183"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a02468f4-eb60-51fe-97f3-4429ece272af",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-04T11:01:36Z",
+            "headline": "Can't believe I have to pay for bad service",
+            "reviewBody": "The Sydney stores on Woolworths are getting rediculously poor for service, with as many staff on duty the work does not seem to be done right. Tidiness and mismanaged.  Prices ever increasing and they are not earning it. I can't even get a refund for returning item but they will exchange it for something else. What fkn manager got that rule through? Some retired DH politician? Well I'm gonna shop Aldi a lot more and see how you like it when the savings are discovered by many. Up yours Woolies",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "themonkey",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/89d1048b-6003-3976-beec-c5528e57c7ce"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/9e78bb6c-6465-52f3-a23e-db3b24ee26da",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-04T07:56:49Z",
+            "headline": "freshness",
+            "reviewBody": "the deli in more than one store have tired, dry looking stock. bought reduced cost prawns at one store only to find they were rotten",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "stewart",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b98aa50a-0d09-458b-b7c2-4349de9a7bab"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/0375484a-7a83-5ddd-a742-76c32c8c711a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-01T17:39:20Z",
+            "headline": "Militant money grabbers with little regard for consumer rights.",
+            "reviewBody": "It appears Woolworths are the most diligent when capitalizing on the Coronavirus outbreak. Albeit they boast lower prices, compared to their competitors, they are nothing but a rip-off outfit. Their fresh fruit and vegetables are generally poor quality while overpriced. Overall, the best by far is Aldi, whose prices have remained pretty constant throughout the pandemic. Woolworths, not only satisfied with exploiting hard-pressed consumers, have become extremely militant when it comes to returns. \n\nA few months ago, I returned 4 Hass avocados to Woolworths Whitfords City WA as they were clearly diseased. The person who assisted me was polite but when it came to the refund and exchange, she curtly advised either or - not both. I asked to speak to the manager to which she replied she IS the manager. She added that she had NEVER heard of that policy. I accepted an exchange as by this time there was a queue. See the excerpt from the Woolworths returns policy:  \n\nWoolworths Fresh or Free Guarantee\n\"The Woolworths Returns Policy applies in conjunction with our Fresh or Free Guarantee. Under our Fresh or Free Guarantee, we\u2019ll refund AND replace any fresh food you're not happy with which is sold online or in-store.\" See website: https://www.woolworths.com.au/shop/discover/about-us/returns-policy\n\nOn the 26/02/22 I returned a 175g packet of SMITHS Thinly Cut Salt & Vinegar Potato Chips. This product was outright disgusting  - way too much salt & vinegar and overcooked. Initially, I was refused a refund but after the assistant consulted with his manager, was given the refund as a \"once off favour\" as \"Woolworths are changing their refunds policy\" in their words. And no \"change of mind\" would be entertained in future. Well, Mr. RIP-OFF Woolworths, this was NOT a change-of-mind return. And the ACCC clearly states that all returns are conducted from the point of sale. Furthermore, it appears that Woolworths Group Pty Ltd have forgotten the ACCC / Big W fiasco whereby Big W were fobbing off consumers who had issues with their Dyson appliances. Big W were not accepting returns, telling customers to deal direct with Dyson. The ACCC /Big W outcome is well documented and can be viewed on the ACCC website titled \"Big W will address customer complaints about faulty Dyson appliances.\" dated 15th October 2019. The contemptuous and arrogant Woolworths Group Ltd clearly need to be reminded that the ACCC will take action against any BODY acting ultra vires - nor are they exempt from accountability. Given my adverse experiences, Woolworths are nothing but militant money grabbers with little regard for consumer rights.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John13",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a42a68e0-e6a9-3cff-af5c-acf875420f4d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/006bc2d2-893b-5975-a572-f415b0a4d908",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-26T04:18:40Z",
+            "headline": "Dying plants",
+            "reviewBody": "Hi I work in currambine so shop at your store almost everyday for something. I can't fault your displays,food availability, hygiene standards are great.And the staff are always very helpful and pleasant to deal with.My only complaint is dying plants at front of store.I love plants and to see a perfectly healthy plant die because of lack of water is terrible. I have been told it's not your job,so who's is it.All it shows is that you don't care.So sad as everything else is so good,this is front of store and letting your shop down.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tracy",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1d3b2736-08ea-5cfc-a2b8-b939f4595fc2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/20ac59df-379e-5b55-89aa-caddf107d8ed",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-15T18:50:11Z",
+            "headline": "Woolworths lies about before and after prices, this is fraud!",
+            "reviewBody": "I have messaged Woolworths many times before about this deception, with zero replies. This gives an indication of the contempt Woolworths holds for it's customers. \nThe \"before and after\" price labels are a direct lie. The before prices are never correct and always inflated. They can go hang, Aldi is better value and I have seen no obvious fraud, unlike Woolworths.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MickD",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2647ab7b-b32b-3802-965d-45c4d3da3ad4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/936c5105-c5ca-5675-b871-cfe3ca2f0383",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-11T01:47:20Z",
+            "headline": "Complaints",
+            "reviewBody": "I was promised a voucher for a recalled product weeks ago, but still haven't received it. I've rung and spoke to someone who then put me onto an automatic message. Service is absolutely disgusting",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ruth",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c674e068-e6a3-562b-be5a-33dcb20d3621"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ee787da0-4370-412b-bac7-c1349a05a114",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-07T13:13:06Z",
+            "headline": "Huge Price increase",
+            "reviewBody": "Woolworths has just outrageously increased the price of Coca Cola by 30%.What is going on! How on earth can this cannot be justified",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "sophie",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/61818dfd-840a-4cc0-b8d4-9a20bec59894"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/600c108d-21fa-5b48-9b93-770b2df364cc",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-07T09:17:33Z",
+            "headline": "Shop Is normally wonderfull! But,",
+            "reviewBody": "We bought deboned salmon for dinner, its was delicious! But on the other hand my mother ate a bone.. she felt odd in her throat and she nearly chocked! And yet it said it was de-boned.. i must admit the lady at the counter did say that to be carful just in case if there were any bones. I still love Woolworths but I\u2019m going to bye my salmon some where else!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Isabella",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/029417d8-ca6a-5aa2-9063-b7ba1022de79"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e17bc6f4-c2a0-478c-8122-37ea45621e2c",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-03T05:23:52Z",
+            "headline": "Love your brand",
+            "reviewBody": "Woolworths Parmersan  Cheese.  i would just  like to say we are liking it very much,  great taste, texture and flavour..States made with Australian with milk and   97 % Australian ingredients I would love to know we're it is made ? And who made it . Thank you",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Helen",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/70b8174f-988f-4528-8e31-a454cc409f74"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e21f9e04-0536-456d-916f-963a109a9bf1",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-31T06:31:27Z",
+            "headline": "Getting overpriced\u2026inferior products.",
+            "reviewBody": "I have been shopping at Woolworths for over 30 years I am finding a lot of products are no longer on the shelf\u2026seems to be going the Woolworths brand\u2026your fruit and vegetables are second rate\u2026I feel we are getting the left overs from other stores in more popular places..as I travel alot and I can certainly say from today\u2019s shop I should have thrown the broad bend out\u2026prices increasing over the top it cannot be all about COVID as I noticed it before then\u2026fair go.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "LESLEY PRYCE",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2463c7f5-33a3-3e3b-95ef-1e75d0349435"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/0834609a-602b-4cd1-81eb-7a1d02baa3d9",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-30T03:14:54Z",
+            "headline": "Ham and blow flies",
+            "reviewBody": "Yesterday we bought a serving of shaved ham from Woolworths Port Lincoln and today when we opened the pack for lunch there was a fat living blow fly in the ham slices",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "237239",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8a2d3428-3ea5-3103-8193-b83104c230e6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/61adbbe7-5078-484d-af59-0160980eac2a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-28T23:34:28Z",
+            "headline": "Lip guard melted",
+            "reviewBody": "I have purchased dozens of nivea lipguard from woolworth carousel shopping centre and never got any defects on them. But recently i bought 2 of them one last saturday and i had to bought another today as the previous one was defect. When i opened after reaching home it was defective too. I am amazed how it happened. Really annoyed. Next time i am gonna open in front of employees at shopping centre.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "parash s.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5ccf148e-c729-4e96-ad81-155866641d04"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ea8e5037-b3b9-422d-993e-907b26593193",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-27T10:30:14Z",
+            "headline": "what have you done with your pre packaged pumpkin pieces",
+            "reviewBody": "I purchased a pre packaged pumpkin pieces, as I have before no problem. I think you have pumped the pumpkin with liquid. I had the pumpkin in the oven for at least 45 minutes, fan forced I might add. The pumpkin was slushy did not hardly brown. absolutely disgusting. \"What have you done\" I will never buy again.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sharon",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3178630a-565a-4f75-b5c6-67f1db8d86a2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/69c07690-778f-4b15-8238-e04080e62835",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-25T23:41:44Z",
+            "headline": "How does this company make so much money?",
+            "reviewBody": "I really cant understand how a supermarket chain of this size cannot get the basics right yet continue to make astronomical profits.\nThe signage is totaly messed up making it extra hard to find things, the main signs tucked in the aisle so you have to walk up and down the whole store to read them.\nTripping up over giant trolleys of stock left blocking aisle in the middle of the day.\nConstantly running out of budget brands so you have to buy the so called \"premium\" brand at 3X price.\nBad positioning of foods that should go in the same space, but instead are at either ends of the shop.\nDirty rickety trolleys and baskets with vegetable leftovers stuck inside them make great places to put food in guys, thanks.\nA 2 per person limit on tiny box of painkillers despite THOUSANDS of boxes on the shelf, genius move there.\nAnd if you do eventually make it to the self serve checkout only half of them take cash, its nice squishing around people as they stand confused as to which machine they can use.\nThen the bags, you're expected to BUY a bag for $1 made outa some tent material cause they ran out of regular bags? My local shop even had a GIANT steel box like bunnings filled with crap cardboard boxes blocking half the checkout area. WHY DONT YOU HAVE BAGS??? REALLY?!?! horrible in store experience.\nBut dont try to avoid it, buying online is MUCH MUCH worse, more than 24hrs to deliver 2 blocks away and it turned up in a taxi at 6pm after a whole bunch of confusion. This place is ridiculous and sad in so many ways, I dont have enough words to describe it. Go to the REAL local even if it costs more, its worth it, this place is about maximizing cash flow not serving customers. bye",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "chrome.griffin77",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/204fe156-b44c-4099-80b5-a37079bf581b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a0638f35-6bf1-4fe8-877f-f70386106b11",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-23T03:05:59Z",
+            "headline": "Worst product",
+            "reviewBody": "Triple Sifting action - I bought this product in one off the stores. I did not like the product and went to return. The check out supervisor at Woolworths Middle Camberwell was telling me of policies that did not exist. It\u2019s like even if it is faulty product if they cannot find your receipt or if you loose your receipt you don\u2019t get a refund. \nVery rude staff and misinformation given out. I am highly disappointed and angry with this treatment",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ashwini",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/16470553-d1a7-4113-bc68-51872d0ea389"
+            }
+        }
+    ]
+}

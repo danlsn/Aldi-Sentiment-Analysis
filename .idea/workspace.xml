@@ -1,25 +1,540 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="160c20e5-7c7e-49ef-8bc9-02b6c4d91cc7" name="Changes" comment="" />
+    <list default="true" id="160c20e5-7c7e-49ef-8bc9-02b6c4d91cc7" name="Changes" comment="Feat: add scraped data sources">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/LocationsData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Store and DC List.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/act-liquor-stores-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/act-liquor-stores-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/act-liquor-stores-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/act-liquor-stores-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/act-liquor-stores-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/act-liquor-stores.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aldi-au-glassdoor-reviews-page-9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_aldi_qld.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503002.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503003.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503004.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503005.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503006.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503007.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503008.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503009.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503011.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503012.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503017.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503018.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503020.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503024.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503027.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503028.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503030.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503032.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503033.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503034.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503038.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503042.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503043.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503044.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503046.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503051.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503052.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503053.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503057.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503060.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503063.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503068.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503071.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503074.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503075.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503078.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503084.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503085.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503092.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503094.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503095.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503098.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503101.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503105.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503106.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503107.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503108.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503109.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503111.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_503112.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506003.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506004.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506005.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506008.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506009.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506010.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506011.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506012.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506014.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506017.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506018.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506019.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506020.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506021.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506023.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506027.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506028.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506031.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506035.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506036.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506037.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506039.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506040.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506041.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506047.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506048.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506050.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506055.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506056.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506058.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506059.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506061.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506062.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506064.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506066.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506067.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506069.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506070.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506076.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506077.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506079.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506080.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506082.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506083.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506086.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506087.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506088.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506089.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506091.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506093.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506096.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506097.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506103.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/liquorland_near_store_506104.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/Store and DC List.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/aldi-productreview-com-au-page-9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/all-reviews-productreviews-com-au.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/coles supermarkets-productreview-com-au-page-9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/processed/productreview-com-au/woolworths physical store-productreview-com-au-page-9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/seek-job-data/seek-job-listings-page-9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/rs=ACT90oGSWKakVX_lFxxmAzvVOBni82a4Yw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(1001).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(1006).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(1043).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(109).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(1094).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(1116).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(150).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(155).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(197).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(20).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(219).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(25).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(260).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(324).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(329).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(366).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(370).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(439).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(476).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(480).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(581).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(586).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(608).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(645).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(67).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(691).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(696).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(71).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(718).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(750).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(755).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(860).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(865).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(924).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(929).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(970).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI City - Google Maps_files/unnamed(975).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(11).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(133).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(138).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(16).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(175).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(302).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(307).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(344).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(390).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(395).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(417).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(454).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI Moonee Ponds - Google Maps_files/unnamed(67).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/rate_review_gm_blue_18dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(1074).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(1079).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(1138).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(122).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(127).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(169).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(173).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(232).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(279).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(283).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(338).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(384).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(389).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(401).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(448).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(452).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(494).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(499).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(51).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(511).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(558).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(56).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(562).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(617).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(621).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(663).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(668).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(727).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(731).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(773).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(778).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(832).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(837).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(883).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(888).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(900).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(942).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(947).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(98).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/ALDI St Kilda - Google Maps_files/unnamed(989).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/aldi-productreview-com-au-page-10_files/749b6a5e-fa4c-46e3-9467-5e8918beecb6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/aldi-productreview-com-au-page-10_files/components-ListingCategoryLink_d586dea2.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/aldi-productreview-com-au-page-10_files/e3464607-a775-4b43-ab11-978bf2ec11bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/aldi-productreview-com-au-page-10_files/ncg.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/aldi-stores-map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/coles-supermarkets-productreview-com-au-page-10_files/1db0251b-34c8-33c4-890d-3c8fa4ff3eaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/coles-supermarkets-productreview-com-au-page-10_files/f8223957-60db-314e-af5c-6b1f6ebe1c6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/productreview-com-au/woolworths-physical-store-productreview-com-au-page-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/woolworths-physical-store-productreview-com-au-page-10_files/43659fbc-b57d-4f07-ae4f-91358cdcff20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/woolworths-physical-store-productreview-com-au-page-10_files/async_usersync" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/woolworths-physical-store-productreview-com-au-page-10_files/placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/woolworths-physical-store-productreview-com-au-page-10_files/shared_components_ActionButton_ChangeVisibility_index_tsx-shared_components_ActionButton_Edit-b80efd_3d22ee5b.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/woolworths-physical-store-productreview-com-au-page-10_files/shared_components_AttachmentThumbnail_VideoAttachmentThumbnail_tsx-shared_components_Review_R-3e0587_ebc3cff1.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/staging/woolworths-physical-store-productreview-com-au-page-10_files/vendors-node_modules_react-bootstrap_cjs_Collapse_js_30a79fd4.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-web-scrape-playwright-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productreview-com-au-page-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/act-liquor-stores-parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aldi-productreview-com-au-page-9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coles supermarkets-productreview-com-au-page-9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/glassdoor-post-requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/glassdoor-reviews-first-page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liquorland-json-to-csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liquorland-stores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parse-productreview-html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/response.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scrape-act-liquor-licenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seek-graph-api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seek-search-scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/woolworths physical store-productreview-com-au-page-9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aldi-Sentiment-Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aldi-Sentiment-Analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/aldi-productreview-com-au-page-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/aldi-productreview-com-au-page-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/aldi-productreview-com-au-page-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/aldi-productreview-com-au-page-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/aldi-trustpilot-reviews-v2.yxdb" beforeDir="false" afterPath="$PROJECT_DIR$/data/aldi-trustpilot-reviews-v2.yxdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/aldi-trustpilot.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/aldi-trustpilot.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coles-trustpilot-reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/coles-trustpilot-reviews.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/trustpilot/aldi-reviews-page-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/trustpilot/aldi-reviews-page-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets/aldi-tweet-replies-101-200.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets/aldi-tweet-replies-101-200.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets/aldi-tweet-replies-201-300.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets/aldi-tweet-replies-201-300.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets/aldi-tweets-timeline-1-100.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets/aldi-tweets-timeline-1-100.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets/aldi-tweets-timeline-101-200.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets/aldi-tweets-timeline-101-200.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets/aldi-tweets-timeline-201-300.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets/aldi-tweets-timeline-201-300.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/productreview-com-au-parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/productreview-com-au-parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trust-pilot-parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/trust-pilot-parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-scrape-playwright-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-scrape-playwright-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/ALDI-EDA-Workflow.yxmd" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/ALDI-EDA-Workflow.yxmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/Trustpilot-Reviews.yxmd" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/Trustpilot-Reviews.yxmd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2K4ME6nyqD6pZgk1H3IlRRwgYaF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/DanielLawson/IdeaProjects/Aldi-Sentiment-Analysis/data",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "HTML"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DanielLawson\IdeaProjects\Aldi-Sentiment-Analysis\data" />
+      <recent name="C:\Users\DanielLawson\IdeaProjects\Aldi-Sentiment-Analysis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DanielLawson\IdeaProjects\Aldi-Sentiment-Analysis\data" />
+      <recent name="C:\Users\DanielLawson\IdeaProjects\Aldi-Sentiment-Analysis\seek-job-data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.liquorland-json-to-csv">
+    <configuration name="act-liquor-stores-parsing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aldi-Sentiment-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/act-liquor-stores-parsing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liquorland-json-to-csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aldi-Sentiment-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/liquorland-json-to-csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liquorland-stores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aldi-Sentiment-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/liquorland-stores.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrape-act-liquor-licenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aldi-Sentiment-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/scrape-act-liquor-licenses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seek-search-scraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aldi-Sentiment-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/seek-search-scraping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.liquorland-json-to-csv" />
+        <item itemvalue="Python.liquorland-stores" />
+        <item itemvalue="Python.act-liquor-stores-parsing" />
+        <item itemvalue="Python.scrape-act-liquor-licenses" />
+        <item itemvalue="Python.seek-search-scraping" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +543,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673229287730</updated>
+      <workItem from="1673229291245" duration="7243000" />
+      <workItem from="1673255437149" duration="47000" />
+      <workItem from="1673307626231" duration="795000" />
+      <workItem from="1673325764850" duration="4352000" />
+      <workItem from="1673340922348" duration="27587000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -41,5 +564,102 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Feat: add scraped data sources" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: add scraped data sources" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/trust-pilot-parser.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/productreview-com-au-parser.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/parse-productreview-html.py</url>
+          <line>214</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/parse-productreview-html.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/glassdoor-post-requests.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/glassdoor-post-requests.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/seek-graph-api.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/scrape-act-liquor-licenses.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/act-liquor-stores-parsing.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/liquorland-stores.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/liquorland-stores.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/liquorland-json-to-csv.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="uls.1" />
+        <watch expression="uls.0.contents" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$web_scrape_playwright_test.coverage" NAME="web-scrape-playwright-test Coverage Results" MODIFIED="1673344280072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$scrape_act_liquor_licenses.coverage" NAME="scrape-act-liquor-licenses Coverage Results" MODIFIED="1673410924793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$seek_search_scraping.coverage" NAME="seek-search-scraping Coverage Results" MODIFIED="1673407682884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$act_liquor_stores_parsing.coverage" NAME="act-liquor-stores-parsing Coverage Results" MODIFIED="1673411249544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$seek_graph_api.coverage" NAME="seek-graph-api Coverage Results" MODIFIED="1673407508564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$liquorland_stores.coverage" NAME="liquorland-stores Coverage Results" MODIFIED="1673414016748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$liquorland_json_to_csv.coverage" NAME="liquorland-json-to-csv Coverage Results" MODIFIED="1673414535959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$glassdoor_post_requests.coverage" NAME="glassdoor-post-requests Coverage Results" MODIFIED="1673406033407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Aldi_Sentiment_Analysis$trust_pilot_parser.coverage" NAME="trust-pilot-parser Coverage Results" MODIFIED="1673237205171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$productreview_com_au_parser.coverage" NAME="productreview-com-au-parser Coverage Results" MODIFIED="1673341337010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/aldi_trustpilot_reviews_json$parse_productreview_html.coverage" NAME="parse-productreview-html Coverage Results" MODIFIED="1673399955628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

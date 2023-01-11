@@ -1,0 +1,569 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Woolworths Physical store",
+    "url": "https://www.woolworths.com.au",
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/6f975963-dceb-3748-92c1-8003cb95b2e9?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.1,
+        "reviewCount": 2194
+    },
+    "address": {
+        "@type": "PostalAddress"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/449fe992-444d-51a1-863c-4f6ed342bc61",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-29T01:52:24Z",
+            "headline": "My Local",
+            "reviewBody": "Enjoy my local store but after paying top dollar for lamb keg and not being on Facebook, here I am.\nLamb so tough it ended up on sandwiches and like recent fillet steak we bought, it seemed 'doctored' with the odd bit more tender. Loin chops packaged, have a good one alternate and think all the top stuff is exported. I should have returned lamb.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anne",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/15209dc5-f171-3c2e-949c-d4a1b278a531"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4c074edf-de1d-5d85-bc1b-35277260a1a7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-28T06:36:01Z",
+            "headline": "Counterfeit toothpaste again",
+            "reviewBody": "In the past i have bought Colgate toothpaste from Woolworths that was made in South Africa, i couldn't use it for more then a couple of days because it started hurting to much. The Chinese make fake toothpaste products in south Africa, the recipe involves urine, concrete and mint (saw it on abc doco). I remembered the pain was the same when using macleans toothpaste bought from Woolworths so i checked the label and its from south Africa. I believe Woolworths knows fair well they are buying dangerous counterfeit products and should be investigated.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ben",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/99f7a2be-4d69-5c30-8913-b41c87f4d196"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/44397763-1e01-5c58-8f7d-81925b1715cd",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-23T04:44:18Z",
+            "headline": "Specials always sold out No rain checks unlike Coles",
+            "reviewBody": "Numerous times advertise specials, when you go into the store they conveniently run out. They do not give rain checks, unlike Coles which are happy to provide rain checks if they run out.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Liz Gates",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3b82ac75-9e53-3d0c-bccd-117765e0e044"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/aabe5119-85d3-539b-a067-e7c12044b150",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-22T11:33:24Z",
+            "headline": "Blacktown Woolworths- Worst Woolworths in all of Sydney!",
+            "reviewBody": "I have not visited Blacktown Woolworths for over 2 years because they make you feel like a criminal when you exit their store. Today, Monday 22 August at 18:58, i showed the female staff member at the self-service counter my items from another store before entering. Then when i exited, she insisted on checking all the compartments of my backpack. I found this excessive and rude, as i already showed her my previously purchased items when entering the store. Although i haven't visited Blacktown Woolworths for a few years, I don't think i will come back. I previously submitted complaints about them, but the behaviour continues- they make you feel like a criminal. I do not know why she had to check all my backpack compartments, when i had already showed her my previously purchased items. Plus, i have visited other Woolworths in Sydney, and they do not make you feel like a criminal and treat people a bit better. Only Blacktown Woolworths insist on checking all your compartments- this is wrong as I already showed her my purchased items upon entering.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "- -.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/dc1ef283-5af8-4cfe-88da-396f79009361"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/289b641f-10a4-5f3f-9f78-9456254f73f4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-18T09:13:00Z",
+            "headline": "Woolworths meat",
+            "reviewBody": "Woolworths meat disgusting - packed to hide fat, and so tough even new steak knives couldn't cut it. So disappointed - you need to be rich to afford meat now and then not to be able to eat it is so wasteful! Even the packaging was impossible and not recyclable. Not happy!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kerryn H.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3b64cbe0-9b7e-4d20-a029-e0ea9f98499d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5bbb27a0-4abd-5452-bcad-3a7bec75276d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-17T23:10:15Z",
+            "headline": "Here to pick your pocket",
+            "reviewBody": "To whom it may concern,\n\nIt's now the 15th of August 2022, maybe a couple of years ago I was in the Ipswich Riverlink store in Queensland to purchase the Woolworths branded 2L tomato sauce only to find the product price had increased from $4.00 to a ghastly $5.50, that's  a 37.8% increase in price.  When refining manufacturing methods production prices drop, this particular price increase on this item I believe was just a corporate/shareholder money grab on a low priced item.  \n\nAfter writing my review that was posted on Google.com.au, the relevant staff member virtually immediately returned the price  of the item to the more reasonable figure.  \n\nWhat we are seeing each an every time we enter these corporate giant stores is the same behavior; as an example, within a  3 month period the Woolworths branded(the Woolworths Essentials and slightly more visually appealing Woolworths brands appear to be dissolving to be replaced for one by the newer even more colorful Bell Farms which they charge a heck of a lot more money for) Australian Steakhouse Chips were $2.00/kg three to four months ago, the price then increased to $2.40/kg a 20% increase in price then only a matter of possibly a month ago the price increased again to $3.00/kg again yet another 25% increase.\n\nAnother example of the corporate/shareholder dividend driven greed of this monopolizing, what I believe to be price fixing practices(even if it is in a local proximity basis, as for years in different suburbs in South East Queensland when the major grocery suppliers are within a relatively short walking distance of one another; I have been in the other major grocery suppliers outlet to see Woolworths staff with writing pad and pen writing down products and prices and I\u2019ve seen the other major grocery suppliers staff members walking through Woolworths stores doing the same thing.  I think they are sensible enough not to be in collusion with each other, but why fight a price war when they can both win by not trying to compete but by equally gouging.  This is why aside from promotional items there is no price difference between Woolworths and its greatest competitor) we are subjected to paying is Gravox Traditional Gravy 120g; I was lost for words other an expletives when on the 5th August 2022 the price of this item had jumped from the regular Woolworths rip-off price of $3.80/unit to $5.00, again a 31.57% price increase.  Yet, I checked with a major online supplier this morning to compare prices confirming yet again Woolworths is doing their best to bend me over the checkout.\n\nI can't tell you how many times I've heard it from team members that they are not responsible for price increases.   A great many of the team members working within the stores are shareholders within Woolworths, so don't believe it when you are told that they are not responsible for price increases.  \n\nOn another occasion, I purchased one single item from the service counter at the Ipswich Riverlink Store where the attendant asked me for the exact figure for the item being $1.55.  I gave the dishonest, insolent, lazy individual a $2.00 coin to pay for the product and was asked if I required a receipt, to which I replied no thank-you; I was handed $0.25c change.  Before I had left the store I looked at the change I had been given and went back to the counter in pursuit of the $0.20c I had been deliberately short changed; fore when I returned to the store for another of the same product, being a single packet of Ranch branded regular roll your own cigarette filters the price had been upped to the price point of $1.75, in an attempt to mask the fact that I had been deliberately short changed.  I now purchase this product from a tobacconist within the center who is cheaper than the original Woolworths price; when a tiny franchise tobacconist betters the price of the corporate giant Woolworths - it just goes to show how much price gouging we experience when we subjected to purchasing through these outlets.\n\nI have had many positive interactions with other customer service team members that greatly outweigh the negative experience detailed above.  But I'm sorry to say that negative experience has left me expecting to literally have my pockets picked when I regrettably frequent these stores.\n\nMore and more I am finding the somewhat impersonal shopping experience and unsurpassed customer service I receive from a faceless global online giant that has only been operating within our country for 26 years, saves me a great deal more money in the pricing of the products they sell and they deliver for free, unlike Woolworths.\n\nI have read a great many of the reviews regarding Woolworths, the behavior I have experienced along with what I have read here only drive my resolve to abandon this major.  I've heard it said at times Australian shoppers get a raw deal when it comes to receiving good customer service, well product pricing is a part of customer service and these incremental dividend driven price increases reinforce that fact.\n\nWith money as tight as it is for each of us, RAISE YOUR VOICE fellow Australians in protest against this greed we are subjected to and watch the prices return to where they once were as I did.  Incidentally the Woolworths branded 2L Tomato sauce has in the last month now risen on queue to $4.70/unit.  \n\n This is why do my best not to shop at Woolies.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "D S.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5df13487-a298-4d3c-830e-e40b286a8a69"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/84919e4f-2550-50bc-8fae-5789d3dffc98",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-17T14:33:38Z",
+            "headline": "Worst Ready Meal I have ever had",
+            "reviewBody": "I eat alot of ready meals and quality is important to me. I purchased the product primarily because it had a 4 star health rating. It was terrible, the potatoes were not cooked, the meat was full of grit and uneatable and I only had 4 teeny bits of green beans.  Avoid this product. I had 3 mouthfuls and binned it. I don't have my receipt but it was purchased at Woolworths Willows Townsville on August 16th.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wendy",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/81473c86-7044-328e-ae32-e197b0cff4a0"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/dc3f7603-b028-5f79-ab5b-b6bb34d1bee6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-17T03:39:49Z",
+            "headline": "Food Poisoning",
+            "reviewBody": "My boyfriend and I got food poisoning last night with Ingham's Turkey Wing Pieces 1.3kg - 1.9kg from Woolworths Westfield Parramatta. I must say it was not pleasant. We like to do our shopping there, but we have always thought that the meat section there was dirty, it is not a very clean shop. Woolworths has been associated with food safety issues in the past and Turkey is commonly reported on Iwaspoisoned. Please be careful when purchasing this product. I believe that this Westfield should be under investigation by the health department.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cecile",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f338ecad-60db-33fb-9ca1-d63aca585ad1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f5a5f3a5-b33e-53b5-a20e-0f4ef93dbd0e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-17T00:03:00Z",
+            "headline": "Teddie bear biscuits MIA",
+            "reviewBody": "Please bring back the double pack teddy bear  biscuits we miss them",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "bonaddio",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/17fe092c-0543-3afc-8b8f-704bd405e664"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/495c2837-c0f8-5214-bd3b-4c20b732fcda",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-15T03:41:46Z",
+            "headline": "friendly service",
+            "reviewBody": "friendly service at the desk and isles i give thanks for it just wished when going to the auto checkouts slow people use the isles instead.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Batman",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d332913f-e2ed-496a-a553-a5e338760a36"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1966ed47-0eec-58eb-99b4-0a1aad497ad7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-10T11:56:42Z",
+            "headline": "Customer service",
+            "reviewBody": "So I am normally a Coles shopper but my partner prefers Woolworths meat selection. I have shopped at the Para Hills store on 3  occasions in the past 2 weeks (I have spent over $700 with these shops) and I must say I have been completely unsatisfied with some of the staff on 2 of the  occasions. First shop , I was told to get out of the way of the freezer, by a night fill staff member,  as I was in the way of him filling the freezer with new stock. I wanted to complain,  as he was very rude as he told me to get out of the way,  but I thought about my time in retail and thought he was just trying to do his job. \nThe other occasion I wish to complain about is the check out operator I had, she was rude, had no eye contact and didn't speak a word to me, until she snapped at me if I wished to use my credit of my shop. I requested if there was any fixem's left. I got yelled at NO.\nThe only good thing I discovered in my in my 3 shops, was a lovely male  checkout operator, with very big dark hair (afro) I am so sorry I didn't get his name, but he was wonderful, and he is the only reason I gave the review a 3 otherwise it would be a 1, which is terrible.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Clare",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/98e03642-94d4-5ae2-b8c3-a576b38f44f4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/42d30e86-d1fa-53c4-8422-fa726c219349",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-06T12:21:30Z",
+            "headline": "Woolworths gaurantee, I doubt it.",
+            "reviewBody": "What the hell? Exploiting people! 2 weeks ago I was able to get essentials margarine for a $1.60. Now it is $3.50. $1.90 extra. You can blame Ukraine/ Russia war, you can blame  everything on the floods in the East of Australia.,who ever the hell you like. But at the end of the day , you are just plain greedy corporate. How about looking at the real picture and see how many peoples lives are affected. We are heading into recession and you need to lift your game up and stop the lying on what is the problem. It is not the war . It is not the floods in the East. Australia is self sufficient in reality and we need to use our own resources. Get it together or we all lose.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lesley  MCCRACKEN",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f2ad31b2-710b-3909-9283-8522fd076ad7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/30bd5fdb-5130-50d7-abd7-06e75abc2d09",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-02T23:47:07Z",
+            "headline": "Deep Cove Pink Salmon - GREAT!",
+            "reviewBody": "It has less sodium than any other canned salmon - good for the heart.  The soft, edible bones are a wonderful source of calcium.  I just wish it was available in more Woolworths stores.  Love it!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Feathers",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/97b93c5e-0bfb-5cf6-842c-42c6c24618ca"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/aa45c36c-a988-5e43-843f-c11213904184",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-02T06:47:27Z",
+            "headline": "Devon",
+            "reviewBody": "Went to woolworths Rosehill  to get Devon for the kids asked if he would cut some more as the one in the window looked  it  dryed out got a good answer NO it was cut at 1pm and has to sell frist it was 4-20 \u2639\ufe0f\u200d\u200d\u200d\u200d\u200d",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Patie",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/00f3f33a-8cd8-53dd-a203-84dce8b1b720"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/da4bf21a-b3b9-5aa1-9c19-2f892e979406",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-08-01T06:08:44Z",
+            "headline": "Steaks should never have been sold",
+            "reviewBody": "I bought a twin pack of pepper steaks, and they were more gristle than meat. What meat there was was too tough to chew. I know they were not the most expensive, but in these times many people are looking to budget. Selling rubbish like these was wrong.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Steve M",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c4bafe88-5a5d-330e-a4c0-529f0b33ba77"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/94fb73a0-2edd-515e-81c6-00c941d70f5e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-31T04:51:48Z",
+            "headline": "Too many items discontinued.",
+            "reviewBody": "I generally love shopping at Woolworths but recently found myself having to go to other large chains more and more due to Woolies no longer stocking items. I know they can\u2019t cater for everyone but deleting mainstream items is becoming more prevalent. I really don\u2019t wish to shop elsewhere but it would be far more convenient to somewhere where I can get everything.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tammy Kym",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a4891f7f-0058-32c2-8b68-1c957935d4ea"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/54fba0fb-7d22-5733-b6e9-a8cb3405184f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-26T13:06:40Z",
+            "headline": "Wonderful service and product coverage",
+            "reviewBody": "Loved Woolworths Turkish Pride Bread made into garlic bread Amazing & Herb & Garlic Beef Sausages 10 Star Well done",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annette Roach",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4da29d32-8295-577b-9183-adcf589d269c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d410ce2a-b014-55ec-93c1-fe7362ed77e1",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-25T11:29:53Z",
+            "headline": "Renovated and no express lane",
+            "reviewBody": "Raymond Terrace Central Store has just had a total makeover. I needed 2 items which I could not get from the Market Place Woolworths not even 5 minutes away by foot.\nFound my 2 items I needed and proceeded to the checkouts\nPlenty of self serve checkouts and long queues at the operator checkouts. Looked around and could not see an express checkout. \nI then asked the assistant at the self serve checkouts where is the express checkout? No longer express,  either go here or go and queue up.\nI requested to speak to the Manager and voiced my opinion to him that I only wanted 2 items, I don't use self serve checkouts and I should not have to queue up with loaded trolleys for 2 items.  He claims it is so they can manage queues more efficiently now as they are all visible in one line , not split up with a counter in the middle and checkouts either side. He thanked me for the feedback.\nAlso the assistant at the self service was of little assistance to me. She said move your bag from the left side to this side and scan your item and walked off to chat with another employee. That was it.\nWoolworths, please do not do away with express checkouts when you makeover your other stores.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michael M",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e778c9ad-f129-43ea-939b-57447d84a633"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/96902e83-256f-55f9-b72b-3dcf7dd7d5bc",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-24T01:06:29Z",
+            "headline": "Why is the low carbs bread limited to one of two loaves per store???????",
+            "reviewBody": "Why is the low carbs bread limited to one of two loaves per store??????? I am a diabetic customer and every time my wife goes shopping most of the time there is no low calorie bread on the shelves because there is only one or two loaves supplied per day!!!!!!!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "JOE BIANCO",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f6fc529d-8ffb-5a92-9579-d8ba17e959ea"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8c74cfe1-a639-5e45-9e4c-5f99deaab47a",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-21T22:18:09Z",
+            "headline": "Meat and seafood trading hours reduced",
+            "reviewBody": "We and many others shop before 9.30am only to read a sign on the meat and seafood counter informing customers trading hours have changed to 9.30am opening.\nWell Woolworths so have mine, I\u2019ll be going to IGA and encouraging many more.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wary consumer",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/934e6b0e-5c14-4f71-bf1d-9a883d93b588"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2d0aa132-93eb-500b-b431-eb0f75e0f9ec",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-18T07:54:56Z",
+            "headline": "terrible service",
+            "reviewBody": "My partner and I shopped at woolworths noranda West aust last Friday 15th July. On paying at the checkout we found we where charged twice for the s ame goods because of a  problem with the terminal. The checkout operator told us we would have to contact our bank and sort it out was quite abrupt.This was a woolworths error and should have sorted it out.but didn't want to know. That's the last time we shop at woolworhs they don't know the meaning of service.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jim4949",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/fc55202b-afb6-37ae-829c-e2f28d9ca69c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/23a50e0b-ed57-55c5-bbf7-19cb5099f7b2",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-18T02:36:19Z",
+            "headline": "Disgraceful packaging",
+            "reviewBody": "This packaging is terrible. Muffins aren't a staple, if you can't package it responsibly then perhaps don't sell them until you can. Really disappointing but not so surprising",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tammy",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/41ce0ff4-710c-513d-8ac7-ba8d7d00cd7a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/011ae7de-f742-59ec-8959-61027f49d34e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-17T04:36:31Z",
+            "headline": "Fresh food people?",
+            "reviewBody": "I originally immediately upon buying these apples, I did put it up on product review, but made a mistake in putting it on Woolworths MOBILE. Not to be published but directly to them.\nThey (W/W mobile) replied saying that they passed my complaint onto the Woolworths supermarket. No response. So list this now on public forum.\nReceipt photo of date and apples. See photos of three uneatable apples. The other apples have rotten spots on them.  I would like a refund. Do remember Woolworths representative, reading this (it's a  post a week later) after I brought them. So in I effect, I've immediately posted same day complaint on line after purchase.  But unfortunately, my complaint post was sent to Woolworths mobile. Here's Receipt and apple photos complaint on the SAME day I purchased these apples. The rotten sticky mess held in plastic cover and when opening packet, rotten apple sticky liquid all over myself and the floor.\nPlease refund me. Much appreciated.  It's been over a week since Woolworths mobile said they have already forwarded my complaint letter and photos to you.  Nothing heard from Woolworths supermarket yet.  So re post herewith.  Thanks for your time hope to hear from you soon.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marama",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f425a6aa-33aa-48ac-9970-cdf0446bf76f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/67e4914b-f4e8-5269-82e9-52dbd5f171c4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-14T11:56:01Z",
+            "headline": "Excellent customer service at the Scoresby store",
+            "reviewBody": "Received excellent customer service at the Woolworths Scoresby store. A Sales Assistant by the name of James went, who worked at 9.30pm Thursday 14th July at this store, went out of his way to help me find some products in a patient and kind manner.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lam",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f6e4bb6d-8acd-5d56-b946-b6c319dd76e7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/87599423-f02c-5c43-b4a4-0d45412960d9",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-07-14T02:59:45Z",
+            "headline": "Staff member was very rude",
+            "reviewBody": "I shopped at Blakes crossing today and the staff member was rude and abrupt \nI shop at this store a lot and never had a bad experience until now\nI will not be going through the staff members check out in the future",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michelle white",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e4462806-ad6d-5687-9f65-ceaaa0e98ac9"
+            }
+        }
+    ]
+}

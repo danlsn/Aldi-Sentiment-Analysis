@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Coles Supermarkets",
+    "url": "https://www.coles.com.au/",
+    "brand": {
+        "@type": "Brand",
+        "name": "Coles",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/d0a94cb2-afa8-5059-b125-b133e948c303?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/ba80dc43-67e2-57c1-b5b6-d496801ccd54?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.3,
+        "reviewCount": 1909
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/346c883a-ba7c-51f7-b287-d1f6e46f24ca",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-10T08:55:01Z",
+            "headline": "Do I really have to click on a star???",
+            "reviewBody": "A few weeks ago, I noticed that noodle packs had a sign on them announcing that they would not be going up in price for the foreseeable future. Next time I went into the supermarket to buy noodles, price had jumped more than ten percent. Hmmm! Also noticed that some of the 'specials' were the same price as listed normally. Hmmmm! Go to the other lot and you get the same sort of incompetence/gouging.  Neither of them restock shelves overnight, leaving aisles congested in the morning, and setting up artificial 'shortages'. If you have an Aldi or Lidl close by, just thank your lucky stars, and spare a thought for us poor morons who have to endure this TeedleDumb/TweedleDumber duopoly.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "disappointed ",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d11b0ce3-8f12-4e23-8e81-9902dc8a4518"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/0b5a7bab-26fc-5587-a9e5-9bb17699832b",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-10T03:40:59Z",
+            "headline": "Customer Service Better than Wooworse",
+            "reviewBody": "The customer service at the served counters is not half bad compared to Wooworse (very unfriendly friends over there), but Coles seems to be at least half positive when I stop by. 3 stars \u2b50\u2b50\u2b50",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fuding Astrakhan",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/658628c3-a6f3-4458-8f87-6a73b49cd5ee"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3243d611-378c-59a7-93fe-65e041f64b14",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-09T02:43:19Z",
+            "headline": "Once again coles are selling food unfit for human consumption!",
+            "reviewBody": "Asking $5 each for over ripe soft mango. The Manager of this store needs to be replaced. For a growing area that supplies the best mangoes in the country.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Not Satisfied",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d5797899-1609-4695-a508-8d4c7a902785"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c309b9cd-562d-5e8e-abdf-34913fa86d30",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-08T23:52:31Z",
+            "headline": "Self serve checkouts a haven for thieves",
+            "reviewBody": "I was in the mall seated on a bench seat facing Coles at Craigmore shopping centre South Australia. I was watching people use the self serve checkouts. A new immigrant was nearest me. He would scan one item then pass every second one straight into his bag. I approached the staff member as he finished loading his bag and told her. Her reply was \"oh well he paid for most of them\"!!!! He paid for half of his shopping not most. And I will bet that us honest customers pick up the cost of stolen goods. I HATE those self serves I will never use them if I can avoid it.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Les",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3dfff6da-aed9-3d70-8a19-84931aced4f9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f97b7123-f742-5e8c-ad6d-1129332fb1f4",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-03T09:02:42Z",
+            "headline": "Was refused service at the express service counter because I had 12 items",
+            "reviewBody": "Was refused service at express counter because I had 12 items in basket . I explained to the cashier that only one check out was open and it had a line up of people waiting, she asked me to repackage my basket and move . Sorry but I left my groceries on the conveyor and walked out , life long coles shopper , same shopping at Woolworths , was greeted at the express checkout with a smile and no problem I had 12 items in my basket , very disappointed in the service at coles Gladstone",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0f480123-48e4-5a3a-893d-5d30882c5146"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/690e7167-d031-5d6e-bb6f-38e2636a1b9b",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-03T08:48:36Z",
+            "headline": "Don't buy the coconut cream if you want coconut cream.",
+            "reviewBody": "I bought coconut cream and it's so watery I wouldn't even call it coconut milk. I'm on a tight budget and now I have to eat green curry soup with rice chunks in it for the rest of the week. Thanks coles!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "janaii b.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/43ac65ca-0375-4943-a85f-3c99fde17ea9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2213f2ce-184a-55b6-9707-e7a8bba29a17",
+            "inLanguage": "en-AU",
+            "datePublished": "2023-01-03T08:08:49Z",
+            "headline": "Deli Coles Shouthern River",
+            "reviewBody": "Had wonderful experience today 1.3.2023 at Deli Shouthern River, the girl who helping me with my 12 kilo's chicken breast order she is very nice and helpful, went shopping at woolwoths the girl at Deli was not nice at all as I was asking few kilo chicken breast she serve me with unhappy face and not one word come from her mouth, I believe I was ask with polite my I please..\nBut anyway I was left with my disappointed sad, otw home saw new Coles, and best deli shopping experience.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eva",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/dd4925c7-6ac9-5aec-9a02-d748b848f0dc"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/49ef86de-2e38-52e1-b813-817a9bfa6b89",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-30T05:46:22Z",
+            "headline": "Avocados Rotten",
+            "reviewBody": "Has anyone other than myself finding that the Coles Avocados are rotted internally??? Purchased 2 from Coles Tweed Mall. Both could not be eaten. And it\u2019s not the first time. Not worth $1.90c",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Wayne",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4deb9bea-1b66-36ae-8a95-713b158ef29c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d3555e0d-44d8-5305-9b32-c85fb1d4c4d5",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-29T12:32:12Z",
+            "headline": "Always shop Woolworths - Coles: never again",
+            "reviewBody": "I Always shop at Woolies.\nWent to Coles the start of the week as it was close to work - no products left on the shelf but I understand that this time of year.\n\nPicked up some gluten free pizza bases - half price but nearly expired: when I got home covered in mould. Considering they were half price I didn\u2019t bother complaining and moved on.\n\nA few days later I went to coles again on the way to a friends place - still no stock on the shelves trying to get pineapple juice and coffee. Again no stock whatsoever at  a completely different  coles. Picked up whipping cream - full price so didn\u2019t check the date. Expired yesterday and completely solid and smells putrid.\n\nI know it\u2019s a busy time of year but twice in a week - no selection, mouldy and off food. Never had this experience EVER with Woolworths even during Christmas periods. Coles you are awful.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Faye K",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a34bf59b-a8f1-41bd-bbe0-090dc00d2474"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b8da470c-fa9b-5790-abd4-635943d547e2",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-29T08:02:27Z",
+            "headline": "Great shopping experience",
+            "reviewBody": "Easy parking (disability), right in front of the store. I found everything on my shopping list, with the obligatory number of extras that pop into the shopping trolley, and my savings this shop were over my ideal $ amount.   Coles had the best Flat Mushrooms! Staff were really friendly, with everyone in the Christmas spirit. The Bakery, Vegetable and Meat sections were being constantly re-stocked, as quickly as they were being emptied by Christmas celebration/holiday shopping. Even Gluten & Dairy Free options were available, at reasonable prices. Checkout queues were moving at a constant rate. Extra people were put on just as I reached the (near) front of the queue, which often happens to the me, & I was asked to move to the new checkout to get through. The staff make an extra effort to take care that my shopping experience is a pleasant one.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Susan",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/638d9503-2a94-515e-a2b4-ef324d2c8423"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c4adf9f6-40e0-51ef-9d26-f38fde193b10",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-28T01:52:31Z",
+            "headline": "Disgusting leaches",
+            "reviewBody": "Used to be able to buy 10 cans of Fancy feast for $12. Now my local Coles is selling those same cans at 5 for $8. So to buy those same 10 cans will now cost me $16. Another $4 on top. And they call this a special!!\nJust sick of the obvious rip offs perpetrated by coles. Value the Australian Way. Ha ha ha what a joke.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/eec9a68e-e4a7-480b-9c71-523b877a5e38"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3ce7f8c6-0794-58cd-aff4-90805639979e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-27T06:39:16Z",
+            "headline": "Rude behaviour of staff, Lack of acceptance on system flaws by staff",
+            "reviewBody": "I had purchased Bega Peanut butter from Coles supermarket at Plympton, Marion Road, SA, 4/5 weeks before. Later we realized that the taste was unusual and then when checked the expiry date on the bottle was 15 Sep2022 i.e. more than a moth before we purchased this bottle from the store.\nToday I went to store not with an expectation to get the return of item / refund of money but to convey them that there may be such expired items like this because I could not find the receipt of the purchase. The staff called there manager [Name Removed] who said he checked and there is no items in their stock at least for the last 4 weeks. He also offered to replace this item though. I told him that I am not there to expect a refund/ replacement but was there to convey that there can be items which are expired and with a request to review from their side as systems can have flaws. Manager- [Name Removed] was not ready to accept that there are expired items in their current stock. \nAfter this conversation, I moved in for other shopping in the store and my son observed there was a Bega Peanut butter bottle in the store with the same expire date as 15 Sep 2022. I took a photograph of it and also picked up the bottle and went to the counter again and asked to call [Name Removed] to show it to him since he was in a full denial earlier about the possibility of expired items in stock. [Name Removed] came with a different mindset this time and his first dialogue was '' see man, I don't want to be rude as this is a busy day today'' !!!!!! \nI asked - What's here to be rude, have I been rude. I am just requesting Coles to check for expired items, just wanted their acceptance on this and assurance to check their stock and nothing else... I had been very calm in my conversation throughout.\nBy then,[Name Removed]'s manager [Name Removed] came, he appeared to be a sensible person and when I told him same thing all over again and showed the expired bottle, he said that he accepted that systems can have flaws and will check if there are more such expired items. \nI was happy with [Name Removed]'s assurance as I just wanted this acceptance from Coles. No system can be perfect and there can be flaws in any system however with all this experience, it became evident that Coles staff (store lead/ manager etc.) need training to respect customer, understand the customer issues and to better deal with customers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Shailesh",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/613c4b55-34cd-4fd5-a987-d11ab978067a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f10d4c5c-4461-5c21-b436-faee867feb10",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-26T10:04:35Z",
+            "headline": "Disappointing staff decisions.",
+            "reviewBody": "Staff in the local store shut the self serve checkouts 15-20 minutes prior to the store closing and only had one human checkout open. Therefore leaving a large queue of people trying to get out.    Its just lazy. Obviously packers and managers are going to be working into the night. Its obvious that shutting down registers doesnt have to happen during trading hours.  We have a choice of supermarkets in our local shopping center. Its bad decisions like this that make us lose loyalty very very very very very fast!.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dave",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cc681261-9b2a-389a-85a7-90b5650d8bf2"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ab46bdb1-9e89-51ef-b473-c841d085a42d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-24T08:04:11Z",
+            "headline": "Blatantly ripping people off",
+            "reviewBody": "Coles is now taking advantage of cost of living.  Items going up by $2 in one go.  Example box of cat food sachets were $9.70, went straight up to $12.  More profits for fat cat share holders.  Absolutely disgusting.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leeanne",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/5d35f286-5b36-31ad-94e4-d6698c5fb082"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e5ae27fd-628f-5d16-8572-f48441f9d7f9",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-23T06:49:48Z",
+            "headline": "Click and collect",
+            "reviewBody": "I placed a click and collect order and later received and an email advising a product wasn\u2019t available, went in store and saw two items on the shelf.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marban",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/90e8a73e-8458-348e-8dbe-348164489ad7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/9c8fc43c-70a3-52a1-9c4c-df9f9d0330ec",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-20T03:17:20Z",
+            "headline": "Terrible service",
+            "reviewBody": "I bought 4 gift cards in supermarket and checked with the staff were they have 15% discount. there were 2 staff member serviced, one said yes and the other one said nothing. After done the payment, it was found no discount apply. went to service desk, no one say sorry and just tell us no refund. another staff came and told me it is my own responsibility to check the price before I pay. sent email to customer service and they just ask me authorization to share my personal info and my gift card info. I express my concern with gift card info may be stolen by others. the service desk did not reply and just ask permission and no one reply at all. I will not shop with Coles anymore.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Xin",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/673c8f96-1f84-3c79-9053-74a902c25369"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/1e8468a4-8b8f-5195-975a-ae2957e2ac7f",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-18T04:50:27Z",
+            "headline": "Ham is awful and lined up for 20 minutes",
+            "reviewBody": "Ham is bland. No flavour at all. Lined up for 20 minutes at checkout while assistant babbled on to 3 customers in front of me about her icecream cake recipe. No ham taste at all",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gwenda",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8d35072d-ff90-3c21-abfb-0040b8efad6d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cd985def-58e9-50da-b7dd-94f1c6051b87",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-17T19:26:47Z",
+            "headline": "Irreverence",
+            "reviewBody": "I have attempted to contact Coles with no benefit.\nTheir customer service is as corruptible as it's supermarket supply.\nTwice in a week the bakery department has taken a loaf sourdough bread offered from the shelves to be sliced and both occasions a multigrain stale loaf has been returned.\nMy elderly mother obviously hadn't noticed and accepted the loaf in good faith, why would you consider that the product would be switched with an out of date loaf?\nWith the benefit of hindsight I can now confidently presume it was a deliberate act.\nBoth loaves contained no 'best before' tag and the circumstances on which the crime occurred were identical.\nThere seems to be a cult type of culture within the shopping precinct that because has no official title, as in 'the family' or anything similar it is therefore deemed rational. \nAbsolutely boggling.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "UnAstralian",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/34fea657-49f7-50fc-b71e-f006cebc5d95"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/790b14ac-57f4-5fb8-bf6d-0b3ed974ac30",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-17T02:35:16Z",
+            "headline": "tin Red  Salmon",
+            "reviewBody": "Bought a tin of Cokes Red Salmon cost nearly $10 it was canned in Thailand it was awful fed it to the dog and cat beware do not buy very disappointed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bad product",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b0ebd339-5a2a-57ac-8fa8-bb09174ba876"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/65d9f1c6-d43b-5a03-bbdc-b2f0a0310327",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-12T23:53:35Z",
+            "headline": "Customer service is dead at Coles Armidale, NSW",
+            "reviewBody": "Yesterday at work people were complaining about the lack of serviced checkouts at our local Armidale NSW Coles. I decided to see for myself so, this morning I did my weekly grocery shop at Coles only to find that customer service is officially dead at Coles, Armidale. The only serviced checkout was the 12 items or less checkout. One man with a large trolley full of groceries was having to unload his trolley, scan each item and then repack his groceries. Though he was obviously struggling, no help was forthcoming from the staff who just seemed to be standing around. An elderly woman with a small trolley of groceries was unable to use the self serve checkout so went through the 12 or less checkout to the obvious annoyance of those behind her. I think Coles must be trying to differentiate themselves from ALDI and WOOLWORTHS by providing no customer service at high prices.\nOn the way home I popped into Woolworths to pick up the items I couldn't find at Coles and couldn't help but notice how much busier they were than Coles. I think that trend will probably continue.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kristel",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d5f1a35f-de51-5bbf-b53a-ce62853b85b7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8ad6fafd-f3fa-5e4b-a75d-939cf6fa9643",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-10T10:05:10Z",
+            "headline": "Shame on you coles supermarkets",
+            "reviewBody": "The expectation of having to serve yourselves.. very poor 2 check outs open and the rest self serve after inflating your prices\u2019 . Not good enough.. customers will vote on their feet. Ignore if you like Foodland for me",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gaye",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cc7359f9-9142-5e5d-be4d-0765a04f1d65"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a36a569e-ca83-5df3-8d06-503e736456f0",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-10T01:47:06Z",
+            "headline": "Best service ever",
+            "reviewBody": "Was in Coles Murray Bridge store this week and had the best checkout operator ever her name was Tash and she goes out of her way to be helpful makes you want to shop at coles",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joanne F.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/807dcdf7-a05e-4790-aee4-2d0807e10aa7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7ccb0b8c-083e-5cd9-bc7b-0b80993e165e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-08T17:54:27Z",
+            "headline": "Purchase of Coles Curry Puff 200Gram from Coles Airport West on 07/12/2022 at 15.13",
+            "reviewBody": "This product was cooked according to the instruction given in the packet. The contents taste awful and was not edible at all. I took the packet back to Coles today at 12.05pm. I explained to the consultant at the service counter, She called the Manager for advice and I was told this being a frozen  product they are unable to replace or refund and sent me back. I fed the birds with this product and even the birds did not consume them. In the packet it clearly states \"TRY IT.LOVE IT. OR MONEY BACK\"\nSome time ago I took packet of Butter to Woolworth Gladstone Park, they immediately replaced the product. Even if the fruits are spoilt they ask no question and ask for advice from the manager. They have been well managed and their customer service is excellent compared to Coles Airport West.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anonymous",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/bb647931-5573-5dde-a401-cb389bca4a21"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/3d9ac0d8-3301-5af5-af76-0564b3af397d",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-03T23:50:39Z",
+            "headline": "Overpriced cream",
+            "reviewBody": "The price of cream is ridiculous $4:20 for 600ml as I can't afford it on a pension with the price of living going up and inflation something needs to be done straight away",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David U.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/89530de0-337d-429a-94a3-e7229d9723c6"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b73aed72-cfd4-53dc-abf2-068cb9a553b6",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-12-01T22:23:35Z",
+            "headline": "Inadequate Parking  wilted vegetables",
+            "reviewBody": "Not shopping Old Bar Coles any more. Will drive to Taree Aldi.  Coles Old Bar has Inadequate parking and busy times no parking at all. Impossible to do a trolley shop if I have to park in the main street. The vegetables on display are wilted.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Paula",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ae2c8647-27a6-48d3-a850-87b89583168d"
+            }
+        }
+    ]
+}

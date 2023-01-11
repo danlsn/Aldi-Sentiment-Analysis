@@ -1,0 +1,1425 @@
+{
+  "data": [
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Ryde & Macquarie Park",
+      "areaId": 5031,
+      "areaWhereValue": "Ryde & Macquarie Park Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "2d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59636089,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Gladesville, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Gladesville NSW 2111"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-08T22:02:19Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59636089",
+        "section": "MAIN",
+        "sectionRank": 1,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Gladesville",
+      "suburbId": 20734,
+      "suburbWhereValue": "Gladesville NSW 2111",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Gladesville",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMSIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "CBD & Inner Suburbs",
+      "areaId": 5010,
+      "areaWhereValue": "Brisbane CBD & Inner Suburbs Brisbane QLD",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "1d ago",
+      "location": "Brisbane",
+      "locationId": 1004,
+      "locationWhereValue": "All Brisbane QLD",
+      "id": 59663984,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Cannon Hill, Brisbane QLD",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Cannon Hill QLD 4170"
+          },
+          {
+            "contextualName": "All Brisbane QLD"
+          }
+        ]
+      },
+      "listingDate": "2023-01-10T03:18:50Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59663984",
+        "section": "MAIN",
+        "sectionRank": 2,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Cannon Hill",
+      "suburbId": 22509,
+      "suburbWhereValue": "Cannon Hill QLD 4170",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Cannon Hill - 15 hours pw",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMiIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "CBD & Inner Suburbs",
+      "areaId": 5010,
+      "areaWhereValue": "Brisbane CBD & Inner Suburbs Brisbane QLD",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "1d ago",
+      "location": "Brisbane",
+      "locationId": 1004,
+      "locationWhereValue": "All Brisbane QLD",
+      "id": 59656615,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Aspley, Brisbane QLD",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Aspley QLD 4034"
+          },
+          {
+            "contextualName": "All Brisbane QLD"
+          }
+        ]
+      },
+      "listingDate": "2023-01-09T23:01:05Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59656615",
+        "section": "MAIN",
+        "sectionRank": 3,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Aspley",
+      "suburbId": 11381,
+      "suburbWhereValue": "Aspley QLD 4034",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Aspley / Bald Hills / Sandgate / Taigum",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMyIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6251",
+        "description": "Administration & Office Support"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "2d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59641308,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Minchinbury, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Minchinbury NSW 2770"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-09T00:57:00Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "office-assistant",
+      "salary": "$71,300 - $78,300 (including super)",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59641308",
+        "section": "MAIN",
+        "sectionRank": 4,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6252",
+        "description": "Administrative Assistants"
+      },
+      "suburb": "Minchinbury",
+      "suburbId": 18808,
+      "suburbWhereValue": "Minchinbury NSW 2770",
+      "teaser": "An exciting opportunity for an Office Assistant to join the Produce Buying team of ALDI stores.",
+      "title": "Office Assistant - Buying",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfNCIKfQ==",
+      "workType": "Contract/Temp",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Southern Suburbs & Sutherland Shire",
+      "areaId": 5032,
+      "areaWhereValue": "Southern Suburbs & Sutherland Shire Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "11m ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59680993,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Miranda, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Miranda NSW 2228"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-11T03:14:26Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59680993",
+        "section": "MAIN",
+        "sectionRank": 5,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Miranda",
+      "suburbId": 18854,
+      "suburbWhereValue": "Miranda NSW 2228",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Miranda",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfNSIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Bayside & Eastern Suburbs",
+      "areaId": 5011,
+      "areaWhereValue": "Bayside & Eastern Suburbs Brisbane QLD",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "1d ago",
+      "location": "Brisbane",
+      "locationId": 1004,
+      "locationWhereValue": "All Brisbane QLD",
+      "id": 59660256,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Alexandra Hills, Brisbane QLD",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Alexandra Hills QLD 4161"
+          },
+          {
+            "contextualName": "All Brisbane QLD"
+          }
+        ]
+      },
+      "listingDate": "2023-01-10T01:06:20Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59660256",
+        "section": "MAIN",
+        "sectionRank": 6,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Alexandra Hills",
+      "suburbId": 11124,
+      "suburbWhereValue": "Alexandra Hills QLD 4161",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Alexandra Hills/Victoria Point - 20 hours p/w",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfNiIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Southern Suburbs & Sutherland Shire",
+      "areaId": 5032,
+      "areaWhereValue": "Southern Suburbs & Sutherland Shire Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "1d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59655144,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Carlton, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Carlton NSW 2218"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-09T22:01:29Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59655144",
+        "section": "MAIN",
+        "sectionRank": 7,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Carlton",
+      "suburbId": 22612,
+      "suburbWhereValue": "Carlton NSW 2218",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Carlton",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfNyIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "areaId": 5027,
+      "areaWhereValue": "Sydney CBD, Inner West & Eastern Suburbs Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "1d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59655128,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Marrickville, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Marrickville NSW 2204"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-09T22:01:13Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59655128",
+        "section": "MAIN",
+        "sectionRank": 8,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Marrickville",
+      "suburbId": 18435,
+      "suburbWhereValue": "Marrickville NSW 2204",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant -  Marrickville",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfOCIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "CBD & Inner Suburbs",
+      "areaId": 5010,
+      "areaWhereValue": "Brisbane CBD & Inner Suburbs Brisbane QLD",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "5d ago",
+      "location": "Brisbane",
+      "locationId": 1004,
+      "locationWhereValue": "All Brisbane QLD",
+      "id": 59626768,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Acacia Ridge, Brisbane QLD",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Acacia Ridge QLD 4110"
+          },
+          {
+            "contextualName": "All Brisbane QLD"
+          }
+        ]
+      },
+      "listingDate": "2023-01-06T03:53:51Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59626768",
+        "section": "MAIN",
+        "sectionRank": 9,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Acacia Ridge",
+      "suburbId": 11045,
+      "suburbWhereValue": "Acacia Ridge QLD 4110",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Acacia Ridge - 20 hours p/w",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfOSIKfQ==",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Western Suburbs",
+      "areaId": 5073,
+      "areaWhereValue": "Western Suburbs Melbourne VIC",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6092",
+        "description": "Manufacturing, Transport & Logistics"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "5h ago",
+      "location": "Melbourne",
+      "locationId": 1002,
+      "locationWhereValue": "All Melbourne VIC",
+      "id": 59673256,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Derrimut, Melbourne VIC",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Derrimut VIC 3030"
+          },
+          {
+            "contextualName": "All Melbourne VIC"
+          }
+        ]
+      },
+      "listingDate": "2023-01-10T22:01:43Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "warehouse-operator",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59673256",
+        "section": "MAIN",
+        "sectionRank": 10,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6108",
+        "description": "Warehousing, Storage & Distribution"
+      },
+      "suburb": "Derrimut",
+      "suburbId": 15220,
+      "suburbWhereValue": "Derrimut VIC 3030",
+      "teaser": "Our energetic Warehouse Pickers are responsible for accurately picking and dispatching goods, managing orders and controlling stock levels.",
+      "title": "Warehouse Operator - Morning Shift",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTAiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Northern Suburbs & Joondalup",
+      "areaId": 5051,
+      "areaWhereValue": "Northern Suburbs & Joondalup Perth WA",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "4h ago",
+      "location": "Perth",
+      "locationId": 1009,
+      "locationWhereValue": "All Perth WA",
+      "id": 59675815,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Yanchep, Perth WA",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Yanchep WA 6035"
+          },
+          {
+            "contextualName": "All Perth WA"
+          }
+        ]
+      },
+      "listingDate": "2023-01-10T23:47:43Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59675815",
+        "section": "MAIN",
+        "sectionRank": 11,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Yanchep",
+      "suburbId": 10689,
+      "suburbWhereValue": "Yanchep WA 6035",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Yanchep",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTEiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Northern Suburbs & Joondalup",
+      "areaId": 5051,
+      "areaWhereValue": "Northern Suburbs & Joondalup Perth WA",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "3h ago",
+      "location": "Perth",
+      "locationId": 1009,
+      "locationWhereValue": "All Perth WA",
+      "id": 59676409,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Mirrabooka, Perth WA",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Mirrabooka WA 6061"
+          },
+          {
+            "contextualName": "All Perth WA"
+          }
+        ]
+      },
+      "listingDate": "2023-01-11T00:10:31Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59676409",
+        "section": "MAIN",
+        "sectionRank": 12,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Mirrabooka",
+      "suburbId": 18864,
+      "suburbWhereValue": "Mirrabooka WA 6061",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Mirrabooka - 20 hours PW",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTIiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Northern Suburbs & Joondalup",
+      "areaId": 5051,
+      "areaWhereValue": "Northern Suburbs & Joondalup Perth WA",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "5h ago",
+      "location": "Perth",
+      "locationId": 1009,
+      "locationWhereValue": "All Perth WA",
+      "id": 59674096,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Karrinyup, Perth WA",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Karrinyup WA 6018"
+          },
+          {
+            "contextualName": "All Perth WA"
+          }
+        ]
+      },
+      "listingDate": "2023-01-10T22:37:49Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59674096",
+        "section": "MAIN",
+        "sectionRank": 13,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Karrinyup",
+      "suburbId": 12926,
+      "suburbWhereValue": "Karrinyup WA 6018",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Karrinyup - 20 hours PW",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTMiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Bayside & South Eastern Suburbs",
+      "areaId": 5070,
+      "areaWhereValue": "Bayside & South Eastern Suburbs Melbourne VIC",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "2d ago",
+      "location": "Melbourne",
+      "locationId": 1002,
+      "locationWhereValue": "All Melbourne VIC",
+      "id": 59643221,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Karingal, Melbourne VIC",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Karingal VIC 3199"
+          },
+          {
+            "contextualName": "All Melbourne VIC"
+          }
+        ]
+      },
+      "listingDate": "2023-01-09T01:53:51Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59643221",
+        "section": "MAIN",
+        "sectionRank": 14,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Karingal",
+      "suburbId": 12904,
+      "suburbWhereValue": "Karingal VIC 3199",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Karingal",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTQiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "CBD & Inner Suburbs",
+      "areaId": 5010,
+      "areaWhereValue": "Brisbane CBD & Inner Suburbs Brisbane QLD",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "8d ago",
+      "location": "Brisbane",
+      "locationId": 1004,
+      "locationWhereValue": "All Brisbane QLD",
+      "id": 59585655,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Lutwyche, Brisbane QLD",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Lutwyche QLD 4030"
+          },
+          {
+            "contextualName": "All Brisbane QLD"
+          }
+        ]
+      },
+      "listingDate": "2023-01-02T23:01:29Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59585655",
+        "section": "MAIN",
+        "sectionRank": 15,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Lutwyche",
+      "suburbId": 14008,
+      "suburbWhereValue": "Lutwyche QLD 4030",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Ashgrove / Fortitude Valley / Lutwyche - 20hrs",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTUiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "CBD & Inner Suburbs",
+      "areaId": 5069,
+      "areaWhereValue": "Melbourne CBD & Inner Suburbs Melbourne VIC",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "5d ago",
+      "location": "Melbourne",
+      "locationId": 1002,
+      "locationWhereValue": "All Melbourne VIC",
+      "id": 59628265,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Fitzroy, Melbourne VIC",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Fitzroy VIC 3065"
+          },
+          {
+            "contextualName": "All Melbourne VIC"
+          }
+        ]
+      },
+      "listingDate": "2023-01-06T05:17:18Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59628265",
+        "section": "MAIN",
+        "sectionRank": 16,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Fitzroy",
+      "suburbId": 20364,
+      "suburbWhereValue": "Fitzroy VIC 3065",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Fitzroy",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTYiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Southern Suburbs & Sutherland Shire",
+      "areaId": 5032,
+      "areaWhereValue": "Southern Suburbs & Sutherland Shire Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "5d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59622820,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Engadine, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Engadine NSW 2233"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-05T23:41:12Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "Permanent Part Time / Fast Paced, Physical Role.",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59622820",
+        "section": "MAIN",
+        "sectionRank": 17,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Engadine",
+      "suburbId": 20077,
+      "suburbWhereValue": "Engadine NSW 2233",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Engadine",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTciCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6251",
+        "description": "Administration & Office Support"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "7d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59607508,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Minchinbury, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Minchinbury NSW 2770"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-04T05:53:00Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "administration-officer",
+      "salary": "$71,300 - $78,300 including super",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59607508",
+        "section": "MAIN",
+        "sectionRank": 18,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6252",
+        "description": "Administrative Assistants"
+      },
+      "suburb": "Minchinbury",
+      "suburbId": 18808,
+      "suburbWhereValue": "Minchinbury NSW 2770",
+      "teaser": "Looking to start your career in HR/Recruitment? We have an amazing opportunity for an administrator to join the national recruitment team.",
+      "title": "Administrator",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTgiCn0=",
+      "workType": "Full Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "areaId": 5027,
+      "areaWhereValue": "Sydney CBD, Inner West & Eastern Suburbs Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "5d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59623084,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Maroubra, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Maroubra NSW 2035"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-05T23:57:11Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59623084",
+        "section": "MAIN",
+        "sectionRank": 19,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Maroubra",
+      "suburbId": 18424,
+      "suburbWhereValue": "Maroubra NSW 2035",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Maroubra",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMTkiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    },
+    {
+      "advertiser": {
+        "id": "27493644",
+        "description": "Aldi Stores"
+      },
+      "area": "Parramatta & Western Suburbs",
+      "areaId": 5030,
+      "areaWhereValue": "Parramatta & Western Suburbs Sydney NSW",
+      "automaticInclusion": false,
+      "bulletPoints": [],
+      "classification": {
+        "id": "6043",
+        "description": "Retail & Consumer Products"
+      },
+      "companyName": "ALDI",
+      "companyProfileStructuredDataId": 5197,
+      "displayType": "standard",
+      "listingDateDisplay": "8d ago",
+      "location": "Sydney",
+      "locationId": 1000,
+      "locationWhereValue": "All Sydney NSW",
+      "id": 59584699,
+      "isPremium": false,
+      "isStandOut": false,
+      "jobLocation": {
+        "label": "Bonnyrigg, Sydney NSW",
+        "countryCode": "AU",
+        "seoHierarchy": [
+          {
+            "contextualName": "Bonnyrigg NSW 2177"
+          },
+          {
+            "contextualName": "All Sydney NSW"
+          }
+        ]
+      },
+      "listingDate": "2023-01-02T22:02:09Z",
+      "logo": {
+        "id": "",
+        "description": null
+      },
+      "roleId": "retail-sales-assistant",
+      "salary": "",
+      "solMetadata": {
+        "searchRequestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+        "jobId": "59584699",
+        "section": "MAIN",
+        "sectionRank": 20,
+        "jobAdType": "ORGANIC",
+        "tags": {
+          "mordor__flights": "mordor_123"
+        }
+      },
+      "subClassification": {
+        "id": "6050",
+        "description": "Retail Assistants"
+      },
+      "suburb": "Bonnyrigg",
+      "suburbId": 17795,
+      "suburbWhereValue": "Bonnyrigg NSW 2177",
+      "teaser": "Whether they\u2019re racing to fill shelves or scanning through customers, our Retail Assistants can do everything and anything.",
+      "title": "Retail Assistant - Liverpool/ Bankstown Airport",
+      "tracking": "ewogICJ0b2tlbiI6ICIzNGNiMmVmMS1lZmZlLTk2OWUtOGM2Zi1lY2JjNzhlNzhmMzZfMjAiCn0=",
+      "workType": "Part Time",
+      "isPrivateAdvertiser": false
+    }
+  ],
+  "title": "Jobs in All Australia",
+  "totalCount": 417,
+  "paginationParameters": {
+    "seekSelectAllPages": true,
+    "hadPremiumListings": false
+  },
+  "info": {
+    "timeTaken": 51,
+    "source": "JobSearch-sm",
+    "experiment": "mordor_123"
+  },
+  "userQueryId": "a3f7e6f85be73fd8fe2e3d5ea92001b7-7335003",
+  "sortMode": [
+    {
+      "isActive": true,
+      "name": "Relevance",
+      "value": "KeywordRelevance"
+    },
+    {
+      "isActive": false,
+      "name": "Date",
+      "value": "ListedDate"
+    }
+  ],
+  "solMetadata": {
+    "requestToken": "2fee374e-0831-4ce3-bb91-24676e5d5232",
+    "token": "0~2fee374e-0831-4ce3-bb91-24676e5d5232",
+    "sortMode": "RELEVANCE",
+    "locations": [
+      "seek-3000"
+    ],
+    "locationDistance": 50,
+    "employer": "ALDI",
+    "pageSize": 20,
+    "pageNumber": 1,
+    "totalJobCount": 417,
+    "tags": {
+      "mordor__flights": "mordor_123",
+      "chalice-search-api:solId": "c00c353f-a376-4b96-b397-16e262dbd3d3"
+    }
+  },
+  "location": {
+    "matched": true,
+    "whereId": 3000,
+    "type": "Country",
+    "suburbType": "rural",
+    "description": "All Australia",
+    "stateDescription": "",
+    "locationId": 3000,
+    "locationDescription": "",
+    "areaId": 0,
+    "areaDescription": "",
+    "suburbParentDescription": ""
+  },
+  "canonicalCompany": {
+    "id": "5197",
+    "description": "ALDI"
+  },
+  "companySuggestion": {
+    "search": {
+      "keywords": "ALDI"
+    },
+    "count": "461"
+  },
+  "joraCrossLink": {
+    "canCrossLink": false
+  },
+  "searchParams": {
+    "sitekey": "AU-Main",
+    "sourcesystem": "houston",
+    "userqueryid": "a3f7e6f85be73fd8fe2e3d5ea92001b7-7335003",
+    "userid": "5959404e-631e-45a1-bb3b-2ae481757cf6",
+    "usersessionid": "5959404e-631e-45a1-bb3b-2ae481757cf6",
+    "eventcapturesessionid": "5959404e-631e-45a1-bb3b-2ae481757cf6",
+    "where": "All Australia",
+    "page": "1",
+    "seekselectallpages": "true",
+    "companyname": "ALDI",
+    "include": "seodata",
+    "solid": "c00c353f-a376-4b96-b397-16e262dbd3d3"
+  }
+}

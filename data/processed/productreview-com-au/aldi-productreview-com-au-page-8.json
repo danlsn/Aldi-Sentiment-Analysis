@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ALDI",
+    "url": "https://www.aldi.com.au",
+    "brand": {
+        "@type": "Brand",
+        "name": "ALDI",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/61aa42fe-da9f-3c3c-9fb4-2eba07f78c10?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/f7f8960a-ac82-5698-a04a-62214672658c?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.5,
+        "reviewCount": 2400
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5b1d0665-4060-5a5c-aec6-4943a9906933",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-03-02T04:50:48Z",
+            "headline": "Poor Customer service",
+            "reviewBody": "I called into Aldi to check the power fitness bands advertised from March 2nd. No stock, no staff to assist, website completely useless in helping.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Colin Butler",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/da76da36-e698-55ec-a213-13562b17e12b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/9e6ac96d-64ec-58fa-9189-b15a1c9c7505",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-25T10:45:08Z",
+            "headline": "Kylie\u2019s special wine",
+            "reviewBody": "Vinegar taste last moment corky taste don\u2019t invest paying to much for the name $10 for her each bottle sold my estimated",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Helga M.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/9441417e-dfa1-481d-990f-54bf8a3474bf"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4ad912fd-1333-5fc7-92f4-0f2a075f73d8",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-24T23:23:27Z",
+            "headline": "Noticed an increase in prices",
+            "reviewBody": "Noticed Aldi has had a marked increase in prices across the store especially noticed a 20 % increase in coffee pods\nNow it\u2019s not as cheap as it claims I now split my shopping between coles, woolies and Aldi",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Steve Withers C.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1a1ca99b-c07f-4044-94d2-85e8fa94bc2a"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5bec52b8-c88f-5120-88f8-871cb58642ce",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-21T22:39:59Z",
+            "headline": "Baby Wipes",
+            "reviewBody": "Every Sunday for many years i would but 12 packets of the 240 pk Mamia refill for my autistic daughter and now they are gone so i had to buy these new ones and they are way too thin for wiping anything she needs the thick, soft and embossed ones that she is use to she had a panic attack as the product changed and she does not like change because of her autism PLEASE is there anyway to bring back the other wipes as i could only get them from Aldi stores only if not the 240 pk at least the 80 pk  the picture with the crosses are the bad ones thank you so much Jo",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joyce",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/cd25cefa-4ff4-5a9d-9292-41e451f0c2c4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cce967a1-d104-5b1f-ab7e-d0a76b6b3c92",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-20T23:58:13Z",
+            "headline": "Aldi's new FUNGI garden (knife block)",
+            "reviewBody": "Bought their recent knife block, see \nhttps://www.lasoo.com.au/offer/homewares/knife-block-6pc-set-with-inbuilt-sharpener/5ttwb7vcc.html\n\nRealised that the clear plastic frame is screwed to both the top and bottom wooden blocks.  This means that if you spill something over the top it  will find its way into the block or if the kids put a dirty knife in, then you can watch your new fungi garden grow as you cannot open the block without unscrewing the base where  the screws are hidden under the feet.  We took it back as NOT SUITABLE FOR PURPOSE.\n\nBAD  ALDI  BAD ! ! !",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rob",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/fd28d398-7005-56a7-99cd-fffec92f99f9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/4075b077-c629-54c1-98d7-985ff1bcd103",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-19T08:02:12Z",
+            "headline": "Aldi mince, a disaster!",
+            "reviewBody": "Tried Aldi mince, five star minced beef. This garbage is a combination of water held in suspension by a slurry of what is claimed to be meat. If this is five star, I guess you can pour the three and four star straight from the package as a liquid into the drain. Best place for it! Taste? What a lousy taste, you need to smother the gruel with enough sauce of your choice to completely subdue it's terrible flavour.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "MickD",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2647ab7b-b32b-3802-965d-45c4d3da3ad4"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/42a137ea-c92b-52a5-b395-4a2db2c981c7",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-18T01:39:17Z",
+            "headline": "Overrated",
+            "reviewBody": "The beef is poor quality\nThey don't stock a lot of stuff forcing customers to then visit another supermarket chain afterwards\nNot as good as the claimed rating in their TV ads.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Antony O.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1a72126c-03a9-440b-925a-e6cac4f72f24"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cd39e1bb-b1cb-504d-aac3-ea29b9864d9b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-17T04:07:51Z",
+            "headline": "Don't buy packed fruits",
+            "reviewBody": "Please don't buy packed fruits especially apples as so many times I have made this mistake. The apples are always not fresh (even unpacked ones) and when you cut them they are brown inside. I probably would bring them back but driving back is not an option. That's why I wrote this review here as Aldi needs to check their fruits' quality.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ally",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d312ec54-40b7-34f2-b7c6-b461022a5713"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7d950b3f-bfa6-5460-b1cf-0b716ea7512b",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-17T02:43:00Z",
+            "headline": "Warranty",
+            "reviewBody": "It is a shame that Aldi appear to no longer honour their warranties on items purchased at their stores\n\nWhy cant you supply an email address",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Marc A.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/dad51121-0706-44e3-8836-57701a6383a7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/36f17dac-4be3-5e70-807c-8dd739849c73",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-16T09:54:25Z",
+            "headline": "Hillcrest Muesli  bars far from what is being advertised",
+            "reviewBody": "The package states the Hillcrest bars have almonds etc. All the bars in the box just had oats each with a single sunflower seed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Les",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/088c1eef-6d9e-46be-8f73-e0a4f79b0565"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f951c5f9-a57e-55bd-9756-9f421ed10e38",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-16T07:35:20Z",
+            "headline": "Fresh  Salad Co",
+            "reviewBody": "These salads are just amazing! Such an easy way to try different styles .  Just tried the Thai coconut wild rice. The lentil tabbouleh and risonni antipasti equally delicious",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sue",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0a592a7d-3b26-5b26-9d5b-13a0f244e4d9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a83e4edd-038c-5158-b5fe-b179f2a3cdfe",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-16T07:29:32Z",
+            "headline": "No, not improved!",
+            "reviewBody": "Aldi claims that their Bakehouse Wholemeal bread is now made with an improved recipe. I disagree, it is now almost tasteless. I will pay 20 cents more at one of the other supermarkets and get a much better bread!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Bri",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/192199ab-6dd1-39d0-9cc5-a0891e7afdf1"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7f3fc73b-a6a8-5201-9a71-eb6c58c24918",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-15T00:37:48Z",
+            "headline": "iGO CAM 345 Front & Rear Dashboard Camera",
+            "reviewBody": "Good quality (1080p) front camera built in the display unit. Rear cam (max 480p) is a small weather resistant box with a bracket to be screwed into bumper (this works well if you want it to view your tow-ball connection). Fitting and setup is easy, and the rear cam comes with a cable long enough for a station wagon. SD card to be bought separately. If you connect the rear cam to a reversing light (wiring is setup provided) the display will revert to rear cam view when you put car in reverse. Great to line up tow-ball. You also get reversing HUD lines. Main display can be cycled through 1. Front only 2. Front and picture-in-picture Rear 3. Split Front/Rear 4. Rear only. No GPS which means you not only cannot record location, but also speed. Note, these two factors are a major player in accident evidence for insurance and courts.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "David",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/215c38bd-0e03-4d19-8d0f-ec6f22db69eb"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/ee526d35-7490-5e5f-b999-3bf29847796e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-14T12:27:55Z",
+            "headline": "World Kitchen 1.2Kg Beef Lasagne is slop.",
+            "reviewBody": "Lasagne is supposed to contain meat, but there is hardly any in it. It is just pasta, bechamel sauce, and tomato paste with traces of meat. It  is tasteless slop - no meat, no herbs, and far too much bechamel sauce.  . Anyone who thinks this is a good product has obviously never eaten proper lasagne, and shame on the kitchen who cooked it for even trying to pass this off a lasagne.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Allan",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/67625319-5205-5f78-9498-852c393996a9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/cb35c62b-0cbc-5a7d-a391-0d1315773f97",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-13T23:50:05Z",
+            "headline": "Great prices with limited but decent range",
+            "reviewBody": "If I have a go-to supermarket, it's probably Aldi.  Aldi stores are easy to reach, are clean, cheap and have a good range of items.  Their special buys are often tempting (eg. bulk dishwashing tablets, bikes, etc).\nIn general, Aldi's orange juice is great value for money.  Their breakfast cereals are great, dishwashing tablets superb, laundry detergent, dim sims, bread, olive oil.  The list of great items is huge.  They absolutely represent value for money.\nAldi's milk is nowhere near as nice as Costco's milk.  Their tuna leaves a lot to be desired.  Their fresh produce is often averagely priced.\nTo be honest, there's little to fault at Aldi.  There's no membership fee.  I've never had a problem with a return of an item.  The staff are probably less friendly than Costco, Woolworths and Coles.  Stores are clean.  If I had to single out a particular fault it's that some items are seasonal or you just can't buy them.  They used to sell great wholemeal spaghetti: they no longer do.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "DeWalt",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/e7c4fa01-3e92-308d-88ee-cdf65e20fa0d"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/baaa71c0-289f-5eb7-b21f-2f4957069357",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-10T23:14:21Z",
+            "headline": "Worst hash brown I ever have",
+            "reviewBody": "I bought a pack of hash brown (not the brands in other supermarkets) from Aldi. Put 3 pieces in oven and followed instructions on package. The hash brown was hard like raw potatoes after cooked. Fried them in a pan and add some water but still came out the same. My kids refused to eat them and had to throw the whole pack away.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Catherine",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/3437be0e-06af-41c3-ba07-f811db114bc9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/2f19ecd5-8f5d-501a-a25b-af8aa2e5a064",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-09T03:09:19Z",
+            "headline": "Fruit and veg short shelf life",
+            "reviewBody": "Disappointed in fruit and veg. Does not have a very long shelf life. I have put these products under the microscope over several months and the results are consistent.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Peter G.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4ded4ae2-f5f9-4f8f-916b-06671578c465"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/527ca3ef-24b9-4682-93f5-a0bbdbdf5fe5",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-07T01:42:25Z",
+            "headline": "Couldn't get a trolley",
+            "reviewBody": "Aldi needs to reconsider their trolley policy... today I tried getting a trolley with one of aldis tokens only for it to get jammed. I asked the cashier if I could take out cash to get another trolley and said they don't do cash out. I proceeded to tell her that my token got stuck and she just asked whether I'd like to buy another one! Haha she didn't offer to unlock another trolley OR retrieve the stuck token. I had to go to woolies just to get coins to unlock an aldi trolley... get with the times Aldi, our woolies don't keep their trolleys locked up.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Clare o",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ff9a7039-8f3a-3b97-b7c7-ba3cb876d06c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/a9591c50-d5ae-44f5-a377-361cf9300e53",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-06T23:20:47Z",
+            "headline": "My first coffee and frother machine were great.",
+            "reviewBody": "ALDI going backwards, I have just replaced both my coffee machine and milk frother. The coffee machine is a big disappointment because, (1) poor brewing and far less creme, (2) 25% smaller water tank, (3) 25% smaller used pods storage and non drainage. The milk frother works well, but the control panel  is far from user friendly, and the 2 led indicators are useless, bring back the previous design. The question goes begging \" why change a good design\"?.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rob",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f287260e-5148-4a47-8c80-ecde7f95201f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5c97b83c-e5d7-46d9-830e-767e5ca292ca",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-06T07:27:51Z",
+            "headline": "Poor quality meat",
+            "reviewBody": "I bought these middle bacon rashers from Aldi Maitland and they were 80% fat. I don\u2019t know how they could package it and sell it. I Weill never buy Aldi meat again. Disgusting.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Unhappy customer",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/bb8abf2d-b5d7-4b37-b650-e3028cfdad54"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/60b726f2-81ee-4592-b722-59869928829e",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-04T11:12:10Z",
+            "headline": "OBENTO spicy sesame ramen noodle bowl",
+            "reviewBody": "Be warned - this is hot and all you taste is salt, salt, salt, like taking a mouthful of a sachet from 2 min noodles - just like eating MSG.  I had to put some sesame oil into it and i still couldn't eat it.  \nShame, as the noodles themselves were quite nice but the sauce was not good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elise E.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/0a4122c5-0d8c-42ac-9036-7bd3adf768c7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f9140c5f-83b5-4b3a-a25e-1ec9fb6b0de4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-04T07:05:05Z",
+            "headline": "Dairy fine chocolate",
+            "reviewBody": "Very disappointed with the new recipe dairy fine chocolate. It tasted like the compound chocolate used in cooking.Bring back the old recipe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jenny",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1adf623c-2081-4c37-ad37-1c2de2528e5f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/eeb94cd2-0280-4133-98ab-cf70f0193a75",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-03T03:53:28Z",
+            "headline": "Aldi Turkey Breast Roast - AVOID",
+            "reviewBody": "Purchased this product at Christmas from Aldi. Priced at $13.49 bit expensive but looked nice and thought that because of the price it would be a PREMIUM PRODUCT.\n\nAldi's Description : Delicious and ready to roast! Made from Aussie turkey breast and marinated for extra succulence and flavour.\n\nMy Description : From Frozen you cook it in the FOIL .. You remove the FOIL at the end of cooking for the last 30 mins - THIS WAS EXTREMELY HARD TO REMOVE AS IT THICK FOIL, VERY TIGHTLY WRAPPED AND OBVIOUSLY REALLY HOT.\nLooked ok when cooked but when slicing HAD A LOT OF FAT THROUGHOUT THE MEAT.\nIt had SO MUCH SALT IN IT YOU COULDN'T TASTE THE MEAT ...I don't use Salt BUT if you are a person who adds Salt to their dinner BEWARE.\nOverall it LOOKED AND TASTED COMPLETELY PROCESSED.... DEFINITELY NOT WORTH $13.49.\n\nDo Aldi actually have COMPANY FOOD TASTERS ... People that ACTUALLY TASTE THEIR PRODUCTS before they decide to SELL THEM .... or do they all suffer with Ageusia !!!!! ?????",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gill",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/ad3e2e33-cedb-46fd-82d4-b23f704fb747"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/11dc5273-e2ff-4dd1-9970-d0f810714d67",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-02-03T03:29:51Z",
+            "headline": "Keep your receipts & awful cheap wines!",
+            "reviewBody": "While I can drink a bottle of other brands of Sangria & Moscato I can't even drink half a glass of Aldis without getting sick as a dog. The Moscato ruined my weekend away, I contacted Aldi but did they care!? NOT AT ALL, due to the fact I had not kept my receipt! How terrible! 'Oh because you haven't got a receipt, we can't do anything!' No compensation for my ruined weekend, allergic reaction and no apology.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joanna Ele B.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c73326bb-45c3-434d-8ca5-97fb50c6b75b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/c802dc2a-fa09-45da-b6f9-3fb07c0dc2f4",
+            "inLanguage": "en-AU",
+            "datePublished": "2022-01-31T19:27:07Z",
+            "headline": "Ambiano portable blender",
+            "reviewBody": "Works well but if u make a smoothie and have small lumps of fruit u cannot drink it without taking both top lids off because there is a strainer , the idea was its portable yes, but its like drinking from a glass jar. All very pretty etc but not that practible.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 3
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Debra",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/f87b709f-2939-4393-a5d5-04af6eacd85b"
+            }
+        }
+    ]
+}

@@ -1,0 +1,571 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Coles Supermarkets",
+    "url": "https://www.coles.com.au/",
+    "brand": {
+        "@type": "Brand",
+        "name": "Coles",
+        "logo": "https://cdn.productreview.com.au/resize/brand-logo/d0a94cb2-afa8-5059-b125-b133e948c303?dpr=2&height=96&v=2&width=96"
+    },
+    "image": "https://cdn.productreview.com.au/resize/listing-picture/ba80dc43-67e2-57c1-b5b6-d496801ccd54?height=630&v=2&width=1200&withoutEnlargement=true",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": 5,
+        "worstRating": 1,
+        "ratingValue": 2.3,
+        "reviewCount": 1910
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/acca06d1-f127-4d94-9f0c-eced79a09e35",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-30T23:19:11Z",
+            "headline": "Jazz apples",
+            "reviewBody": "I'm a fan of Jazz apples and even though expensive, Coles Constantly sells inferior products. You'd think they would reduce the price when their apples are of a low grade. 10 odd apples cost in excess of $12, at that price you would expect a premium product. My local grocery shop sells them at the same price but are premium, that's where I will be buying in the future.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "pauly",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/1bf94f73-646d-3928-a547-e42b821d3fbc"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e7177a72-c544-4b2b-b333-8b1acc2d1533",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-28T09:28:55Z",
+            "headline": "Rump steak is now rubbish",
+            "reviewBody": "I have purchased our rump steaks from coles for many years. Alway found it to be good to excellent quality. \nThe last 5 rump trays we have  purchased have been rubbish quality. The meat has a distict fishy taste and has a very grey appearance. \nVery poor quality since no butchers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Disapointed meateater",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8f8d1d6c-2d51-4170-a5c4-38ff71a450c9"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/efca394e-1051-4ca3-b4ae-2f1f3278adbc",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-27T05:00:27Z",
+            "headline": "No trust",
+            "reviewBody": "I was shocked when I came to know that the recent bought Oreo biscuits from North Armadale coles which is located in Champion drive, Seville Grove, WA-6112 store were expired 2and half months back. But it was too late that my kids already started having them and they were felt a bit of discomfort like keep burbing alot. I didn't expected this from a big store like Coles group. Here after I am going spend a bit of extra time to make sure the product that I am going to buy is within the due date. Because It lost its trust ness.. OMG..",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "kannan ramasamy",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/d46db144-e6e0-3274-a11c-7cbab61455bf"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/bd73dbcb-7a51-49ad-b96e-0dfb57755ba1",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-26T03:12:07Z",
+            "headline": "Disgusting greedy culture at coles and it\u2019s owners",
+            "reviewBody": "My wife and I accidentally both bought hams late Christmas Eve.  I tried to return them early Christmas Day.  The shop was closed.  I then went back early Boxing Day to be told I have to return hams within 30 min of buying them. \nReally.!!!   Shop was closed on Boxing Day.  Christmas Eve was not an suitable time.  What a joke. Pure scumbag behavior, greed and digesting attitude at coles. Where are these 30min return rules even written. !! No where to be found.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tony",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/45b858fc-62d2-3c5b-8fa4-8cbcaff1eabe"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/993fe428-fac3-4153-a59f-f1c427c57140",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-23T09:11:04Z",
+            "headline": "Half of order not delivered - still got charged for it - $47.00",
+            "reviewBody": "All of our refrigerated goods were not included in our delivery. Milk, custard, cheese, mousse, rice pudding, cheesecakes. So so annoying AND we've been charged for these goods $47.00. Plus I've had to waste an hour on the phone ringing around. And now I'll have to waste more time that I do not have, to run out and buy some milk.\n\nHow about either providing this service competently or shut it down altogether if you cannot do it. \n\nColes online cannot be trusted to deliver.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jen",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/b11cf1c5-2086-4f23-b448-d926091c9ef3"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/0e9abf1e-0163-4d67-8cbf-8911b2b534e5",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-20T00:13:53Z",
+            "headline": "Customer Care deliberately blocks customers",
+            "reviewBody": "Customer care keep cutting me off or putting me back to the original message. I have a case number and have been waiting for 3 weeks for a responce. Business and consumer affairs have told me it is a police matter. I suspect Coles customer \"care\" are behaving this way because they know their staff are guilty.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Michael",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/4a50bf09-510d-49da-b9d9-57abc4f0f4a5"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e848ca36-3b16-4923-8b57-98e2f81d0a89",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-16T04:47:23Z",
+            "headline": "Be sure to check your dockets if you shop at Coles Winmalee",
+            "reviewBody": "On 11th December I was charged $6.20 for a 10 pack of lemonade.  I never buy them, I didn't have them in my trolley so how do you scan what I don't have?  Something very dodgy is going on at this Coles. This has happened before. How do I prove it so I can get a refund?  Blue Mountains Council, please give us the Woolworths that everyone is asking for",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lady J",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/acc9ff25-f07c-4055-96de-4d03820d6179"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e0a93a63-1235-447a-b368-6de976634364",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-08T05:24:10Z",
+            "headline": "Crap as always",
+            "reviewBody": "Brought Cold Power laundry tablets but none in the box also brought nescafe caramel latte sachets to have plain coffee satchels in the box...mmm",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/eeba6f32-cc7c-4f2b-976b-931d11c1860f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/e8209ae3-e9e7-49d2-88fd-850fe1890e6f",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-07T01:00:22Z",
+            "headline": "BEWARE! Will ask for order cancellation fees of $30 for online orders which they cannot supply!",
+            "reviewBody": "I placed an online order for a supply of 37 items worth $ 100, all of which were shown to be available at the selected store. On the day of collection, i was emailed that they only have 7 items worth $ 15  and as a  matter of generosity, they have not charged me for the items not available! When I called up there call center, they insist on the $ 30 cancellation fees for canceling my order! Not the first time this is happening with coles! Fortunately, I have paid with Paypal and taking it up with PayPal for getting my money refunded. COLES ONLINE SUCKS!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Neeraj",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/9b20422a-d919-319b-bac4-7d11070d8872"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/713428ef-261b-4c80-87ef-6d5001b7584e",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-06T04:49:12Z",
+            "headline": "Disabled trolleys",
+            "reviewBody": "Strathpine Queensland store has one disability trolley, (which can be clipped onto a wheelchair). My elderly parents have consistently asked for extra trolleys to be made available, as they find it impossible to shop there without it. They won't shop online as they enjoy the conversations with the staff. My poor parents arrive, and if the one disability trolley isn't available they then have to drive home again without any shopping. My parents are both in their eighties and my mum is disabled. They have written and emailed the head office, but to no avail. Please, please show some compassion and supply more disabled friendly trolleys for your customers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jane",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/2c08e5dc-6510-46fe-a8a9-d48a97bda8fb"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d3257347-9e18-4d9f-add6-e9b6f00e6115",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-06T04:43:40Z",
+            "headline": "Coles Ashfield in NSW",
+            "reviewBody": "Coles Ashfield has a very unethical return policy depending the Service desk attendant. I'd misunderstood a Special offer by purchasing one item instead of two. Went back ASAP on first notice(next day) with receipt in hand and no intention on returning the product, I was denied taking up the offer by paying $1 more to get another $9 item. It's sad because a staff member on behalf of Coles has decided to take advantage of the situation and deny my single income family savings to further their bottom line. What's more damming is the Store Manager is backing his staff's decision as nobly as it is but on what premise was her discretionary decision made. Let's hope it's not bias and that the same treatment is dished out to favourable people in her eyes. Where's your Christmas spirit?? staff at Coles Ashfield!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "zk185015",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/6c5ff639-2549-4970-b07e-6d25c52f5fa0"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/6d3672d7-0764-4f08-b185-7e96e71927f7",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-05T05:39:11Z",
+            "headline": "Poor customer service",
+            "reviewBody": "What would be really fantastic, would be if a Coles executive actually took the time to read some of these reviews.\nI contacted Coles customer service online with a very simple request. Two weeks later still waiting for a response",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Steph",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/7780f5f9-7ccf-3cfd-b65a-0b52cb0f08ff"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/99286f09-1095-42de-992b-6ae0da035e8d",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-03T10:03:10Z",
+            "headline": "Click collect pickers",
+            "reviewBody": "Did a click and collect yesterday at Coles Lavington. Purchased a bag of rotten Mandarins that had a use by date of 2 remaining days.Thanks Coles. I  Love purchasing your rotten throw out stock at full price.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 2
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lee",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/8eeba7b6-98c7-3e58-b73b-4745f7ba4e3c"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/627c7998-42f5-481f-8235-82a73aa28e31",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-02T10:24:58Z",
+            "headline": "Underpaid Workers",
+            "reviewBody": "Coles has been caught underpaying it's employees. Whilst you and I pay exorbitant ripoff prices. Good reason why I no longer shop Coles.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ciao Telstra !",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/92d1cf0e-7515-3547-9de7-6eebb6486159"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/d6d08384-b801-4549-b164-5d1c554634dd",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-12-01T07:48:41Z",
+            "headline": "seems like selling counterfeit food /  Not quite right",
+            "reviewBody": "Bought this at coles. Does not seem to follow the legal food regulation standards.  Looks like dishwash soap is my food. This can really effect peoples health as food is injested. Doesnt taste right either and was pricey for this product. So upsetting.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "beth",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/af4893f0-3544-4403-9f6d-90b4e381aa39"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/7b4dd0fa-099d-499a-a737-2a5519a0b3f5",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-21T23:57:49Z",
+            "headline": "Stocking a substandard product",
+            "reviewBody": "Coles should stop stocking the Nescaf\u00e9 range of cafe sachets they are encouraging Nescaf\u00e9 to continue making this new and vastly inferior product and providing it to their unaware customers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "yabbie",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/81fb018d-92d2-3674-ba01-aea3172bec31"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/760d4ea4-4a04-494e-a6f3-8a8b03dc6c87",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-18T02:07:04Z",
+            "headline": "This is a scam what the hell.",
+            "reviewBody": "This is such a scam. Just look at the picture like bruh. What the hell Coles. I think Coles is scamming people.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anonymous",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/a2496406-c50f-456d-908b-eb60ff8629b7"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f794182d-3dbd-4b2c-8826-bca0173473a3",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-17T08:40:33Z",
+            "headline": "False advertising",
+            "reviewBody": "Over the last 2 catalogues coles have sliced Christmas cake but when trying to purchase non of their stores in my area have had any. Have spoken to duty manager at one store to be told never have had and complain to customer lack of care which I have and given standard answers due too covid and other problems they don't have any or have sold out. Well to them crap I have in different stores at 7 am on the Wednesday and no stock.\nSo why are this company able to continually false advertize and take us consumers for granted.  Les",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Les",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/08e4eb92-dbe2-363b-8d4b-7b6025515768"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/f8cf0643-5381-4712-b06d-590374b5837b",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-12T08:13:21Z",
+            "headline": "Coles Mareeba has no stock",
+            "reviewBody": "Coles Mareeba has had a lot of empty shelves for weeks now. I asked a staff member why so many shelves empty they blamed Covid. Which is a lie as I have been to coles and woollies in cairns which are all fully stocked. Maybe Mareeba Coles just has poor management.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Mike",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c1f871a3-e65f-45db-b069-ee15f4c2221f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/5b59c348-6bb0-48b0-ac5d-e530c584b531",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-10T05:00:41Z",
+            "headline": "Mould on my fresh corn cobs.",
+            "reviewBody": "Organic corn cobs purchased Sunday 7th November 2021 , I have had some bad produce from Coles in the past , but the mouldy old corn takes stale to a whole new level ! The photos I am posting says it all .... Not good enough Coles !",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carolina",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/80264c58-710b-3a1c-a13d-173f7c7a9f05"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/b3f93969-0a5d-4f4d-a9c7-189eb13cf0e7",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-08T02:25:52Z",
+            "headline": "I was wondering what the smell was",
+            "reviewBody": "I have purchased the \"I'm perfect\" 2kg apples for lunches. They may be odd sizes, varieties and have a few blemishes but they have lasted well and tasted great. But yesterday's purchase goes a bit past imperfect. Five out of the 11 in my bag have started decomposing!\nCome on Coles (Ipswich Central), these are not sell-able.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Maryanne V.",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/7f551c74-a48f-427b-9ae8-19bc27e18711"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/547b61d3-dc6c-4ff4-ad3d-e6929506cf93",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-07T09:00:13Z",
+            "headline": "Cole's Sesame Bagels - Drier than QLD in a drought",
+            "reviewBody": "My usual favs, Abe's Bagels weren't available so I decided to give Coles Sesame Bagels a go. Don't do it. Just DON'T! For the love of God, they were drier than a nun on Monday! Like eating saw dust in the shape of a bagel. New York's bagel artisan's would weep at the first nibble of these dusty doughnuts. Terrible. Instantly regrettable. Avoid at all costs, it's not worth the dry mouth.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Sam",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/37422733-2b72-4ce6-a6fb-3235612e652b"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/86f84093-8f0d-4eb6-83d2-ba2af02c7471",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-06T10:27:25Z",
+            "headline": "'Chef Inspired Finest' (yet 1 health-star rating)",
+            "reviewBody": "Coles Angus Beef Lasagne\n\n(1) the product is smothered in bechamel source (the top 2 cm), so the food is very runny; more the consistency of a drink, rather than a meal\n\n(2) the item has a health-star rating of 1 - This meal is not nutritious, and one can easily tell why\n\n(3) the sleeve says it 'serves 2' but after scooping off, and filling a large coffee mug of the bechamel sauce, it's effectively reduced to a single serve in size\n\n(4) there's very little beef in this product; it consists of a runny, sloppy consistency\n\nYet Coles labels their product 'Our Finest Discoveries - Coles Finest, Chef Inspired Angus Beef Lasagne'\n\nThis product appears to be falsely advertised\n\nStay well clear of this 'food' !!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 1
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Phill",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/32a8f410-7c42-463f-b4ea-215c77c62c05"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/51534c09-bb1a-4422-a425-6e464e8861ac",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-11-06T06:38:21Z",
+            "headline": "Various products and easy to access",
+            "reviewBody": "Recently I moved to a new house where coles is just walking distance. I find it is so easy to find products inside the shop due to its convenience.",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Asling",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/82b77938-cb2b-49a4-b61d-82b13b3db74f"
+            }
+        },
+        {
+            "@type": "Review",
+            "publisher": {
+                "@type": "Organization",
+                "name": "ProductReview.com.au",
+                "sameAs": "https://www.productreview.com.au"
+            },
+            "url": "https://www.productreview.com.au/reviews/8fb4eb24-edea-4c92-b992-0a7d830ebf4f",
+            "inLanguage": "en-AU",
+            "datePublished": "2021-10-25T04:55:16Z",
+            "headline": "Friendly staff!",
+            "reviewBody": "Raw tigar prowns, happen to be best here! Online delivery sometimes is lacking products already purchased.\nBut overall it's OK experience!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nikola",
+                "sameAs": "https://www.productreview.com.au/consumer-profiles/c21ba730-debb-4f40-841d-edad81b106ca"
+            }
+        }
+    ]
+}
